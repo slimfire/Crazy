@@ -4,4 +4,6 @@
 
 [Handshake](https://www.npmjs.com/package/handshake)
 
+[Meetup](https://www.npmjs.com/package/meetup)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
