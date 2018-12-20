@@ -6,4 +6,10 @@
 
 [Meetup](https://www.npmjs.com/package/meetup)
 
+[DP/Recursion](https://www.npmjs.com/package/recursion)
+
+[String](https://www.npmjs.com/package/string)
+
+[Array](https://www.npmjs.com/package/array)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
