@@ -12,4 +12,8 @@
 
 [Array](https://www.npmjs.com/package/array)
 
+[Prepare](https://www.npmjs.com/package/prepare)
+
+[D3](https://www.npmjs.com/package/d3)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
