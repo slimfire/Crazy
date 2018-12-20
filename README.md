@@ -24,7 +24,7 @@
 
 [DeckGL](https://www.npmjs.com/package/deck.gl)
 
-[WearOS](https://www.npmjs.com/package/nativescript-wear-os-listview)
+[PebbleKit](https://www.npmjs.com/package/message-queue-pebble)
 
 [Lead](https://www.npmjs.com/package/lead)
 
