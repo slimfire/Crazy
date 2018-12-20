@@ -24,4 +24,8 @@
 
 [DeckGL](https://www.npmjs.com/package/deck.gl)
 
+[WearOS](https://www.npmjs.com/package/nativescript-wear-os-listview)
+
+[Lead](https://www.npmjs.com/package/lead)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
