@@ -30,4 +30,6 @@
 
 [Recruiter](https://www.npmjs.com/package/recruiter_epiq_deps)
 
+[Three](https://www.npmjs.com/package/three)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
