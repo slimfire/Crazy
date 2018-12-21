@@ -32,4 +32,4 @@
 
 [Three](https://www.npmjs.com/package/three)
 
-[ReadyJS](https://www.npmjs.com/package/ready)
+[Ready](https://www.npmjs.com/package/ready)
