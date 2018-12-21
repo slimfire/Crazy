@@ -28,4 +28,6 @@
 
 [Lead](https://www.npmjs.com/package/lead)
 
+[Recruiter](https://www.npmjs.com/package/recruiter_epiq_deps)
+
 [ReadyJS](https://www.npmjs.com/package/ready)
