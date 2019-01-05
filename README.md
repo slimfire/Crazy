@@ -37,3 +37,5 @@
 [cc](https://www.npmjs.com/package/cc)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Classroom](https://www.npmjs.com/package/classroom)
