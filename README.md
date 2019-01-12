@@ -40,8 +40,4 @@
 
 [Classroom](https://www.npmjs.com/package/classroom)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Chemical](https://www.npmjs.com/package/chemical)
-
 
