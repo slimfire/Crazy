@@ -40,4 +40,7 @@
 
 [Classroom](https://www.npmjs.com/package/classroom)
 
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Anger](https://www.npmjs.com/package/anger)
 
