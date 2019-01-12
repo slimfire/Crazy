@@ -44,3 +44,7 @@
 
 [Anger](https://www.npmjs.com/package/anger)
 
+[Tiny](https://www.npmjs.com/package/tiny)
+
+[Dummy](https://www.npmjs.com/package/dummy)
+
