@@ -46,5 +46,9 @@
 
 [Tiny](https://www.npmjs.com/package/tiny)
 
-[Dummy](https://www.npmjs.com/package/dummy)
+[Dummy](https://www.npmjs.com/package/dummy
+
+[compition](https://www.npmjs.com/package/compition)
+
+[Abuse](https://www.npmjs.com/package/abuse)
 
