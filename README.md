@@ -53,3 +53,5 @@
 [Abuse](https://www.npmjs.com/package/abuse)
 
 [Stability](https://www.npmjs.com/package/stability)
+
+[Credit](https://www.npmjs.com/package/credit)
