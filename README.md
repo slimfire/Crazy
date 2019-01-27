@@ -36,8 +36,6 @@
 
 [cc](https://www.npmjs.com/package/cc)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Classroom](https://www.npmjs.com/package/classroom)
 
 [RGB](https://www.npmjs.com/package/rgb)
@@ -57,3 +55,7 @@
 [Credit](https://www.npmjs.com/package/credit)
 
 [Contrail](https://github.com/Juniper/contrail)
+
+[Instruction](https://www.npmjs.com/package/instruction)
+
+[Ready](https://www.npmjs.com/package/ready)
