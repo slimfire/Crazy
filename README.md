@@ -32,11 +32,7 @@
 
 [Three](https://www.npmjs.com/package/three)
 
-[cart](https://www.npmjs.com/package/cart)
-
 [cc](https://www.npmjs.com/package/cc)
-
-[Classroom](https://www.npmjs.com/package/classroom)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
@@ -50,11 +46,17 @@
 
 [Abuse](https://www.npmjs.com/package/abuse)
 
-[Stability](https://www.npmjs.com/package/stability)
-
 [Credit](https://www.npmjs.com/package/credit)
 
 [Contrail](https://github.com/Juniper/contrail)
+
+[Classroom](https://www.npmjs.com/package/classroom)
+
+[Cart](https://www.npmjs.com/package/cart)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[More](https://www.npmjs.com/package/more)
 
 [Instruction](https://www.npmjs.com/package/instruction)
 
