@@ -62,4 +62,6 @@
 
 [hci](https://www.npmjs.com/package/hci)
 
+[xy](https://www.npmjs.com/package/xy)
+
 [Ready](https://www.npmjs.com/package/ready)
