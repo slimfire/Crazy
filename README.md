@@ -58,4 +58,6 @@
 
 [Instruction](https://www.npmjs.com/package/instruction)
 
+[hci](https://www.npmjs.com/package/hci)
+
 [Ready](https://www.npmjs.com/package/ready)
