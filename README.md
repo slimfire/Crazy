@@ -64,6 +64,4 @@
 
 [xy](https://www.npmjs.com/package/xy)
 
-[Paragraph](https://www.npmjs.com/package/paragraph)
-
 [Ready](https://www.npmjs.com/package/ready)
