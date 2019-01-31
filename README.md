@@ -64,6 +64,4 @@
 
 [xy](https://www.npmjs.com/package/xy)
 
-[Fedex](https://www.npmjs.com/package/fedex)
-
 [Ready](https://www.npmjs.com/package/ready)
