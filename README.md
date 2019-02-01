@@ -60,8 +60,8 @@
 
 [Instruction](https://www.npmjs.com/package/instruction)
 
-[hci](https://www.npmjs.com/package/hci)
-
 [xy](https://www.npmjs.com/package/xy)
+
+[hci](https://www.npmjs.com/package/hci)
 
 [Ready](https://www.npmjs.com/package/ready)
