@@ -62,8 +62,6 @@
 
 [xy](https://www.npmjs.com/package/xy)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [hci](https://www.npmjs.com/package/hci)
 
-[Stack](https://www.npmjs.com/package/stack)
+[Ready](https://www.npmjs.com/package/ready)
