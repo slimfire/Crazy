@@ -64,6 +64,8 @@
 
 [hci](https://www.npmjs.com/package/hci)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Collapse](https://www.npmjs.com/package/collapse)
+
+[Retention](https://www.npmjs.com/package/retention)
+
+[Ready](https://www.npmjs.com/package/ready)
