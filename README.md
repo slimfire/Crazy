@@ -68,6 +68,8 @@
 
 [Retention](https://www.npmjs.com/package/retention)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Latency](https://www.npmjs.com/package/latency)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Ready](https://www.npmjs.com/package/ready)
