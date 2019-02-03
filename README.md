@@ -64,8 +64,6 @@
 
 [hci](https://www.npmjs.com/package/hci)
 
-[Collapse](https://www.npmjs.com/package/collapse)
-
 [Retention](https://www.npmjs.com/package/retention)
 
 [Latency](https://www.npmjs.com/package/latency)
@@ -73,3 +71,5 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Collapse](https://www.npmjs.com/package/collapse)
