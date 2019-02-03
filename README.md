@@ -71,3 +71,5 @@
 [Partner](https://www.npmjs.com/package/partner)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Latency](https://www.npmjs.com/package/latency)
