@@ -72,6 +72,6 @@
 
 [Collapse](https://www.npmjs.com/package/collapse)
 
-[Router](https://www.npmjs.com/package/router)
+[Networking](https://www.npmjs.com/package/networking)
 
 [Ready](https://www.npmjs.com/package/ready)
