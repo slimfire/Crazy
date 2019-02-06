@@ -86,8 +86,11 @@
 
 [SDN](https://www.npmjs.com/package/sdn)
 
-[Delivery](https://www.npmjs.com/package/delivery)
-
 [Ready](https://www.npmjs.com/package/ready)
 
 [DDoS](https://www.npmjs.com/package/ddos)
+
+[Puppet](https://www.npmjs.com/package/puppet)
+
+[Delivery](https://www.npmjs.com/package/delivery)
+
