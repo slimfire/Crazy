@@ -74,4 +74,14 @@
 
 [Networking](https://www.npmjs.com/package/networking)
 
+[Physical](https://github.com/mattdesl/physical-text)
+
+[Ok](https://www.npmjs.com/package/ok)
+
+[Registration](https://www.npmjs.com/package/registration)
+
+[Init](https://www.npmjs.com/package/init)
+
+[Wait](https://www.npmjs.com/package/wait)
+
 [Ready](https://www.npmjs.com/package/ready)
