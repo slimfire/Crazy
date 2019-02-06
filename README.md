@@ -100,5 +100,9 @@
 
 [End](https://www.npmjs.com/package/end)
 
+[Mock](https://www.npmjs.com/package/mock)
+
+[Integration](https://www.npmjs.com/package/integration)
+
 [Ready](https://www.npmjs.com/package/ready)
 
