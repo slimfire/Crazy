@@ -74,4 +74,6 @@
 
 [Networking](https://www.npmjs.com/package/networking)
 
+[Physical](https://github.com/mattdesl/physical-text)
+
 [Ready](https://www.npmjs.com/package/ready)
