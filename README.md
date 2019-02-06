@@ -96,5 +96,9 @@
 
 [Public](https://www.npmjs.com/package/public)
 
+[Hop](https://www.npmjs.com/package/hop)
+
+[End](https://www.npmjs.com/package/end)
+
 [Ready](https://www.npmjs.com/package/ready)
 
