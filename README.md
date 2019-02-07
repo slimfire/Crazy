@@ -86,7 +86,7 @@
 
 [SDN](https://www.npmjs.com/package/sdn)
 
-[DDoS](https://www.npmjs.com/package/ddos)
+[DenialOfService](https://www.npmjs.com/package/ddos)
 
 [Puppet](https://www.npmjs.com/package/puppet)
 
