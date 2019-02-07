@@ -86,8 +86,6 @@
 
 [SDN](https://www.npmjs.com/package/sdn)
 
-[DenialOfService](https://www.npmjs.com/package/ddos)
-
 [Puppet](https://www.npmjs.com/package/puppet)
 
 [Delivery](https://www.npmjs.com/package/delivery)
@@ -106,7 +104,7 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Event-Stream](https://www.npmjs.com/package/event-stream)
+[Vote](https://www.npmjs.com/package/vote)
 
-
+[DenialOfService](https://www.npmjs.com/package/ddos)
 
