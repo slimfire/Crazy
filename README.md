@@ -102,8 +102,6 @@
 
 [Integration](https://www.npmjs.com/package/integration)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [DenialOfService](https://www.npmjs.com/package/ddos)
@@ -117,3 +115,7 @@
 [Priority](https://www.npmjs.com/package/priority)
 
 [Next](https://www.npmjs.com/package/next)
+
+[Remote](https://www.npmjs.com/package/remote)
+
+[Ready](https://www.npmjs.com/package/ready)
