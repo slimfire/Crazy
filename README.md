@@ -108,3 +108,6 @@
 
 [DenialOfService](https://www.npmjs.com/package/ddos)
 
+[Adaptive](https://www.npmjs.com/package/adaptive)
+
+[Complement](https://www.npmjs.com/package/complement)
