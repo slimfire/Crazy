@@ -111,3 +111,9 @@
 [Adaptive](https://www.npmjs.com/package/adaptive)
 
 [Complement](https://www.npmjs.com/package/complement)
+
+[Config](https://www.npmjs.com/package/config)
+
+[Priority](https://www.npmjs.com/package/priority)
+
+[Next](https://www.npmjs.com/package/next)
