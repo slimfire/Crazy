@@ -96,8 +96,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[End](https://www.npmjs.com/package/end)
-
 [Mock](https://www.npmjs.com/package/mock)
 
 [Integration](https://www.npmjs.com/package/integration)
@@ -110,8 +108,6 @@
 
 [Complement](https://www.npmjs.com/package/complement)
 
-[Config](https://www.npmjs.com/package/config)
-
 [Priority](https://www.npmjs.com/package/priority)
 
 [Next](https://www.npmjs.com/package/next)
@@ -119,3 +115,9 @@
 [Remote](https://www.npmjs.com/package/remote)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Config](https://www.npmjs.com/package/config)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[End](https://www.npmjs.com/package/end)
