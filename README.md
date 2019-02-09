@@ -128,3 +128,11 @@
 
 [Filter](https://www.npmjs.com/package/filter)
 
+[Entity](https://www.npmjs.com/package/entity)
+
+[Configuration](https://www.npmjs.com/package/configuration)
+
+[Active](https://www.npmjs.com/package/active)
+
+[Update](https://www.npmjs.com/package/update)
+
