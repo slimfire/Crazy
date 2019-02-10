@@ -114,8 +114,6 @@
 
 [Remote](https://www.npmjs.com/package/remote)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Config](https://www.npmjs.com/package/config)
 
 [Topology](https://www.npmjs.com/package/topology)
@@ -141,3 +139,7 @@
 [Null](https://www.npmjs.com/package/null)
 
 [Build](https://www.npmjs.com/package/build)
+
+[Router](https://www.npmjs.com/package/router)
+
+[Ready](https://www.npmjs.com/package/ready)
