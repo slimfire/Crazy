@@ -142,4 +142,6 @@
 
 [Router](https://www.npmjs.com/package/router)
 
+[Deploy](https://www.npmjs.com/package/deploy)
+
 [Ready](https://www.npmjs.com/package/ready)
