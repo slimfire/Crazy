@@ -158,4 +158,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
+[Traffic](https://www.npmjs.com/package/traffic)
+
 [Vote](https://www.npmjs.com/package/vote)
