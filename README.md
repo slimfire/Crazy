@@ -151,3 +151,9 @@
 [Utah](https://github.com/iammerrick/utahjs.com)
 
 [Oklahoma](https://www.npmjs.com/package/oklahoma)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Assault](https://www.npmjs.com/package/assault)
+
+[Vote](https://www.npmjs.com/package/vote)
