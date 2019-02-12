@@ -156,4 +156,6 @@
 
 [Assault](https://www.npmjs.com/package/assault)
 
+[Cough](https://www.npmjs.com/package/cough)
+
 [Vote](https://www.npmjs.com/package/vote)
