@@ -68,8 +68,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Collapse](https://www.npmjs.com/package/collapse)
-
 [Networking](https://www.npmjs.com/package/networking)
 
 [Physical](https://github.com/mattdesl/physical-text)
@@ -173,3 +171,5 @@
 [Lobby](https://www.npmjs.com/package/lobby)
 
 [Reponsibility](https://www.npmjs.com/package/responsibility)
+
+[Collapse](https://www.npmjs.com/package/collapse)
