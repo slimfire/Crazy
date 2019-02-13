@@ -30,8 +30,6 @@
 
 [Recruiter](https://www.npmjs.com/package/recruiter_epiq_deps)
 
-[Three](https://www.npmjs.com/package/three)
-
 [cc](https://www.npmjs.com/package/cc)
 
 [RGB](https://www.npmjs.com/package/rgb)
@@ -161,3 +159,16 @@
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Vote](https://www.npmjs.com/package/vote)
+
+[One](https://www.npmjs.com/package/one)
+
+[Two](https://www.npmjs.com/package/two)
+
+[Three](https://www.npmjs.com/package/three)
+
+[Count](https://www.npmjs.com/package/count)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+
+
