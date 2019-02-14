@@ -173,3 +173,7 @@
 [Reponsibility](https://www.npmjs.com/package/responsibility)
 
 [Collapse](https://www.npmjs.com/package/collapse)
+
+[Europe](https://www.npmjs.com/search?q=europe)
+
+[Bored](https://www.npmjs.com/package/bored)
