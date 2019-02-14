@@ -56,8 +56,6 @@
 
 [More](https://www.npmjs.com/package/more)
 
-[Instruction](https://www.npmjs.com/package/instruction)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [hci](https://www.npmjs.com/package/hci)
@@ -154,8 +152,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Traffic](https://www.npmjs.com/package/traffic)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [One](https://www.npmjs.com/package/one)
@@ -177,3 +173,7 @@
 [Europe](https://www.npmjs.com/search?q=europe)
 
 [Bored](https://www.npmjs.com/package/bored)
+
+[Traffic](https://www.npmjs.com/package/traffic)
+
+[Flu](https://www.npmjs.com/package/flu)
