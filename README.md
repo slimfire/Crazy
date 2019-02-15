@@ -170,7 +170,7 @@
 
 [Collapse](https://www.npmjs.com/package/collapse)
 
-[Europe](https://www.npmjs.com/search?q=europe)
+[Ireland](https://www.npmjs.com/package/ireland)
 
 [Bored](https://www.npmjs.com/package/bored)
 
