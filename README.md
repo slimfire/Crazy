@@ -183,3 +183,7 @@
 [Orlando](https://www.npmjs.com/package/orlando)
 
 [Weed](https://www.npmjs.com/package/weed)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
