@@ -30,8 +30,6 @@
 
 [Recruiter](https://www.npmjs.com/package/recruiter_epiq_deps)
 
-[cc](https://www.npmjs.com/package/cc)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Anger](https://www.npmjs.com/package/anger)
@@ -138,8 +136,6 @@
 
 [Deploy](https://www.npmjs.com/package/deploy)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Ref](https://www.npmjs.com/package/ref)
 
 [Utah](https://github.com/iammerrick/utahjs.com)
@@ -189,3 +185,7 @@
 [UUID](https://www.npmjs.com/package/uuid)
 
 [Loading](https://www.npmjs.com/package/loading)
+
+[cc](https://www.npmjs.com/package/cc)
+
+[Ready](https://www.npmjs.com/package/ready)
