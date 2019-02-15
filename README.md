@@ -178,6 +178,8 @@
 
 [Flu](https://www.npmjs.com/package/flu)
 
+[Apology](https://www.npmjs.com/package/apology)
+
 [Orlando](https://www.npmjs.com/package/orlando)
 
 [Weed](https://www.npmjs.com/package/weed)
