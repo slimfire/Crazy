@@ -30,6 +30,8 @@
 
 [Recruiter](https://www.npmjs.com/package/recruiter_epiq_deps)
 
+[cc](https://www.npmjs.com/package/cc)
+
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Anger](https://www.npmjs.com/package/anger)
@@ -61,8 +63,6 @@
 [Retention](https://www.npmjs.com/package/retention)
 
 [Latency](https://www.npmjs.com/package/latency)
-
-[Contact](https://www.npmjs.com/package/contact)
 
 [Networking](https://www.npmjs.com/package/networking)
 
@@ -186,6 +186,6 @@
 
 [Loading](https://www.npmjs.com/package/loading)
 
-[cc](https://www.npmjs.com/package/cc)
+[Contact](https://www.npmjs.com/package/contact)
 
 [Ready](https://www.npmjs.com/package/ready)
