@@ -187,3 +187,5 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Loading](https://www.npmjs.com/package/loading)
