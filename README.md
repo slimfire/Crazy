@@ -191,9 +191,3 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Question](https://www.npmjs.com/package/question)
-
-[Pro](https://www.npmjs.com/package/pro)
-
-[Intern](https://www.npmjs.com/package/intern)
