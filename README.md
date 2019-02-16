@@ -92,8 +92,6 @@
 
 [Integration](https://www.npmjs.com/package/integration)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [DenialOfService](https://www.npmjs.com/package/ddos)
 
 [Adaptive](https://www.npmjs.com/package/adaptive)
@@ -189,3 +187,7 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Logout](https://www.npmjs.com/package/logout)
