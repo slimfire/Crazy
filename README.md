@@ -32,8 +32,6 @@
 
 [cc](https://www.npmjs.com/package/cc)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Anger](https://www.npmjs.com/package/anger)
 
 [Tiny](https://www.npmjs.com/package/tiny)
@@ -191,3 +189,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Split](https://www.npmjs.com/package/split)
