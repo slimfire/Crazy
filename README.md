@@ -176,10 +176,6 @@
 
 [Weed](https://www.npmjs.com/package/weed)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Loading](https://www.npmjs.com/package/loading)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -193,3 +189,7 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
