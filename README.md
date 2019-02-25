@@ -162,10 +162,6 @@
 
 [Collapse](https://www.npmjs.com/package/collapse)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
-[Bored](https://www.npmjs.com/package/bored)
-
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Flu](https://www.npmjs.com/package/flu)
@@ -193,3 +189,9 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Bored](https://www.npmjs.com/package/bored)
+
+[Beer](https://www.npmjs.com/package/beerjs)
