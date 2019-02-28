@@ -182,10 +182,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
-[Split](https://www.npmjs.com/package/split)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -195,3 +191,9 @@
 [Bored](https://www.npmjs.com/package/bored)
 
 [Beer](https://www.npmjs.com/package/beerjs)
+
+[Room](https://www.npmjs.com/package/room)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Split](https://www.npmjs.com/package/split)
