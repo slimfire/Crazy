@@ -182,10 +182,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Bored](https://www.npmjs.com/package/bored)
@@ -197,3 +193,7 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
