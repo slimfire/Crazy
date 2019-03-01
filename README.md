@@ -50,8 +50,6 @@
 
 [Cart](https://www.npmjs.com/package/cart)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [More](https://www.npmjs.com/package/more)
 
 [xy](https://www.npmjs.com/package/xy)
@@ -174,15 +172,11 @@
 
 [Loading](https://www.npmjs.com/package/loading)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Ready](https://www.npmjs.com/package/ready)
 
 [Vote](https://www.npmjs.com/package/vote)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Ireland](https://www.npmjs.com/package/ireland)
 
 [Bored](https://www.npmjs.com/package/bored)
 
@@ -197,3 +191,11 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Spy](https://www.npmjs.com/package/spy)
