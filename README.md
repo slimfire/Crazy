@@ -182,8 +182,6 @@
 
 [Room](https://www.npmjs.com/package/room)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Name](https://www.npmjs.com/package/name)
@@ -201,3 +199,9 @@
 [Target](https://www.npmjs.com/package/target)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Profile](https://www.npmjs.com/package/profile)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[ill](https://www.npmjs.com/package/ill)
