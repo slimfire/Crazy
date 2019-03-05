@@ -205,3 +205,5 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [ill](https://www.npmjs.com/package/ill)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
