@@ -142,8 +142,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [One](https://www.npmjs.com/package/one)
 
 [Two](https://www.npmjs.com/package/two)
@@ -182,15 +180,11 @@
 
 [Room](https://www.npmjs.com/package/room)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
 
 [Ireland](https://www.npmjs.com/package/ireland)
-
-[Fam](https://www.npmjs.com/package/fam)
 
 [Contact](https://www.npmjs.com/package/contact)
 
@@ -209,3 +203,10 @@
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Split](https://www.npmjs.com/package/split)
+
