@@ -214,8 +214,10 @@
 
 [Security](https://www.npmjs.com/package/security)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Infinity](https://www.npmjs.com/package/infinity)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
