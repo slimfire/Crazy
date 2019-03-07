@@ -208,8 +208,6 @@
 
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Platform](https://www.npmjs.com/package/platform)
@@ -217,3 +215,7 @@
 [Security](https://www.npmjs.com/package/security)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
