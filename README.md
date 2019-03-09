@@ -222,6 +222,4 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Customers](https://www.npmjs.com/package/customers)
-
 [Business](https://www.npmjs.com/package/business)
