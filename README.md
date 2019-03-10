@@ -162,8 +162,6 @@
 
 [Apology](https://www.npmjs.com/package/apology)
 
-[Orlando](https://www.npmjs.com/package/orlando)
-
 [Weed](https://www.npmjs.com/package/weed)
 
 [Loading](https://www.npmjs.com/package/loading)
@@ -187,8 +185,6 @@
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Contact](https://www.npmjs.com/package/contact)
-
-[Spy](https://www.npmjs.com/package/spy)
 
 [Target](https://www.npmjs.com/package/target)
 
@@ -227,3 +223,7 @@
 [Win](https://www.npmjs.com/package/win)
 
 [Together](https://www.npmjs.com/package/together)
+
+[Orlando](https://www.npmjs.com/package/orlando)
+
+[Spy](https://www.npmjs.com/package/spy)
