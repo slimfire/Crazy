@@ -190,8 +190,6 @@
 
 [Profile](https://www.npmjs.com/package/profile)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [ill](https://www.npmjs.com/package/ill)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -216,8 +214,6 @@
 
 [Infinity](https://www.npmjs.com/package/infinity)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Business](https://www.npmjs.com/package/business)
 
 [Win](https://www.npmjs.com/package/win)
@@ -235,3 +231,9 @@
 [Routing](https://www.npmjs.com/package/routing)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Open](https://www.npmjs.com/package/open)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
