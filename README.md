@@ -227,3 +227,11 @@
 [Orlando](https://www.npmjs.com/package/orlando)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[French](https://www.npmjs.com/package/french)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Hop](https://www.npmjs.com/package/hop)
