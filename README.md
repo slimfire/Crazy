@@ -243,5 +243,3 @@
 [Partner](https://www.npmjs.com/package/partner)
 
 [Sync](https://www.npmjs.com/package/sync)
-
-[Propagate](https://www.npmjs.com/package/propagate)
