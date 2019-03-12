@@ -140,8 +140,6 @@
 
 [Assault](https://www.npmjs.com/package/assault)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [One](https://www.npmjs.com/package/one)
 
 [Two](https://www.npmjs.com/package/two)
@@ -237,3 +235,7 @@
 [Open](https://www.npmjs.com/package/open)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
