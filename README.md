@@ -38,8 +38,6 @@
 
 [Dummy](https://www.npmjs.com/package/dummy)
 
-[competition](https://www.npmjs.com/package/competition)
-
 [Abuse](https://www.npmjs.com/package/abuse)
 
 [Credit](https://www.npmjs.com/package/credit)
@@ -239,3 +237,7 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Competition](https://www.npmjs.com/package/competition)
+
+[Partner](https://www.npmjs.com/package/partner)
