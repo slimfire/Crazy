@@ -100,8 +100,6 @@
 
 [Config](https://www.npmjs.com/package/config)
 
-[Topology](https://www.npmjs.com/package/topology)
-
 [End](https://www.npmjs.com/package/end)
 
 [Event](https://www.npmjs.com/package/event)
@@ -224,8 +222,6 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Open](https://www.npmjs.com/package/open)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -246,3 +242,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
+[Topology](https://www.npmjs.com/package/topology)
+
+[Hop](https://www.npmjs.com/package/hop)
