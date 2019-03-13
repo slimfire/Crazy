@@ -164,8 +164,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Bored](https://www.npmjs.com/package/bored)
@@ -228,8 +226,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Open](https://www.npmjs.com/package/open)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -245,4 +241,8 @@
 [Sync](https://www.npmjs.com/package/sync)
 
 [Propagate](https://www.npmjs.com/package/propagate)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[RGB](https://www.npmjs.com/package/rgb)
 
