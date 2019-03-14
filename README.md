@@ -224,8 +224,6 @@
 
 [Open](https://www.npmjs.com/package/open)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -245,3 +243,7 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [hop](https://www.npmjs.com/package/hop)
+
+[x](https://www.npmjs.com/package/x)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
