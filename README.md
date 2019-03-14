@@ -244,4 +244,4 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Hop](https://www.npmjs.com/package/hop)
+[hop](https://www.npmjs.com/package/hop)
