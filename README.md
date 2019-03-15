@@ -226,8 +226,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Competition](https://www.npmjs.com/package/competition)
 
 [Partner](https://www.npmjs.com/package/partner)
@@ -247,3 +245,11 @@
 [x](https://www.npmjs.com/package/x)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Transmission](https://www.npmjs.com/package/transmission)
+
+[Fix](https://www.npmjs.com/package/fix)
+
+[Delay](https://www.npmjs.com/package/delay)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
