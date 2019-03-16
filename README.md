@@ -224,8 +224,6 @@
 
 [Open](https://www.npmjs.com/package/open)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Competition](https://www.npmjs.com/package/competition)
 
 [Partner](https://www.npmjs.com/package/partner)
@@ -251,5 +249,7 @@
 [Fix](https://www.npmjs.com/package/fix)
 
 [Delay](https://www.npmjs.com/package/delay)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
