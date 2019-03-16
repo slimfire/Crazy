@@ -172,8 +172,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Target](https://www.npmjs.com/package/target)
@@ -232,8 +230,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[hop](https://www.npmjs.com/package/hop)
-
 [x](https://www.npmjs.com/package/x)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -256,4 +252,10 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Ireland](https://www.npmjs.com/package/ireland)
 
+[Pink](https://www.npmjs.com/package/pink)
+
+[atm](https://www.npmjs.com/package/atm)
+
+[hop](https://www.npmjs.com/package/hop)
