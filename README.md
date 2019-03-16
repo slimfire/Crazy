@@ -162,8 +162,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Bored](https://www.npmjs.com/package/bored)
 
 [Beer](https://www.npmjs.com/package/beerjs)
@@ -232,10 +230,6 @@
 
 [Propagate](https://www.npmjs.com/package/propagate)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [hop](https://www.npmjs.com/package/hop)
@@ -253,3 +247,13 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Dialog](https://www.npmjs.com/package/dialog)
+
+[Logout](https://www.npmjs.com/package/logout)
+
+
