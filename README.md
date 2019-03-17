@@ -240,10 +240,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Dialog](https://www.npmjs.com/package/dialog)
@@ -259,3 +255,9 @@
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [hop](https://www.npmjs.com/package/hop)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Failure](https://www.npmjs.com/package/failure)
