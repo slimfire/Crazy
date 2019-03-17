@@ -196,8 +196,6 @@
 
 [Security](https://www.npmjs.com/package/security)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Infinity](https://www.npmjs.com/package/infinity)
@@ -257,5 +255,7 @@
 [Pink](https://www.npmjs.com/package/pink)
 
 [atm](https://www.npmjs.com/package/atm)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
 
 [hop](https://www.npmjs.com/package/hop)
