@@ -236,8 +236,6 @@
 
 [Delay](https://www.npmjs.com/package/delay)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Dialog](https://www.npmjs.com/package/dialog)
@@ -261,3 +259,7 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [hop](https://www.npmjs.com/package/hop)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Robot](https://www.npmjs.com/package/robot)
