@@ -226,8 +226,6 @@
 
 [Propagate](https://www.npmjs.com/package/propagate)
 
-[Topology](https://www.npmjs.com/package/topology)
-
 [x](https://www.npmjs.com/package/x)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -252,12 +250,14 @@
 
 [atm](https://www.npmjs.com/package/atm)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
-[hop](https://www.npmjs.com/package/hop)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Failure](https://www.npmjs.com/package/failure)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[hop](https://www.npmjs.com/package/hop)
