@@ -188,8 +188,6 @@
 
 [Video](https://www.npmjs.com/package/video)
 
-[Monitoring](https://www.npmjs.com/package/monitoring)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Platform](https://www.npmjs.com/package/platform)
@@ -250,8 +248,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Failure](https://www.npmjs.com/package/failure)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
@@ -263,3 +259,7 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Monitoring](https://www.npmjs.com/package/monitoring)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
