@@ -234,8 +234,6 @@
 
 [Delay](https://www.npmjs.com/package/delay)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Dialog](https://www.npmjs.com/package/dialog)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -244,9 +242,9 @@
 
 [Pink](https://www.npmjs.com/package/pink)
 
-[atm](https://www.npmjs.com/package/atm)
+[RGB](https://www.npmjs.com/package/rgb)
 
-[Vote](https://www.npmjs.com/package/vote)
+[atm](https://www.npmjs.com/package/atm)
 
 [Failure](https://www.npmjs.com/package/failure)
 
@@ -263,3 +261,5 @@
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
