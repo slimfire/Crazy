@@ -242,8 +242,6 @@
 
 [Pink](https://www.npmjs.com/package/pink)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [atm](https://www.npmjs.com/package/atm)
 
 [Failure](https://www.npmjs.com/package/failure)
@@ -263,3 +261,5 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Vote](https://www.npmjs.com/package/vote)
+
+[RGB](https://www.npmjs.com/package/rgb)
