@@ -80,8 +80,6 @@
 
 [Public](https://www.npmjs.com/package/public)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Mock](https://www.npmjs.com/package/mock)
 
 [Integration](https://www.npmjs.com/package/integration)
@@ -263,3 +261,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Hop](https://www.npmjs.com/package/hop)
