@@ -248,10 +248,6 @@
 
 [hop](https://www.npmjs.com/package/hop)
 
-[Cough](https://www.npmjs.com/package/cough)
-
-[Robot](https://www.npmjs.com/package/robot)
-
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -267,3 +263,9 @@
 [xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
+
+[OnEvent](https://www.npmjs.com/package/onevent)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Robot](https://www.npmjs.com/package/robot)
