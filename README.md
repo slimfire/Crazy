@@ -50,8 +50,6 @@
 
 [More](https://www.npmjs.com/package/more)
 
-[xy](https://www.npmjs.com/package/xy)
-
 [hci](https://www.npmjs.com/package/hci)
 
 [Retention](https://www.npmjs.com/package/retention)
@@ -265,3 +263,7 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[xx](https://www.npmjs.com/package/xx)
+
+[xy](https://www.npmjs.com/package/xy)
