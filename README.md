@@ -162,8 +162,6 @@
 
 [Beer](https://www.npmjs.com/package/beerjs)
 
-[Room](https://www.npmjs.com/package/room)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -222,8 +220,6 @@
 
 [x](https://www.npmjs.com/package/x)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Transmission](https://www.npmjs.com/package/transmission)
 
 [Fix](https://www.npmjs.com/package/fix)
@@ -252,10 +248,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Hop](https://www.npmjs.com/package/hop)
@@ -269,3 +261,11 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Room](https://www.npmjs.com/package/room)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
