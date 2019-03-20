@@ -248,10 +248,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Breach](https://www.npmjs.com/package/breach)
-
-[Hop](https://www.npmjs.com/package/hop)
-
 [xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
@@ -262,10 +258,16 @@
 
 [Robot](https://www.npmjs.com/package/robot)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Room](https://www.npmjs.com/package/room)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Steps](https://www.npmjs.com/package/step)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Hop](https://www.npmjs.com/package/hop)
