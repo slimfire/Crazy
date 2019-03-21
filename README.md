@@ -252,15 +252,11 @@
 
 [OnEvent](https://www.npmjs.com/package/onevent)
 
-[Robot](https://www.npmjs.com/package/robot)
-
 [Room](https://www.npmjs.com/package/room)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Steps](https://www.npmjs.com/package/step)
 
@@ -268,7 +264,12 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Persistent](https://www.npmjs.com/package/persistent)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Robot](https://www.npmjs.com/package/robot)
