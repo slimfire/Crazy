@@ -236,8 +236,6 @@
 
 [atm](https://www.npmjs.com/package/atm)
 
-[Failure](https://www.npmjs.com/package/failure)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Topology](https://www.npmjs.com/package/topology)
@@ -264,16 +262,16 @@
 
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fight](https://www.npmjs.com/package/fight)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Failure](https://www.npmjs.com/package/failure)
