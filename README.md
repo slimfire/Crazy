@@ -266,10 +266,14 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fight](https://www.npmjs.com/package/fight)
+
+
