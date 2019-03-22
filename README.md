@@ -230,8 +230,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Pink](https://www.npmjs.com/package/pink)
 
 [atm](https://www.npmjs.com/package/atm)
@@ -252,13 +250,9 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Steps](https://www.npmjs.com/package/step)
 
 [Breach](https://www.npmjs.com/package/breach)
-
-[Hop](https://www.npmjs.com/package/hop)
 
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
@@ -275,3 +269,11 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Failure](https://www.npmjs.com/package/failure)
+
+[Stack](https://www.npmjs.com/package/stack)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Hop](https://www.npmjs.com/package/hop)
