@@ -204,8 +204,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[French](https://www.npmjs.com/package/french)
-
 [Routing](https://www.npmjs.com/package/routing)
 
 [Open](https://www.npmjs.com/package/open)
@@ -264,8 +262,6 @@
 
 [Fight](https://www.npmjs.com/package/fight)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Failure](https://www.npmjs.com/package/failure)
@@ -275,5 +271,9 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Ireland](https://www.npmjs.com/package/ireland)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[French](https://www.npmjs.com/package/french)
 
 [Hop](https://www.npmjs.com/package/hop)
