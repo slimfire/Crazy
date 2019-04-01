@@ -278,4 +278,6 @@
 
 [Ad](https://www.npmjs.com/package/ad)
 
+[Voice](https://www.npmjs.com/package/voice)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
