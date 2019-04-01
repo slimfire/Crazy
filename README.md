@@ -268,8 +268,6 @@
 
 [Stack](https://www.npmjs.com/package/stack)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -277,3 +275,7 @@
 [French](https://www.npmjs.com/package/french)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[Ad](https://www.npmjs.com/package/ad)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
