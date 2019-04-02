@@ -252,13 +252,9 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Monitoring](https://www.npmjs.com/package/monitoring)
-
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [Fight](https://www.npmjs.com/package/fight)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Failure](https://www.npmjs.com/package/failure)
 
@@ -281,3 +277,7 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Monitoring](https://www.npmjs.com/package/monitoring)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
