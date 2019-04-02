@@ -256,10 +256,6 @@
 
 [Persistent](https://www.npmjs.com/package/persistent)
 
-[Cough](https://www.npmjs.com/package/cough)
-
-[Robot](https://www.npmjs.com/package/robot)
-
 [Fight](https://www.npmjs.com/package/fight)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -281,3 +277,7 @@
 [Voice](https://www.npmjs.com/package/voice)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Robot](https://www.npmjs.com/package/robot)
