@@ -52,8 +52,6 @@
 
 [hci](https://www.npmjs.com/package/hci)
 
-[Retention](https://www.npmjs.com/package/retention)
-
 [Latency](https://www.npmjs.com/package/latency)
 
 [Networking](https://www.npmjs.com/package/networking)
@@ -236,8 +234,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[hop](https://www.npmjs.com/package/hop)
-
 [xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
@@ -283,3 +279,7 @@
 [WearOS](https://www.npmjs.com/package/wearos)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[hop](https://www.npmjs.com/package/hop)
+
+[Retention](https://www.npmjs.com/package/retention)
