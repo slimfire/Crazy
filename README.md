@@ -262,8 +262,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [French](https://www.npmjs.com/package/french)
 
 [Hop](https://www.npmjs.com/package/hop)
@@ -279,5 +277,9 @@
 [Robot](https://www.npmjs.com/package/robot)
 
 [Monitoring](https://www.npmjs.com/package/monitoring)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[WearOS](https://www.npmjs.com/package/wearos)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
