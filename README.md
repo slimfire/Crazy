@@ -144,8 +144,6 @@
 
 [Collapse](https://www.npmjs.com/package/collapse)
 
-[Traffic](https://www.npmjs.com/package/traffic)
-
 [Flu](https://www.npmjs.com/package/flu)
 
 [Apology](https://www.npmjs.com/package/apology)
@@ -274,12 +272,14 @@
 
 [Monitoring](https://www.npmjs.com/package/monitoring)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [WearOS](https://www.npmjs.com/package/wearos)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
 
 [hop](https://www.npmjs.com/package/hop)
 
 [Retention](https://www.npmjs.com/package/retention)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Traffic](https://www.npmjs.com/package/traffic)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
