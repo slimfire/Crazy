@@ -278,8 +278,6 @@
 
 [Retention](https://www.npmjs.com/package/retention)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -287,3 +285,7 @@
 [Live](https://www.npmjs.com/package/live)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Dangerous](https://www.npmjs.com/package/dangerous)
