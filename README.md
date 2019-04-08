@@ -70,8 +70,6 @@
 
 [Puppet](https://www.npmjs.com/package/puppet)
 
-[Delivery](https://www.npmjs.com/package/delivery)
-
 [Interface](https://www.npmjs.com/package/interface)
 
 [Public](https://www.npmjs.com/package/public)
@@ -289,3 +287,9 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Delivery](https://www.npmjs.com/package/delivery)
+
+[Now](https://www.npmjs.com/package/now)
+
+[Fast](https://www.npmjs.com/package/fast)
