@@ -158,10 +158,6 @@
 
 [Beer](https://www.npmjs.com/package/beerjs)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Target](https://www.npmjs.com/package/target)
@@ -289,3 +285,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
