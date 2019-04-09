@@ -289,9 +289,3 @@
 [Now](https://www.npmjs.com/package/now)
 
 [Fast](https://www.npmjs.com/package/fast)
-
-[Institute](https://www.npmjs.com/package/institute)
-
-[Fragile](https://www.npmjs.com/package/fragile)
-
-[Beer](https://www.npmjs.com/package/beerjs)
