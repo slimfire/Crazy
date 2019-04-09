@@ -154,8 +154,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[Beer](https://www.npmjs.com/package/beerjs)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Target](https://www.npmjs.com/package/target)
@@ -171,8 +169,6 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Video](https://www.npmjs.com/package/video)
-
-[Institute](https://www.npmjs.com/package/institute)
 
 [Platform](https://www.npmjs.com/package/platform)
 
@@ -293,3 +289,9 @@
 [Now](https://www.npmjs.com/package/now)
 
 [Fast](https://www.npmjs.com/package/fast)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Fragile](https://www.npmjs.com/package/fragile)
+
+[Beer](https://www.npmjs.com/package/beerjs)
