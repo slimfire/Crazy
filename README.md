@@ -274,8 +274,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
@@ -289,3 +287,7 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Unite](https://www.npmjs.com/package/unite)
+
+[Infant](https://www.npmjs.com/package/infant)
