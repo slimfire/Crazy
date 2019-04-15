@@ -252,8 +252,6 @@
 
 [Voice](https://www.npmjs.com/package/voice)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
@@ -287,6 +285,10 @@
 [Unite](https://www.npmjs.com/package/unite)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Institute](https://www.npmjs.com/package/institute)
 
