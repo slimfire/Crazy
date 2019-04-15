@@ -293,9 +293,3 @@
 [Institute](https://www.npmjs.com/package/institute)
 
 [RGB](https://www.npmjs.com/package/rgb)
-
-[Admin](https://www.npmjs.com/package/admin)
-
-[Offer](https://www.npmjs.com/package/offer)
-
-[Deception](https://www.npmjs.com/package/deception)
