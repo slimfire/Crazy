@@ -230,8 +230,6 @@
 
 [Room](https://www.npmjs.com/package/room)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Steps](https://www.npmjs.com/package/step)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -289,3 +287,7 @@
 [Unite](https://www.npmjs.com/package/unite)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[RGB](https://www.npmjs.com/package/rgb)
