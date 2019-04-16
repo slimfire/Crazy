@@ -294,4 +294,6 @@
 
 [Infrastructure](https://www.npmjs.com/package/infrastructure)
 
+[Billion](https://www.npmjs.com/package/billion)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
