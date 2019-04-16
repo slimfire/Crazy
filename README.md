@@ -238,8 +238,6 @@
 
 [Failure](https://www.npmjs.com/package/failure)
 
-[Stack](https://www.npmjs.com/package/stack)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [French](https://www.npmjs.com/package/french)
@@ -284,8 +282,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -293,3 +289,7 @@
 [Routing](https://www.npmjs.com/package/routing)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[Stack](https://www.npmjs.com/package/stack)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
