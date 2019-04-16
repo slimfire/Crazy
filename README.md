@@ -292,4 +292,6 @@
 
 [Stack](https://www.npmjs.com/package/stack)
 
+[Infrastructure](https://www.npmjs.com/package/infrastructure)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
