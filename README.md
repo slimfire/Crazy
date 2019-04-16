@@ -190,8 +190,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Open](https://www.npmjs.com/package/open)
 
 [Competition](https://www.npmjs.com/package/competition)
@@ -246,8 +244,6 @@
 
 [French](https://www.npmjs.com/package/french)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Ad](https://www.npmjs.com/package/ad)
 
 [Voice](https://www.npmjs.com/package/voice)
@@ -290,6 +286,10 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
+[RGB](https://www.npmjs.com/package/rgb)
+
 [Institute](https://www.npmjs.com/package/institute)
 
-[RGB](https://www.npmjs.com/package/rgb)
+[Routing](https://www.npmjs.com/package/routing)
+
+[Hop](https://www.npmjs.com/package/hop)
