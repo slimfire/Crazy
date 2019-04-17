@@ -296,4 +296,9 @@
 
 [Billion](https://www.npmjs.com/package/billion)
 
+[Rich](https://www.npmjs.com/package/rich)
+
+[Activist](https://www.npmjs.com/package/activist)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
