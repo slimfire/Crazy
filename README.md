@@ -278,8 +278,6 @@
 
 [Unite](https://www.npmjs.com/package/unite)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [RGB](https://www.npmjs.com/package/rgb)
@@ -304,3 +302,10 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
+[Community](https://www.npmjs.com/package/community)
+
+[Background](https://www.npmjs.com/package/background)
+
+[Operation](https://www.npmjs.com/package/operation)
+
+[Infant](https://www.npmjs.com/package/infant)
