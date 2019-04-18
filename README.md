@@ -300,5 +300,7 @@
 
 [Activist](https://www.npmjs.com/package/activist)
 
+[Real](https://www.npmjs.com/package/real)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
