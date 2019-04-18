@@ -284,8 +284,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [Stack](https://www.npmjs.com/package/stack)
@@ -309,3 +307,10 @@
 [Operation](https://www.npmjs.com/package/operation)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Emotion](https://www.npmjs.com/package/emotion)
+
+[Geek](https://www.npmjs.com/package/geek)
+
