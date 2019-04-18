@@ -284,8 +284,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Stack](https://www.npmjs.com/package/stack)
 
 [Infrastructure](https://www.npmjs.com/package/infrastructure)
@@ -302,8 +300,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Background](https://www.npmjs.com/package/background)
-
 [Operation](https://www.npmjs.com/package/operation)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -314,3 +310,6 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
+[Background](https://www.npmjs.com/package/background)
+
+[Hop](https://www.npmjs.com/package/hop)
