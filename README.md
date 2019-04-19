@@ -296,8 +296,6 @@
 
 [Real](https://www.npmjs.com/package/real)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Community](https://www.npmjs.com/package/community)
 
 [Operation](https://www.npmjs.com/package/operation)
@@ -313,3 +311,7 @@
 [Background](https://www.npmjs.com/package/background)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[Pill](https://www.npmjs.com/package/pill)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
