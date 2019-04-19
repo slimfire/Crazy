@@ -258,8 +258,6 @@
 
 [Traffic](https://www.npmjs.com/package/traffic)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
@@ -298,8 +296,6 @@
 
 [Operation](https://www.npmjs.com/package/operation)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Routing](https://www.npmjs.com/package/routing)
 
 [Emotion](https://www.npmjs.com/package/emotion)
@@ -319,3 +315,7 @@
 [intervene](https://www.npmjs.com/package/intervene)
 
 [Killer](https://www.npmjs.com/package/killer)
+
+[Live](https://www.npmjs.com/package/live)
+
+[Infant](https://www.npmjs.com/package/infant)
