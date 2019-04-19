@@ -162,8 +162,6 @@
 
 [ill](https://www.npmjs.com/package/ill)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fam](https://www.npmjs.com/package/fam)
 
 [Split](https://www.npmjs.com/package/split)
@@ -315,3 +313,9 @@
 [Pill](https://www.npmjs.com/package/pill)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[intervene](https://www.npmjs.com/package/intervene)
+
+[Killer](https://www.npmjs.com/package/killer)
