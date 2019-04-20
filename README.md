@@ -276,8 +276,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Stack](https://www.npmjs.com/package/stack)
@@ -302,8 +300,6 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
-[Background](https://www.npmjs.com/package/background)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [Pill](https://www.npmjs.com/package/pill)
@@ -319,3 +315,7 @@
 [Live](https://www.npmjs.com/package/live)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Background](https://www.npmjs.com/package/background)
+
+[RGB](https://www.npmjs.com/package/rgb)
