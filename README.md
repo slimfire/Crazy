@@ -228,8 +228,6 @@
 
 [Steps](https://www.npmjs.com/package/step)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [Fight](https://www.npmjs.com/package/fight)
@@ -306,16 +304,18 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [intervene](https://www.npmjs.com/package/intervene)
 
 [Killer](https://www.npmjs.com/package/killer)
 
 [Live](https://www.npmjs.com/package/live)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Background](https://www.npmjs.com/package/background)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Infant](https://www.npmjs.com/package/infant)
