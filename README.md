@@ -164,8 +164,6 @@
 
 [Fam](https://www.npmjs.com/package/fam)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Video](https://www.npmjs.com/package/video)
 
 [Platform](https://www.npmjs.com/package/platform)
@@ -310,8 +308,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -323,3 +319,9 @@
 [Virtual](https://www.npmjs.com/package/virtual)
 
 [Geek](https://www.npmjs.com/package/geek)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Amplify](https://www.npmjs.com/package/amplify)
+
+[Split](https://www.npmjs.com/package/split)
