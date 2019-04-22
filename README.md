@@ -304,8 +304,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Background](https://www.npmjs.com/package/background)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -325,3 +323,7 @@
 [Amplify](https://www.npmjs.com/package/amplify)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Background](https://www.npmjs.com/package/background)
+
+[Power](https://www.npmjs.com/package/power)
