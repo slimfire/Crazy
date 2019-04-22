@@ -254,8 +254,6 @@
 
 [Retention](https://www.npmjs.com/package/retention)
 
-[Traffic](https://www.npmjs.com/package/traffic)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
@@ -296,8 +294,6 @@
 
 [Emotion](https://www.npmjs.com/package/emotion)
 
-[Geek](https://www.npmjs.com/package/geek)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [Pill](https://www.npmjs.com/package/pill)
@@ -319,3 +315,11 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Traffic](https://www.npmjs.com/package/traffic)
+
+[Physical](https://www.npmjs.com/package/physical)
+
+[Virtual](https://www.npmjs.com/package/virtual)
+
+[Geek](https://www.npmjs.com/package/geek)
