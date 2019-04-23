@@ -162,8 +162,6 @@
 
 [ill](https://www.npmjs.com/package/ill)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [Video](https://www.npmjs.com/package/video)
 
 [Platform](https://www.npmjs.com/package/platform)
@@ -248,8 +246,6 @@
 
 [Retention](https://www.npmjs.com/package/retention)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Delivery](https://www.npmjs.com/package/delivery)
@@ -312,8 +308,6 @@
 
 [Amplify](https://www.npmjs.com/package/amplify)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Background](https://www.npmjs.com/package/background)
 
 [Power](https://www.npmjs.com/package/power)
@@ -331,3 +325,9 @@
 [Witness](https://www.npmjs.com/package/witness)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Split](https://www.npmjs.com/package/split)
