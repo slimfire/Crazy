@@ -170,8 +170,6 @@
 
 [Security](https://www.npmjs.com/package/security)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Infinity](https://www.npmjs.com/package/infinity)
 
 [Business](https://www.npmjs.com/package/business)
@@ -229,8 +227,6 @@
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [Fight](https://www.npmjs.com/package/fight)
-
-[Failure](https://www.npmjs.com/package/failure)
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
@@ -318,8 +314,6 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Amplify](https://www.npmjs.com/package/amplify)
 
 [Split](https://www.npmjs.com/package/split)
@@ -327,3 +321,12 @@
 [Background](https://www.npmjs.com/package/background)
 
 [Power](https://www.npmjs.com/package/power)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Projects](https://www.npmjs.com/package/projects)
+
+[Failure](https://www.npmjs.com/package/failure)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
