@@ -282,8 +282,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Operation](https://www.npmjs.com/package/operation)
-
 [Routing](https://www.npmjs.com/package/routing)
 
 [Emotion](https://www.npmjs.com/package/emotion)
@@ -303,8 +301,6 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Breach](https://www.npmjs.com/package/breach)
-
-[Infant](https://www.npmjs.com/package/infant)
 
 [Traffic](https://www.npmjs.com/package/traffic)
 
@@ -330,3 +326,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
+[Operation](https://www.npmjs.com/package/operation)
+
+[Infant](https://www.npmjs.com/package/infant)
