@@ -254,10 +254,6 @@
 
 [Fast](https://www.npmjs.com/package/fast)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Unite](https://www.npmjs.com/package/unite)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -331,3 +327,7 @@
 [Fam](https://www.npmjs.com/package/fam)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
