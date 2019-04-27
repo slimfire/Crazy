@@ -34,8 +34,6 @@
 
 [Anger](https://www.npmjs.com/package/anger)
 
-[Tiny](https://www.npmjs.com/package/tiny)
-
 [Dummy](https://www.npmjs.com/package/dummy)
 
 [Abuse](https://www.npmjs.com/package/abuse)
@@ -331,3 +329,9 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[UI](https://www.npmjs.com/package/ui)
+
+[Management](https://www.npmjs.com/package/management)
+
+[Successful](https://www.npmjs.com/package/successful)
