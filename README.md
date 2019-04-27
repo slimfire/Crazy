@@ -330,7 +330,7 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[UI](https://www.npmjs.com/package/ui)
+[Tiny](https://www.npmjs.com/package/tiny)
 
 [Management](https://www.npmjs.com/package/management)
 
