@@ -256,8 +256,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Stack](https://www.npmjs.com/package/stack)
 
 [Infrastructure](https://www.npmjs.com/package/infrastructure)
@@ -328,12 +326,15 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
+[Institute](https://www.npmjs.com/package/institute)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Infant](https://www.npmjs.com/package/infant)
+
 [Tiny](https://www.npmjs.com/package/tiny)
 
 [Management](https://www.npmjs.com/package/management)
 
 [Successful](https://www.npmjs.com/package/successful)
 
-[Card](https://www.npmjs.com/package/card)
-
-[Infant](https://www.npmjs.com/package/infant)
