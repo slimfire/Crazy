@@ -318,8 +318,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Fam](https://www.npmjs.com/package/fam)
@@ -335,3 +333,7 @@
 [Management](https://www.npmjs.com/package/management)
 
 [Successful](https://www.npmjs.com/package/successful)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Infant](https://www.npmjs.com/package/infant)
