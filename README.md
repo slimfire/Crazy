@@ -316,8 +316,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fam](https://www.npmjs.com/package/fam)
 
 [Split](https://www.npmjs.com/package/split)
@@ -338,3 +336,6 @@
 
 [Successful](https://www.npmjs.com/package/successful)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Irresponsible](https://www.npmjs.com/package/irresponsible)
