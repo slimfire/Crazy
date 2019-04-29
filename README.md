@@ -64,8 +64,6 @@
 
 [Wait](https://www.npmjs.com/package/wait)
 
-[SDN](https://www.npmjs.com/package/sdn)
-
 [Puppet](https://www.npmjs.com/package/puppet)
 
 [Interface](https://www.npmjs.com/package/interface)
@@ -335,6 +333,10 @@
 [Management](https://www.npmjs.com/package/management)
 
 [Successful](https://www.npmjs.com/package/successful)
+
+[SDN](https://www.npmjs.com/package/sdn)
+
+[Recommended](https://www.npmjs.com/package/recommended)
 
 [Vote](https://www.npmjs.com/package/vote)
 
