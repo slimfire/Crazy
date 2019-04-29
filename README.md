@@ -340,4 +340,4 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Irresponsible](https://www.npmjs.com/package/irresponsible)
+[Unaccountable](https://www.npmjs.com/package/unaccountable)
