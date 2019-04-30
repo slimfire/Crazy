@@ -336,8 +336,10 @@
 
 [SDN](https://www.npmjs.com/package/sdn)
 
-[Recommended](https://www.npmjs.com/package/recommended)
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Unaccountable](https://www.npmjs.com/package/unaccountable)
+[Accounting](https://www.npmjs.com/package/accounting)
+
+[Empty](https://www.npmjs.com/package/empty)
