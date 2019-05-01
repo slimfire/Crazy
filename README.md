@@ -42,8 +42,6 @@
 
 [Contrail](https://github.com/Juniper/contrail)
 
-[Classroom](https://www.npmjs.com/package/classroom)
-
 [Cart](https://www.npmjs.com/package/cart)
 
 [More](https://www.npmjs.com/package/more)
@@ -333,6 +331,10 @@
 [Management](https://www.npmjs.com/package/management)
 
 [Successful](https://www.npmjs.com/package/successful)
+
+[Classroom](https://www.npmjs.com/package/classroom)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [SDN](https://www.npmjs.com/package/sdn)
 
