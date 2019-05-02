@@ -339,9 +339,3 @@
 [SDN](https://www.npmjs.com/package/sdn)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Accounting](https://www.npmjs.com/package/accounting)
-
-[Empty](https://www.npmjs.com/package/empty)
