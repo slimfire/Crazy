@@ -300,13 +300,9 @@
 
 [Power](https://www.npmjs.com/package/power)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Projects](https://www.npmjs.com/package/projects)
 
 [Failure](https://www.npmjs.com/package/failure)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Operation](https://www.npmjs.com/package/operation)
 
@@ -351,6 +347,10 @@
 [Stream](https://www.npmjs.com/package/stream)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Admin](https://www.npmjs.com/package/admin)
 
