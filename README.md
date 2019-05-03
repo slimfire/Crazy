@@ -339,3 +339,11 @@
 [SDN](https://www.npmjs.com/package/sdn)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Soccer](https://www.npmjs.com/package/soccer)
+
+[Cookie](https://www.npmjs.com/package/cookie)
+
+[Spanish](https://www.npmjs.com/package/spanish)
+
+[Bull](https://www.npmjs.com/package/bull)
