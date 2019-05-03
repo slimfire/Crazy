@@ -324,8 +324,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Tiny](https://www.npmjs.com/package/tiny)
 
 [Management](https://www.npmjs.com/package/management)
@@ -347,3 +345,9 @@
 [Spanish](https://www.npmjs.com/package/spanish)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Stream](https://www.npmjs.com/package/stream)
+
+[Infant](https://www.npmjs.com/package/infant)
