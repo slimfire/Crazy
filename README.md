@@ -351,3 +351,7 @@
 [Stream](https://www.npmjs.com/package/stream)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Deception](https://www.npmjs.com/package/deception)
