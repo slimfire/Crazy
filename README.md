@@ -274,8 +274,6 @@
 
 [Pill](https://www.npmjs.com/package/pill)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [intervene](https://www.npmjs.com/package/intervene)
 
 [Killer](https://www.npmjs.com/package/killer)
@@ -347,6 +345,10 @@
 [Stream](https://www.npmjs.com/package/stream)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Oversea](https://www.npmjs.com/package/oversea)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Vote](https://www.npmjs.com/package/vote)
 
