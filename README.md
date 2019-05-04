@@ -314,8 +314,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Card](https://www.npmjs.com/package/card)
 
 [Tiny](https://www.npmjs.com/package/tiny)
@@ -363,3 +361,7 @@
 [Force](https://www.npmjs.com/package/force)
 
 [Dictation](https://www.npmjs.com/package/dictation)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Beer](https://www.npmjs.com/package/beer)
