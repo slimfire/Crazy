@@ -346,14 +346,6 @@
 
 [Oversea](https://www.npmjs.com/package/oversea)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Admin](https://www.npmjs.com/package/admin)
-
-[Deception](https://www.npmjs.com/package/deception)
-
 [Push](https://www.npmjs.com/package/push)
 
 [Force](https://www.npmjs.com/package/force)
@@ -371,6 +363,14 @@
 [Multicast](https://www.npmjs.com/package/multicast)
 
 [Dictation](https://www.npmjs.com/package/dictation)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Deception](https://www.npmjs.com/package/deception)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
