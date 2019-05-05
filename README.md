@@ -346,8 +346,6 @@
 
 [Oversea](https://www.npmjs.com/package/oversea)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -365,3 +363,7 @@
 [Institute](https://www.npmjs.com/package/institute)
 
 [Beer](https://www.npmjs.com/package/beer)
+
+[Birth](https://www.npmjs.com/package/birth)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
