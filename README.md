@@ -358,8 +358,6 @@
 
 [Force](https://www.npmjs.com/package/force)
 
-[Dictation](https://www.npmjs.com/package/dictation)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Beer](https://www.npmjs.com/package/beer)
@@ -367,3 +365,9 @@
 [Birth](https://www.npmjs.com/package/birth)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Unicast](https://www.npmjs.com/package/unicast)
+
+[Multicast](https://www.npmjs.com/package/multicast)
+
+[Dictation](https://www.npmjs.com/package/dictation)
