@@ -371,3 +371,11 @@
 [Multicast](https://www.npmjs.com/package/multicast)
 
 [Dictation](https://www.npmjs.com/package/dictation)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Proud](https://www.npmjs.com/package/proud)
+
+[Library](https://www.npmjs.com/package/library)
+
+[Ready](https://www.npmjs.com/package/ready)
