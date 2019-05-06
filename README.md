@@ -364,16 +364,19 @@
 
 [Dictation](https://www.npmjs.com/package/dictation)
 
-
 [Manufacture](https://www.npmjs.com/package/manufacture)
 
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
+[Deception](https://www.npmjs.com/package/deception)
+
 [Admin](https://www.npmjs.com/package/admin)
 
-[Deception](https://www.npmjs.com/package/deception)
+[Mine](https://www.npmjs.com/package/mine)
+
+[Exploit](https://www.npmjs.com/package/exploit)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
