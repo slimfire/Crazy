@@ -356,13 +356,7 @@
 
 [Deception](https://www.npmjs.com/package/deception)
 
-[Admin](https://www.npmjs.com/package/admin)
-
 [Mine](https://www.npmjs.com/package/mine)
-
-[Exploit](https://www.npmjs.com/package/exploit)
-
-[Yellow](https://www.npmjs.com/package/yellow)
 
 [Proud](https://www.npmjs.com/package/proud)
 
@@ -407,3 +401,15 @@
 [Identity](https://www.npmjs.com/package/identity)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Finance](https://www.npmjs.com/package/finance)
+
+[Hack](https://www.npmjs.com/package/hack)
+
+[Exploit](https://www.npmjs.com/package/exploit)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
