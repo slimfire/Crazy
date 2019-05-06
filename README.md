@@ -388,8 +388,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Failure](https://www.npmjs.com/package/failure)
 
 [Ref](https://www.npmjs.com/package/ref)
@@ -401,3 +399,9 @@
 [Account](https://www.npmjs.com/package/account)
 
 [Empty](https://www.npmjs.com/package/empty)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fire](https://www.npmjs.com/package/fire)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
