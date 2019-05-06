@@ -389,3 +389,5 @@
 [Clustering](https://www.npmjs.com/package/clustering)
 
 [Routing](https://www.npmjs.com/package/routing)
+
+[Role](https://www.npmjs.com/package/role)
