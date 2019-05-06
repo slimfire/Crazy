@@ -396,6 +396,8 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
+[Vote](https://www.npmjs.com/package/vote)
+
 [Account](https://www.npmjs.com/package/account)
 
 [Empty](https://www.npmjs.com/package/empty)
