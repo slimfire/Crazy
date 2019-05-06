@@ -266,8 +266,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Emotion](https://www.npmjs.com/package/emotion)
 
 [Hop](https://www.npmjs.com/package/hop)
@@ -297,8 +295,6 @@
 [Background](https://www.npmjs.com/package/background)
 
 [Power](https://www.npmjs.com/package/power)
-
-[Projects](https://www.npmjs.com/package/projects)
 
 [Failure](https://www.npmjs.com/package/failure)
 
@@ -385,3 +381,11 @@
 [Library](https://www.npmjs.com/package/library)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Project](https://www.npmjs.com/package/project)
+
+[Current](https://www.npmjs.com/package/current)
+
+[Clustering](https://www.npmjs.com/package/clustering)
+
+[Routing](https://www.npmjs.com/package/routing)
