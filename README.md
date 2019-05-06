@@ -391,3 +391,7 @@
 [Routing](https://www.npmjs.com/package/routing)
 
 [Role](https://www.npmjs.com/package/role)
+
+[Ultimate](https://www.npmjs.com/package/ultimate)
+
+[Now](https://www.npmjs.com/package/now)
