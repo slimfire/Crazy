@@ -364,6 +364,11 @@
 
 [Dictation](https://www.npmjs.com/package/dictation)
 
+
+[Manufacture](https://www.npmjs.com/package/manufacture)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Admin](https://www.npmjs.com/package/admin)
@@ -377,7 +382,3 @@
 [Library](https://www.npmjs.com/package/library)
 
 [Ready](https://www.npmjs.com/package/ready)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Manufacture](https://www.npmjs.com/package/manufacture)
