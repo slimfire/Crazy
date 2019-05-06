@@ -346,8 +346,6 @@
 
 [Birth](https://www.npmjs.com/package/birth)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Unicast](https://www.npmjs.com/package/unicast)
 
 [Multicast](https://www.npmjs.com/package/multicast)
@@ -405,3 +403,7 @@
 [Fire](https://www.npmjs.com/package/fire)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Identity](https://www.npmjs.com/package/identity)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
