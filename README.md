@@ -142,8 +142,6 @@
 
 [Loading](https://www.npmjs.com/package/loading)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Bored](https://www.npmjs.com/package/bored)
 
 [Target](https://www.npmjs.com/package/target)
@@ -413,3 +411,9 @@
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Together](https://www.npmjs.com/package/together)
+
+[Mentor](https://www.npmjs.com/package/mentor)
+
+[Ready](https://www.npmjs.com/package/ready)
