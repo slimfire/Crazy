@@ -410,12 +410,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[WAN](https://www.npmjs.com/package/wan)
-
-[Exploit](https://www.npmjs.com/package/exploit)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
