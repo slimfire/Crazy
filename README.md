@@ -416,10 +416,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Business](https://www.npmjs.com/package/business)
-
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
