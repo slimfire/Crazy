@@ -298,10 +298,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Card](https://www.npmjs.com/package/card)
 
 [Tiny](https://www.npmjs.com/package/tiny)
@@ -421,3 +417,7 @@
 [Mentor](https://www.npmjs.com/package/mentor)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
