@@ -50,8 +50,6 @@
 
 [Latency](https://www.npmjs.com/package/latency)
 
-[Networking](https://www.npmjs.com/package/networking)
-
 [Physical](https://github.com/mattdesl/physical-text)
 
 [Ok](https://www.npmjs.com/package/ok)
@@ -398,13 +396,9 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Admin](https://www.npmjs.com/package/admin)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Soccer](https://www.npmjs.com/package/soccer)
-
-[Exploit](https://www.npmjs.com/package/exploit)
 
 [Together](https://www.npmjs.com/package/together)
 
@@ -415,6 +409,12 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[WAN](https://www.npmjs.com/package/wan)
+
+[Exploit](https://www.npmjs.com/package/exploit)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
