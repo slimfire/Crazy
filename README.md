@@ -390,15 +390,9 @@
 
 [Identity](https://www.npmjs.com/package/identity)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Finance](https://www.npmjs.com/package/finance)
 
 [Hack](https://www.npmjs.com/package/hack)
-
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Naked](https://www.npmjs.com/package/naked)
 
@@ -421,3 +415,11 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Business](https://www.npmjs.com/package/business)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
