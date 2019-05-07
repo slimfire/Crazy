@@ -416,6 +416,10 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Massive](https://www.npmjs.com/package/massive)
+
+[Wait](https://www.npmjs.com/package/wait)
+
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
