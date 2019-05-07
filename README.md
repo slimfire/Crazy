@@ -414,3 +414,10 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
+[Admin](https://www.npmjs.com/package/admin)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Soccer](https://www.npmjs.com/package/soccer)
+
+[Exploit](https://www.npmjs.com/package/exploit)
