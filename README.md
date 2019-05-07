@@ -404,12 +404,6 @@
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
-[Together](https://www.npmjs.com/package/together)
-
-[Mentor](https://www.npmjs.com/package/mentor)
-
-[Ready](https://www.npmjs.com/package/ready)
-
 [Naked](https://www.npmjs.com/package/naked)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -421,3 +415,9 @@
 [Soccer](https://www.npmjs.com/package/soccer)
 
 [Exploit](https://www.npmjs.com/package/exploit)
+
+[Together](https://www.npmjs.com/package/together)
+
+[Mentor](https://www.npmjs.com/package/mentor)
+
+[Ready](https://www.npmjs.com/package/ready)
