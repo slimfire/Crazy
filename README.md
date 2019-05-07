@@ -186,13 +186,9 @@
 
 [Dialog](https://www.npmjs.com/package/dialog)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Pink](https://www.npmjs.com/package/pink)
 
 [atm](https://www.npmjs.com/package/atm)
-
-[Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Topology](https://www.npmjs.com/package/topology)
 
@@ -411,6 +407,14 @@
 [Target](https://www.npmjs.com/package/target)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Request](https://www.npmjs.com/package/request)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Logout](https://www.npmjs.com/package/logout)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
