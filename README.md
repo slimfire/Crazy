@@ -318,8 +318,6 @@
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
-[Soccer](https://www.npmjs.com/package/soccer)
-
 [Cookie](https://www.npmjs.com/package/cookie)
 
 [Spanish](https://www.npmjs.com/package/spanish)
@@ -329,8 +327,6 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Stream](https://www.npmjs.com/package/stream)
-
-[Infant](https://www.npmjs.com/package/infant)
 
 [Oversea](https://www.npmjs.com/package/oversea)
 
@@ -400,13 +396,9 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Admin](https://www.npmjs.com/package/admin)
-
 [Finance](https://www.npmjs.com/package/finance)
 
 [Hack](https://www.npmjs.com/package/hack)
-
-[Exploit](https://www.npmjs.com/package/exploit)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
@@ -417,3 +409,8 @@
 [Mentor](https://www.npmjs.com/package/mentor)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Naked](https://www.npmjs.com/package/naked)
+
+[Infant](https://www.npmjs.com/package/infant)
+
