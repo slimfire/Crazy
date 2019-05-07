@@ -142,8 +142,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[Target](https://www.npmjs.com/package/target)
-
 [Profile](https://www.npmjs.com/package/profile)
 
 [ill](https://www.npmjs.com/package/ill)
@@ -409,6 +407,10 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Target](https://www.npmjs.com/package/target)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
