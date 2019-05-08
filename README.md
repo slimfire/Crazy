@@ -426,6 +426,4 @@
 
 [Massive](https://www.npmjs.com/package/massive)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [Split](https://www.npmjs.com/package/split)
