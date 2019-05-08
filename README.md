@@ -282,10 +282,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Fam](https://www.npmjs.com/package/fam)
-
-[Split](https://www.npmjs.com/package/split)
-
 [Card](https://www.npmjs.com/package/card)
 
 [Tiny](https://www.npmjs.com/package/tiny)
@@ -356,8 +352,6 @@
 
 [Role](https://www.npmjs.com/package/role)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Failure](https://www.npmjs.com/package/failure)
 
 [Ref](https://www.npmjs.com/package/ref)
@@ -427,3 +421,11 @@
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Split](https://www.npmjs.com/package/split)
