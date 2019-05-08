@@ -170,8 +170,6 @@
 
 [Competition](https://www.npmjs.com/package/competition)
 
-[Partner](https://www.npmjs.com/package/partner)
-
 [Sync](https://www.npmjs.com/package/sync)
 
 [Propagate](https://www.npmjs.com/package/propagate)
@@ -408,8 +406,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Request](https://www.npmjs.com/package/request)
@@ -421,6 +417,10 @@
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Partner](https://www.npmjs.com/package/partner)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Vote](https://www.npmjs.com/package/vote)
 
