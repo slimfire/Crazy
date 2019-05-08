@@ -366,8 +366,6 @@
 
 [Fire](https://www.npmjs.com/package/fire)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Identity](https://www.npmjs.com/package/identity)
 
 [Finance](https://www.npmjs.com/package/finance)
@@ -427,5 +425,7 @@
 [Massive](https://www.npmjs.com/package/massive)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Left-Behind](https://www.npmjs.com/package/left-behind)
