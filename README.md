@@ -418,16 +418,12 @@
 
 [Reverse](https://www.npmjs.com/package/reverse)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Massive](https://www.npmjs.com/package/massive)
 
 [Split](https://www.npmjs.com/package/split)
 
-[Left-Behind](https://www.npmjs.com/package/left-behind)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
+[Paranoia](https://www.npmjs.com/package/paranoia)
