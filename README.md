@@ -406,8 +406,6 @@
 
 [Target](https://www.npmjs.com/package/target)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Request](https://www.npmjs.com/package/request)
@@ -415,6 +413,10 @@
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[White](https://www.npmjs.com/package/white)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
