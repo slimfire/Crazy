@@ -232,8 +232,6 @@
 
 [Unite](https://www.npmjs.com/package/unite)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Stack](https://www.npmjs.com/package/stack)
 
 [Infrastructure](https://www.npmjs.com/package/infrastructure)
@@ -428,6 +426,8 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Left-Behind](https://www.npmjs.com/package/left-behind)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
