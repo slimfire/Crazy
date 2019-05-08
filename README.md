@@ -258,8 +258,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Physical](https://www.npmjs.com/package/physical)
@@ -420,10 +418,18 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Grace](https://www.npmjs.com/package/grace)
+
+[Waited](https://www.npmjs.com/package/waited)
+
+[Next](https://www.npmjs.com/package/next)
