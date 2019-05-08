@@ -418,6 +418,8 @@
 
 [Partner](https://www.npmjs.com/package/partner)
 
+[Reverse](https://www.npmjs.com/package/reverse)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Vote](https://www.npmjs.com/package/vote)
