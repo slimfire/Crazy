@@ -194,8 +194,6 @@
 
 [xx](https://www.npmjs.com/package/xx)
 
-[xy](https://www.npmjs.com/package/xy)
-
 [OnEvent](https://www.npmjs.com/package/onevent)
 
 [Room](https://www.npmjs.com/package/room)
@@ -263,8 +261,6 @@
 [Killer](https://www.npmjs.com/package/killer)
 
 [Live](https://www.npmjs.com/package/live)
-
-[RGB](https://www.npmjs.com/package/rgb)
 
 [Breach](https://www.npmjs.com/package/breach)
 
@@ -411,6 +407,12 @@
 [Gun](https://www.npmjs.com/package/gun)
 
 [Chess](https://www.npmjs.com/package/chess)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[Umbrella](https://www.npmjs.com/package/umbrella)
+
+[RGB](https://www.npmjs.com/package/rgb)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
