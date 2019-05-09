@@ -437,7 +437,3 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Spy](https://www.npmjs.com/package/spy)
