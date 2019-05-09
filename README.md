@@ -294,8 +294,6 @@
 
 [Spanish](https://www.npmjs.com/package/spanish)
 
-[Bull](https://www.npmjs.com/package/bull)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Stream](https://www.npmjs.com/package/stream)
@@ -441,3 +439,7 @@
 [Decade](https://www.npmjs.com/package/decade)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Central](https://www.npmjs.com/package/central)
+
+[Bull](https://www.npmjs.com/package/bull)
