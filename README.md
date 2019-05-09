@@ -440,6 +440,4 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Discovery](https://www.npmjs.com/package/discovery)
-
 [Spy](https://www.npmjs.com/package/spy)
