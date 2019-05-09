@@ -434,8 +434,10 @@
 
 [Journal](https://www.npmjs.com/package/journal)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Decade](https://www.npmjs.com/package/decade)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
