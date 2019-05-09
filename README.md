@@ -162,8 +162,6 @@
 
 [Orlando](https://www.npmjs.com/package/orlando)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Open](https://www.npmjs.com/package/open)
@@ -420,8 +418,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Massive](https://www.npmjs.com/package/massive)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -435,3 +431,11 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Journal](https://www.npmjs.com/package/journal)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Name](https://www.npmjs.com/package/name)
+
+[Spy](https://www.npmjs.com/package/spy)
