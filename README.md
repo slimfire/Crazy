@@ -435,5 +435,3 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Collapse](https://www.npmjs.com/package/collapse)
