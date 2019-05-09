@@ -436,4 +436,4 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Stuck](https://www.npmjs.com/package/stuck)
+[Collapse](https://www.npmjs.com/package/collapse)
