@@ -416,8 +416,6 @@
 
 [Reverse](https://www.npmjs.com/package/reverse)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -433,3 +431,9 @@
 [Waited](https://www.npmjs.com/package/waited)
 
 [Next](https://www.npmjs.com/package/next)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Stuck](https://www.npmjs.com/package/stuck)
