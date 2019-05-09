@@ -354,8 +354,6 @@
 
 [Empty](https://www.npmjs.com/package/empty)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fire](https://www.npmjs.com/package/fire)
 
 [Identity](https://www.npmjs.com/package/identity)
@@ -426,15 +424,11 @@
 
 [Next](https://www.npmjs.com/package/next)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Journal](https://www.npmjs.com/package/journal)
 
 [Name](https://www.npmjs.com/package/name)
-
-[Spy](https://www.npmjs.com/package/spy)
 
 [Decade](https://www.npmjs.com/package/decade)
 
@@ -443,3 +437,9 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Discovery](https://www.npmjs.com/package/discovery)
+
+[Spy](https://www.npmjs.com/package/spy)
