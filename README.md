@@ -216,8 +216,6 @@
 
 [WearOS](https://www.npmjs.com/package/wearos)
 
-[hop](https://www.npmjs.com/package/hop)
-
 [Retention](https://www.npmjs.com/package/retention)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
@@ -301,8 +299,6 @@
 [Push](https://www.npmjs.com/package/push)
 
 [Force](https://www.npmjs.com/package/force)
-
-[Institute](https://www.npmjs.com/package/institute)
 
 [Beer](https://www.npmjs.com/package/beer)
 
@@ -440,8 +436,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Resource](https://www.npmjs.com/package/resource)
@@ -449,3 +443,11 @@
 [Provision](https://www.npmjs.com/package/provision)
 
 [Delivery](https://www.npmjs.com/package/delivery)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[soccer](https://www.npmjs.com/package/soccer)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[hop](https://www.npmjs.com/package/hop)
