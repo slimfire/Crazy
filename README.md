@@ -222,8 +222,6 @@
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
-[Delivery](https://www.npmjs.com/package/delivery)
-
 [Now](https://www.npmjs.com/package/now)
 
 [Fast](https://www.npmjs.com/package/fast)
@@ -348,8 +346,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Account](https://www.npmjs.com/package/account)
 
 [Empty](https://www.npmjs.com/package/empty)
@@ -400,8 +396,6 @@
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -437,3 +431,13 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Request](https://www.npmjs.com/package/request)
+
+[Resource](https://www.npmjs.com/package/resource)
+
+[Provision](https://www.npmjs.com/package/provision)
+
+[Delivery](https://www.npmjs.com/package/delivery)
