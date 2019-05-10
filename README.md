@@ -443,3 +443,7 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vis](https://www.npmjs.com/package/vis)
+
+[Spy](https://www.npmjs.com/package/spy)
