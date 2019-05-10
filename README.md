@@ -360,8 +360,6 @@
 
 [Naked](https://www.npmjs.com/package/naked)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Soccer](https://www.npmjs.com/package/soccer)
@@ -441,3 +439,7 @@
 [Provision](https://www.npmjs.com/package/provision)
 
 [Delivery](https://www.npmjs.com/package/delivery)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Infant](https://www.npmjs.com/package/infant)
