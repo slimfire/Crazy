@@ -424,8 +424,6 @@
 
 [Decade](https://www.npmjs.com/package/decade)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
@@ -437,6 +435,10 @@
 [Vis](https://www.npmjs.com/package/vis)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Gavel](https://www.npmjs.com/package/gavel)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Vote](https://www.npmjs.com/package/vote)
 
