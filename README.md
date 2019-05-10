@@ -430,6 +430,14 @@
 
 [Bull](https://www.npmjs.com/package/bull)
 
+[Breach](https://www.npmjs.com/package/breach)
+
+[Infant](https://www.npmjs.com/package/infant)
+
+[Vis](https://www.npmjs.com/package/vis)
+
+[Spy](https://www.npmjs.com/package/spy)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Request](https://www.npmjs.com/package/request)
@@ -439,11 +447,3 @@
 [Provision](https://www.npmjs.com/package/provision)
 
 [Delivery](https://www.npmjs.com/package/delivery)
-
-[Breach](https://www.npmjs.com/package/breach)
-
-[Infant](https://www.npmjs.com/package/infant)
-
-[Vis](https://www.npmjs.com/package/vis)
-
-[Spy](https://www.npmjs.com/package/spy)
