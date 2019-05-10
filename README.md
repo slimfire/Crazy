@@ -444,8 +444,6 @@
 
 [Delivery](https://www.npmjs.com/package/delivery)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [soccer](https://www.npmjs.com/package/soccer)
 
 [Institute](https://www.npmjs.com/package/institute)
