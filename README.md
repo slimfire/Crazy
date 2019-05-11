@@ -384,8 +384,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
@@ -449,3 +447,7 @@
 [Institute](https://www.npmjs.com/package/institute)
 
 [hop](https://www.npmjs.com/package/hop)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Scam](https://www.npmjs.com/package/scam)
