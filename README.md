@@ -454,8 +454,6 @@
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Management](https://www.npmjs.com/package/management)
@@ -463,3 +461,7 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Arm](https://www.npmjs.com/package/arm)
+
+[Spy](https://www.npmjs.com/package/spy)
