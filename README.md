@@ -452,8 +452,6 @@
 
 [Deception](https://www.npmjs.com/package/deception)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Management](https://www.npmjs.com/package/management)
@@ -465,3 +463,5 @@
 [Arm](https://www.npmjs.com/package/arm)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
