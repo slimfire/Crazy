@@ -274,8 +274,6 @@
 
 [Tiny](https://www.npmjs.com/package/tiny)
 
-[Management](https://www.npmjs.com/package/management)
-
 [Successful](https://www.npmjs.com/package/successful)
 
 [Classroom](https://www.npmjs.com/package/classroom)
@@ -414,8 +412,6 @@
 
 [Decade](https://www.npmjs.com/package/decade)
 
-[Central](https://www.npmjs.com/package/central)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -461,5 +457,9 @@
 [Spy](https://www.npmjs.com/package/spy)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Management](https://www.npmjs.com/package/management)
+
+[Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
