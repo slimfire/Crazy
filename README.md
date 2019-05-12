@@ -386,8 +386,6 @@
 
 [Request](https://www.npmjs.com/package/request)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -428,8 +426,6 @@
 
 [Vis](https://www.npmjs.com/package/vis)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Gavel](https://www.npmjs.com/package/gavel)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -455,4 +451,8 @@
 [Infrastrucre](https://www.npmjs.com/package/infrastructure)
 
 [Over](https://www.npmjs.com/package/over)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Spy](https://www.npmjs.com/package/spy)
 
