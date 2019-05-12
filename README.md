@@ -382,8 +382,6 @@
 
 [Umbrella](https://www.npmjs.com/package/umbrella)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Yellow](https://www.npmjs.com/package/yellow)
@@ -417,8 +415,6 @@
 [Decade](https://www.npmjs.com/package/decade)
 
 [Central](https://www.npmjs.com/package/central)
-
-[Bull](https://www.npmjs.com/package/bull)
 
 [Breach](https://www.npmjs.com/package/breach)
 
@@ -463,3 +459,7 @@
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Bull](https://www.npmjs.com/package/bull)
