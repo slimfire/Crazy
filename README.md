@@ -452,7 +452,14 @@
 
 [Over](https://www.npmjs.com/package/over)
 
+[Treat](https://www.npmjs.com/package/treat)
+
+[Spoil](https://www.npmjs.com/package/spoil)
+
+[Push](https://www.npmjs.com/package/push)
+
+[Deception](https://www.npmjs.com/package/deception)
+
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Spy](https://www.npmjs.com/package/spy)
-
