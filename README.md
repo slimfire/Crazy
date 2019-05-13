@@ -404,8 +404,6 @@
 
 [Next](https://www.npmjs.com/package/next)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Journal](https://www.npmjs.com/package/journal)
 
 [Name](https://www.npmjs.com/package/name)
@@ -465,3 +463,7 @@
 [Arm](https://www.npmjs.com/package/arm)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Docker](https://www.npmjs.com/package/docker)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
