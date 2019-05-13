@@ -254,8 +254,6 @@
 
 [Virtual](https://www.npmjs.com/package/virtual)
 
-[Geek](https://www.npmjs.com/package/geek)
-
 [Amplify](https://www.npmjs.com/package/amplify)
 
 [Background](https://www.npmjs.com/package/background)
@@ -321,8 +319,6 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Clustering](https://www.npmjs.com/package/clustering)
-
-[Routing](https://www.npmjs.com/package/routing)
 
 [Role](https://www.npmjs.com/package/role)
 
@@ -487,3 +483,11 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Face](https://www.npmjs.com/package/face)
+
+[Cry](https://www.npmjs.com/package/cry)
+
+[Geek](https://www.npmjs.com/package/geek)
