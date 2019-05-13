@@ -288,8 +288,6 @@
 
 [Oversea](https://www.npmjs.com/package/oversea)
 
-[Push](https://www.npmjs.com/package/push)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Beer](https://www.npmjs.com/package/beer)
@@ -468,8 +466,6 @@
 
 [Change](https://www.npmjs.com/package/change)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [Level](https://www.npmjs.com/package/level)
 
 [Profile](https://www.npmjs.com/package/profile)
@@ -493,3 +489,7 @@
 [Isolate](https://www.npmjs.com/package/isolate)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Push](https://www.npmjs.com/package/push)
+
+[Deception](https://www.npmjs.com/package/deception)
