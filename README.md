@@ -364,10 +364,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Target](https://www.npmjs.com/package/target)
 
 [White](https://www.npmjs.com/package/white)
@@ -467,3 +463,7 @@
 [Arm](https://www.npmjs.com/package/arm)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
