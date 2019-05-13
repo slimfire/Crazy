@@ -422,8 +422,6 @@
 
 [soccer](https://www.npmjs.com/package/soccer)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [hop](https://www.npmjs.com/package/hop)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -471,3 +469,11 @@
 [WAN](https://www.npmjs.com/package/wan)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Move](https://www.npmjs.com/package/move)
+
+[Network](https://www.npmjs.com/package/network)
+
+[Hop](https://www.npmjs.com/package/hop)
