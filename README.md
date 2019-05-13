@@ -162,8 +162,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Open](https://www.npmjs.com/package/open)
-
 [Competition](https://www.npmjs.com/package/competition)
 
 [Sync](https://www.npmjs.com/package/sync)
@@ -428,8 +426,6 @@
 
 [Push](https://www.npmjs.com/package/push)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Management](https://www.npmjs.com/package/management)
@@ -487,3 +483,7 @@
 [Profile](https://www.npmjs.com/package/profile)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Open](https://www.npmjs.com/package/open)
+
+[Deception](https://www.npmjs.com/package/deception)
