@@ -310,8 +310,6 @@
 
 [Manufacture](https://www.npmjs.com/package/manufacture)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [Mine](https://www.npmjs.com/package/mine)
 
 [Proud](https://www.npmjs.com/package/proud)
@@ -481,3 +479,9 @@
 [xy](https://www.npmjs.com/package/xy)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Behavior](https://www.npmjs.com/package/behavior)
+
+[Change](https://www.npmjs.com/package/change)
+
+[Deception](https://www.npmjs.com/package/deception)
