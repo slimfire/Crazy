@@ -408,8 +408,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Vis](https://www.npmjs.com/package/vis)
 
 [Gavel](https://www.npmjs.com/package/gavel)
@@ -469,3 +467,7 @@
 [Notice](https://www.npmjs.com/package/notice)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[WAN](https://www.npmjs.com/package/wan)
+
+[Infant](https://www.npmjs.com/package/infant)
