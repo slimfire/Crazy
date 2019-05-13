@@ -142,8 +142,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[Profile](https://www.npmjs.com/package/profile)
-
 [ill](https://www.npmjs.com/package/ill)
 
 [Video](https://www.npmjs.com/package/video)
@@ -456,8 +454,6 @@
 
 [Notice](https://www.npmjs.com/package/notice)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [WAN](https://www.npmjs.com/package/wan)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -485,3 +481,9 @@
 [Change](https://www.npmjs.com/package/change)
 
 [Deception](https://www.npmjs.com/package/deception)
+
+[Level](https://www.npmjs.com/package/level)
+
+[Profile](https://www.npmjs.com/package/profile)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
