@@ -282,8 +282,6 @@
 
 [Spanish](https://www.npmjs.com/package/spanish)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Stream](https://www.npmjs.com/package/stream)
 
 [Oversea](https://www.npmjs.com/package/oversea)
@@ -408,8 +406,6 @@
 
 [hop](https://www.npmjs.com/package/hop)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Infrastrucre](https://www.npmjs.com/package/infrastructure)
 
 [Over](https://www.npmjs.com/package/over)
@@ -441,8 +437,6 @@
 [Notice](https://www.npmjs.com/package/notice)
 
 [WAN](https://www.npmjs.com/package/wan)
-
-[Infant](https://www.npmjs.com/package/infant)
 
 [Institute](https://www.npmjs.com/package/institute)
 
@@ -493,3 +487,9 @@
 [Push](https://www.npmjs.com/package/push)
 
 [Deception](https://www.npmjs.com/package/deception)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Infant](https://www.npmjs.com/package/infant)
