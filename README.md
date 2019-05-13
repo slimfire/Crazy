@@ -318,8 +318,6 @@
 
 [Library](https://www.npmjs.com/package/library)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Ultimate](https://www.npmjs.com/package/ultimate)
 
 [Now](https://www.npmjs.com/package/now)
@@ -371,8 +369,6 @@
 [Gun](https://www.npmjs.com/package/gun)
 
 [Chess](https://www.npmjs.com/package/chess)
-
-[xy](https://www.npmjs.com/package/xy)
 
 [Umbrella](https://www.npmjs.com/package/umbrella)
 
@@ -479,3 +475,9 @@
 [warned](https://www.npmjs.com/package/warned)
 
 [Scam](https://www.npmjs.com/package/scam)
+
+[East](https://www.npmjs.com/package/east)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[Ready](https://www.npmjs.com/package/ready)
