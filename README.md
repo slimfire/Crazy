@@ -430,10 +430,6 @@
 
 [Management](https://www.npmjs.com/package/management)
 
-[Central](https://www.npmjs.com/package/central)
-
-[Bull](https://www.npmjs.com/package/bull)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -487,3 +483,7 @@
 [Open](https://www.npmjs.com/package/open)
 
 [Deception](https://www.npmjs.com/package/deception)
+
+[Central](https://www.npmjs.com/package/central)
+
+[Bull](https://www.npmjs.com/package/bull)
