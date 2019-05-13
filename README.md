@@ -474,8 +474,6 @@
 
 [Profile](https://www.npmjs.com/package/profile)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Open](https://www.npmjs.com/package/open)
 
 [Deception](https://www.npmjs.com/package/deception)
@@ -491,3 +489,7 @@
 [Cry](https://www.npmjs.com/package/cry)
 
 [Geek](https://www.npmjs.com/package/geek)
+
+[Isolate](https://www.npmjs.com/package/isolate)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
