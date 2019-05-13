@@ -414,8 +414,6 @@
 
 [Gavel](https://www.npmjs.com/package/gavel)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Resource](https://www.npmjs.com/package/resource)
@@ -467,3 +465,7 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Notice](https://www.npmjs.com/package/notice)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
