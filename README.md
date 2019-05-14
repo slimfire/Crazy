@@ -372,8 +372,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -474,8 +472,6 @@
 
 [Isolate](https://www.npmjs.com/package/isolate)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Push](https://www.npmjs.com/package/push)
 
 [Deception](https://www.npmjs.com/package/deception)
@@ -491,3 +487,10 @@
 [Fountain](https://www.npmjs.com/package/fountain)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Tag](https://www.npmjs.com/package/tag)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
