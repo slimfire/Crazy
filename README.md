@@ -196,8 +196,6 @@
 
 [Fight](https://www.npmjs.com/package/fight)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [French](https://www.npmjs.com/package/french)
 
 [Ad](https://www.npmjs.com/package/ad)
@@ -482,8 +480,6 @@
 
 [Fountain](https://www.npmjs.com/package/fountain)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Massive](https://www.npmjs.com/package/massive)
 
 [Tag](https://www.npmjs.com/package/tag)
@@ -493,3 +489,7 @@
 [Card](https://www.npmjs.com/package/card)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Spy](https://www.npmjs.com/package/spy)
