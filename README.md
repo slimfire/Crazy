@@ -264,8 +264,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Card](https://www.npmjs.com/package/card)
-
 [Tiny](https://www.npmjs.com/package/tiny)
 
 [Successful](https://www.npmjs.com/package/successful)
@@ -480,8 +478,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [EMC](https://www.npmjs.com/package/emc)
 
 [Fountain](https://www.npmjs.com/package/fountain)
@@ -494,3 +490,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
+[Card](https://www.npmjs.com/package/card)
+
+[Infant](https://www.npmjs.com/package/infant)
