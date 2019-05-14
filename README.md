@@ -428,8 +428,6 @@
 
 [Arm](https://www.npmjs.com/package/arm)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -493,3 +491,7 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[EMC](https://www.npmjs.com/package/emc)
+
+[Spy](https://www.npmjs.com/package/spy)
