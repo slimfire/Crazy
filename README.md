@@ -64,8 +64,6 @@
 
 [Interface](https://www.npmjs.com/package/interface)
 
-[Public](https://www.npmjs.com/package/public)
-
 [Mock](https://www.npmjs.com/package/mock)
 
 [Integration](https://www.npmjs.com/package/integration)
@@ -316,10 +314,6 @@
 
 [Failure](https://www.npmjs.com/package/failure)
 
-[Ref](https://www.npmjs.com/package/ref)
-
-[Contact](https://www.npmjs.com/package/contact)
-
 [Account](https://www.npmjs.com/package/account)
 
 [Empty](https://www.npmjs.com/package/empty)
@@ -490,6 +484,12 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
+[Ref](https://www.npmjs.com/package/ref)
+
 [Ireland](https://www.npmjs.com/package/ireland)
+
+[Public](https://www.npmjs.com/package/public)
+
+[Contact](https://www.npmjs.com/package/contact)
 
 [Spy](https://www.npmjs.com/package/spy)
