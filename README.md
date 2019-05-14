@@ -448,12 +448,6 @@
 
 [Scam](https://www.npmjs.com/package/scam)
 
-[East](https://www.npmjs.com/package/east)
-
-[xy](https://www.npmjs.com/package/xy)
-
-[Ready](https://www.npmjs.com/package/ready)
-
 [Behavior](https://www.npmjs.com/package/behavior)
 
 [Change](https://www.npmjs.com/package/change)
