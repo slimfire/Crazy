@@ -488,8 +488,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Basic](https://www.npmjs.com/package/basic)
 
 [Dev](https://www.npmjs.com/package/dev)
@@ -497,3 +495,5 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Deception](https://www.npmjs.com/package/deception)
+
+[Spy](https://www.npmjs.com/package/spy)
