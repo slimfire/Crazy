@@ -478,8 +478,6 @@
 
 [Tag](https://www.npmjs.com/package/tag)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Card](https://www.npmjs.com/package/card)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -493,3 +491,7 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Basic](https://www.npmjs.com/package/basic)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
