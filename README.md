@@ -464,8 +464,6 @@
 
 [Push](https://www.npmjs.com/package/push)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -497,3 +495,5 @@
 [Dev](https://www.npmjs.com/package/dev)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Deception](https://www.npmjs.com/package/deception)
