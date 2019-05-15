@@ -494,4 +494,6 @@
 
 [Basic](https://www.npmjs.com/package/basic)
 
+[Dev](https://www.npmjs.com/package/dev)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
