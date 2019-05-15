@@ -454,10 +454,6 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Face](https://www.npmjs.com/package/face)
-
-[Cry](https://www.npmjs.com/package/cry)
-
 [Geek](https://www.npmjs.com/package/geek)
 
 [Isolate](https://www.npmjs.com/package/isolate)
@@ -478,8 +474,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Ref](https://www.npmjs.com/package/ref)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -497,3 +491,9 @@
 [Deception](https://www.npmjs.com/package/deception)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Face](https://www.npmjs.com/package/face)
+
+[Cry](https://www.npmjs.com/package/cry)
+
+[Infant](https://www.npmjs.com/package/infant)
