@@ -497,7 +497,3 @@
 [Cry](https://www.npmjs.com/package/cry)
 
 [Infant](https://www.npmjs.com/package/infant)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Therapy](https://www.npmjs.com/package/therapy)
