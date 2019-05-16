@@ -486,8 +486,6 @@
 
 [Dev](https://www.npmjs.com/package/dev)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Deception](https://www.npmjs.com/package/deception)
 
 [Spy](https://www.npmjs.com/package/spy)
@@ -497,3 +495,9 @@
 [Cry](https://www.npmjs.com/package/cry)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[Ring](https://www.npmjs.com/package/ring)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
