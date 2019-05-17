@@ -414,8 +414,6 @@
 
 [Arm](https://www.npmjs.com/package/arm)
 
-[Name](https://www.npmjs.com/package/name)
-
 [UUID](https://www.npmjs.com/package/uuid)
 
 [Notice](https://www.npmjs.com/package/notice)
@@ -457,8 +455,6 @@
 [Isolate](https://www.npmjs.com/package/isolate)
 
 [Push](https://www.npmjs.com/package/push)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Breach](https://www.npmjs.com/package/breach)
 
@@ -505,3 +501,7 @@
 [President](https://www.npmjs.com/package/president)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Name](https://www.npmjs.com/package/name)
