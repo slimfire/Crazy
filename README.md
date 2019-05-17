@@ -348,10 +348,6 @@
 
 [Request](https://www.npmjs.com/package/request)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
-
 [Partner](https://www.npmjs.com/package/partner)
 
 [Reverse](https://www.npmjs.com/package/reverse)
@@ -413,8 +409,6 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Arm](https://www.npmjs.com/package/arm)
-
-[UUID](https://www.npmjs.com/package/uuid)
 
 [Notice](https://www.npmjs.com/package/notice)
 
@@ -505,3 +499,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
