@@ -310,8 +310,6 @@
 
 [Failure](https://www.npmjs.com/package/failure)
 
-[Account](https://www.npmjs.com/package/account)
-
 [Empty](https://www.npmjs.com/package/empty)
 
 [Fire](https://www.npmjs.com/package/fire)
@@ -343,8 +341,6 @@
 [Chess](https://www.npmjs.com/package/chess)
 
 [Umbrella](https://www.npmjs.com/package/umbrella)
-
-[Request](https://www.npmjs.com/package/request)
 
 [Partner](https://www.npmjs.com/package/partner)
 
@@ -488,8 +484,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -501,3 +495,11 @@
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Request](https://www.npmjs.com/package/request)
+
+[Account](https://www.npmjs.com/package/account)
+
+[Employment](https://github.com/hodsonjames/employment)
