@@ -499,7 +499,3 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
-
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
