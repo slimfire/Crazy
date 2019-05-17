@@ -268,8 +268,6 @@
 
 [SDN](https://www.npmjs.com/package/sdn)
 
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
-
 [Cookie](https://www.npmjs.com/package/cookie)
 
 [Spanish](https://www.npmjs.com/package/spanish)
@@ -486,10 +484,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Massive](https://www.npmjs.com/package/massive)
-
-[Infant](https://www.npmjs.com/package/infant)
-
 [President](https://www.npmjs.com/package/president)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -499,3 +493,11 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Infant](https://www.npmjs.com/package/infant)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
