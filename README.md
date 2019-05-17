@@ -494,8 +494,6 @@
 
 [Ring](https://www.npmjs.com/package/ring)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Live](https://www.npmjs.com/package/live)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -503,3 +501,7 @@
 [Massive](https://www.npmjs.com/package/massive)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[President](https://www.npmjs.com/package/president)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
