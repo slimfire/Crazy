@@ -468,8 +468,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Basic](https://www.npmjs.com/package/basic)
-
 [Dev](https://www.npmjs.com/package/dev)
 
 [Deception](https://www.npmjs.com/package/deception)
