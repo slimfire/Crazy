@@ -468,8 +468,6 @@
 
 [Fountain](https://www.npmjs.com/package/fountain)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Tag](https://www.npmjs.com/package/tag)
 
 [Card](https://www.npmjs.com/package/card)
@@ -494,10 +492,12 @@
 
 [Cry](https://www.npmjs.com/package/cry)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [Ring](https://www.npmjs.com/package/ring)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Infant](https://www.npmjs.com/package/infant)
