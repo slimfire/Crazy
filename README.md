@@ -242,8 +242,6 @@
 
 [Killer](https://www.npmjs.com/package/killer)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Physical](https://www.npmjs.com/package/physical)
@@ -497,6 +495,10 @@
 [Ring](https://www.npmjs.com/package/ring)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Live](https://www.npmjs.com/package/live)
+
+[Infant](https://www.npmjs.com/package/infant)
 
 [Massive](https://www.npmjs.com/package/massive)
 
