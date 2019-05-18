@@ -496,8 +496,6 @@
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Account](https://www.npmjs.com/package/account)
@@ -509,3 +507,8 @@
 [Computing](https://www.npmjs.com/package/computing)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Reporter](https://www.npmjs.com/package/reporter)
+
