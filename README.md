@@ -324,8 +324,6 @@
 
 [Mentor](https://www.npmjs.com/package/mentor)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Target](https://www.npmjs.com/package/target)
 
 [White](https://www.npmjs.com/package/white)
@@ -505,3 +503,9 @@
 [Account](https://www.npmjs.com/package/account)
 
 [Employment](https://github.com/hodsonjames/employment)
+
+[Security](https://www.npmjs.com/package/security)
+
+[Computing](https://www.npmjs.com/package/computing)
+
+[Ready](https://www.npmjs.com/package/ready)
