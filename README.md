@@ -516,4 +516,6 @@
 
 [Back](https://www.npmjs.com/package/back)
 
+[Doctor](https://www.npmjs.com/package/doctor)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
