@@ -515,5 +515,3 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Threesome](https://www.npmjs.com/package/threesome)
-
-[Cluster](https://www.npmjs.com/package/cluster)
