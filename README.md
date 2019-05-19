@@ -512,10 +512,6 @@
 
 [Reporter](https://www.npmjs.com/package/reporter)
 
-[Threesome](https://www.npmjs.com/package/threesome)
-
 [Vote](https://www.npmjs.com/package/vote)
 
-[Public](https://www.npmjs.com/package/public)
-
-[Lab](https://www.npmjs.com/package/lab)
+[Threesome](https://www.npmjs.com/package/threesome)
