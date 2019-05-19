@@ -474,8 +474,6 @@
 
 [President](https://www.npmjs.com/package/president)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -515,3 +513,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Threesome](https://www.npmjs.com/package/threesome)
+
+[Back](https://www.npmjs.com/package/back)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
