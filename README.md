@@ -518,4 +518,6 @@
 
 [Doctor](https://www.npmjs.com/package/doctor)
 
+[Zoom](https://www.npmjs.com/package/zoom)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
