@@ -521,3 +521,7 @@
 [Zoom](https://www.npmjs.com/package/zoom)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Cluster](https://www.npmjs.com/package/cluster)
+
+[NGO](https://www.npmjs.com/package/ngo)
