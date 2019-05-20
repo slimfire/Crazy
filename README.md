@@ -180,8 +180,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[xx](https://www.npmjs.com/package/xx)
-
 [OnEvent](https://www.npmjs.com/package/onevent)
 
 [Room](https://www.npmjs.com/package/room)
@@ -464,8 +462,6 @@
 
 [Cry](https://www.npmjs.com/package/cry)
 
-[xy](https://www.npmjs.com/package/xy)
-
 [Ring](https://www.npmjs.com/package/ring)
 
 [Live](https://www.npmjs.com/package/live)
@@ -520,8 +516,10 @@
 
 [Zoom](https://www.npmjs.com/package/zoom)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Cluster](https://www.npmjs.com/package/cluster)
 
 [NGO](https://www.npmjs.com/package/ngo)
+
+[xx](https://www.npmjs.com/package/xx)
+
+[xy](https://www.npmjs.com/package/xy)
