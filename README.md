@@ -456,8 +456,6 @@
 
 [Deception](https://www.npmjs.com/package/deception)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Face](https://www.npmjs.com/package/face)
 
 [Cry](https://www.npmjs.com/package/cry)
@@ -523,3 +521,5 @@
 [xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
+
+[Spy](https://www.npmjs.com/package/spy)
