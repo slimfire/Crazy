@@ -525,3 +525,11 @@
 [Live](https://www.npmjs.com/package/live)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Duo](https://www.npmjs.com/package/duo)
+
+[Arm](https://www.npmjs.com/package/arm)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+
