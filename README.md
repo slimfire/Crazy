@@ -521,3 +521,8 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Duo](https://www.npmjs.com/package/duo)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
