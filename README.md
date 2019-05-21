@@ -156,8 +156,6 @@
 
 [Orlando](https://www.npmjs.com/package/orlando)
 
-[Topology](https://www.npmjs.com/package/topology)
-
 [Competition](https://www.npmjs.com/package/competition)
 
 [Sync](https://www.npmjs.com/package/sync)
@@ -464,8 +462,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [President](https://www.npmjs.com/package/president)
 
 [Name](https://www.npmjs.com/package/name)
@@ -521,3 +517,7 @@
 [xy](https://www.npmjs.com/package/xy)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[Infant](https://www.npmjs.com/package/infant)
