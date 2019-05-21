@@ -472,8 +472,6 @@
 
 [Build](https://www.npmjs.com/package/build)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Traffic](https://www.npmjs.com/package/traffic)
 
 [Stream](https://www.npmjs.com/package/stream)
@@ -520,9 +518,10 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
+[Live](https://www.npmjs.com/package/live)
+
+[Infant](https://www.npmjs.com/package/infant)
