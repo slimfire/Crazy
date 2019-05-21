@@ -514,8 +514,6 @@
 
 [xy](https://www.npmjs.com/package/xy)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Duo](https://www.npmjs.com/package/duo)
@@ -530,6 +528,6 @@
 
 [Arm](https://www.npmjs.com/package/arm)
 
+[Movement](https://www.npmjs.com/package/movement)
+
 [Paranoia](https://www.npmjs.com/package/paranoia)
-
-
