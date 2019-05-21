@@ -506,8 +506,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Threesome](https://www.npmjs.com/package/threesome)
-
 [Back](https://www.npmjs.com/package/back)
 
 [Doctor](https://www.npmjs.com/package/doctor)
