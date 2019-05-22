@@ -504,8 +504,6 @@
 
 [Cluster](https://www.npmjs.com/package/cluster)
 
-[NGO](https://www.npmjs.com/package/ngo)
-
 [xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
@@ -533,3 +531,5 @@
 [Card](https://www.npmjs.com/package/card)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[NGO](https://www.npmjs.com/package/ngo)
