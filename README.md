@@ -388,8 +388,6 @@
 
 [Docker](https://www.npmjs.com/package/docker)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Notice](https://www.npmjs.com/package/notice)
@@ -468,8 +466,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Build](https://www.npmjs.com/package/build)
 
 [Traffic](https://www.npmjs.com/package/traffic)
@@ -531,3 +527,7 @@
 [Movement](https://www.npmjs.com/package/movement)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
