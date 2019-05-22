@@ -518,8 +518,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Arm](https://www.npmjs.com/package/arm)
@@ -531,3 +529,7 @@
 [Massive](https://www.npmjs.com/package/massive)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Infant](https://www.npmjs.com/package/infant)
