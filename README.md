@@ -538,4 +538,4 @@
 
 [Sign](https://www.npmjs.com/package/sign)
 
-[Spy](https://www.npmjs.com/package/spy)
+[Infant](https://www.npmjs.com/package/infant)
