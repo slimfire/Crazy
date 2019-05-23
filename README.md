@@ -380,8 +380,6 @@
 
 [Push](https://www.npmjs.com/package/push)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Management](https://www.npmjs.com/package/management)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
@@ -533,3 +531,9 @@
 [Infant](https://www.npmjs.com/package/infant)
 
 [NGO](https://www.npmjs.com/package/ngo)
+
+[Circle](https://www.npmjs.com/package/circle)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Trustless](https://www.npmjs.com/package/trustless)
