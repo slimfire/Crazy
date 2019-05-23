@@ -524,8 +524,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [NGO](https://www.npmjs.com/package/ngo)
 
 [Spy](https://www.npmjs.com/package/spy)
@@ -534,4 +532,4 @@
 
 [xX](https://www.npmjs.com/package/xx)
 
-[Dumb](https://www.npmjs.com/package/dumb)
+[Infant](https://www.npmjs.com/package/infant)
