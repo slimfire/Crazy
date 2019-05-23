@@ -320,8 +320,6 @@
 
 [Mentor](https://www.npmjs.com/package/mentor)
 
-[Target](https://www.npmjs.com/package/target)
-
 [White](https://www.npmjs.com/package/white)
 
 [Gun](https://www.npmjs.com/package/gun)
@@ -506,8 +504,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Live](https://www.npmjs.com/package/live)
 
 [Duo](https://www.npmjs.com/package/duo)
@@ -535,5 +531,9 @@
 [Infant](https://www.npmjs.com/package/infant)
 
 [Run](https://www.npmjs.com/package/run)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Target](https://www.npmjs.com/package/target)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
