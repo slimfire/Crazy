@@ -532,6 +532,8 @@
 
 [Target](https://www.npmjs.com/package/target)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Manufacture](https://www.npmjs.com/package/manufacture)
+
+[All](https://www.npmjs.com/package/all)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
