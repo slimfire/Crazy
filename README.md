@@ -488,8 +488,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Reporter](https://www.npmjs.com/package/reporter)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -501,8 +499,6 @@
 [Zoom](https://www.npmjs.com/package/zoom)
 
 [Cluster](https://www.npmjs.com/package/cluster)
-
-[xx](https://www.npmjs.com/package/xx)
 
 [xy](https://www.npmjs.com/package/xy)
 
@@ -534,3 +530,8 @@
 
 [Spy](https://www.npmjs.com/package/spy)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[xX](https://www.npmjs.com/package/xx)
+
+[Dumb](https://www.npmjs.com/package/dumb)
