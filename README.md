@@ -533,3 +533,7 @@
 [xX](https://www.npmjs.com/package/xx)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Run](https://www.npmjs.com/package/run)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
