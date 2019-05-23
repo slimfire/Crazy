@@ -529,11 +529,3 @@
 [Card](https://www.npmjs.com/package/card)
 
 [Infant](https://www.npmjs.com/package/infant)
-
-[NGO](https://www.npmjs.com/package/ngo)
-
-[Circle](https://www.npmjs.com/package/circle)
-
-[RGB](https://www.npmjs.com/package/rgb)
-
-[Trustless](https://www.npmjs.com/package/trustless)
