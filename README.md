@@ -278,8 +278,6 @@
 
 [Dictation](https://www.npmjs.com/package/dictation)
 
-[Manufacture](https://www.npmjs.com/package/manufacture)
-
 [Mine](https://www.npmjs.com/package/mine)
 
 [Proud](https://www.npmjs.com/package/proud)
@@ -524,8 +522,6 @@
 
 [Spy](https://www.npmjs.com/package/spy)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [xX](https://www.npmjs.com/package/xx)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -537,3 +533,7 @@
 [Target](https://www.npmjs.com/package/target)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Manufacture](https://www.npmjs.com/package/manufacture)
