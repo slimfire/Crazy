@@ -520,8 +520,6 @@
 
 [NGO](https://www.npmjs.com/package/ngo)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [xX](https://www.npmjs.com/package/xx)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -537,3 +535,7 @@
 [All](https://www.npmjs.com/package/all)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Sign](https://www.npmjs.com/package/sign)
+
+[Spy](https://www.npmjs.com/package/spy)
