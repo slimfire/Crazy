@@ -528,7 +528,7 @@
 
 [xX](https://www.npmjs.com/package/xx)
 
-[Infant](https://www.npmjs.com/package/infant)
+[Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Run](https://www.npmjs.com/package/run)
 
