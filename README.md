@@ -534,6 +534,4 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Manufacture](https://www.npmjs.com/package/manufacture)
