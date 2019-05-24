@@ -512,8 +512,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[NGO](https://www.npmjs.com/package/ngo)
-
 [xX](https://www.npmjs.com/package/xx)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -542,3 +540,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
+[NGO](https://www.npmjs.com/package/ngo)
+
+[RGB](https://www.npmjs.com/package/rgb)
