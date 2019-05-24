@@ -264,8 +264,6 @@
 
 [Spanish](https://www.npmjs.com/package/spanish)
 
-[Oversea](https://www.npmjs.com/package/oversea)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Beer](https://www.npmjs.com/package/beer)
@@ -329,8 +327,6 @@
 [Partner](https://www.npmjs.com/package/partner)
 
 [Reverse](https://www.npmjs.com/package/reverse)
-
-[Split](https://www.npmjs.com/package/split)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
@@ -415,8 +411,6 @@
 [Central](https://www.npmjs.com/package/central)
 
 [Bull](https://www.npmjs.com/package/bull)
-
-[Routing](https://www.npmjs.com/package/routing)
 
 [Geek](https://www.npmjs.com/package/geek)
 
@@ -539,3 +533,12 @@
 [Sign](https://www.npmjs.com/package/sign)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Mali](https://www.npmjs.com/package/split)
+
+[Oversea](https://www.npmjs.com/package/oversea)
+
+[Split](https://www.npmjs.com/package/split)
+
