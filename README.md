@@ -530,8 +530,6 @@
 
 [Sign](https://www.npmjs.com/package/sign)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Routing](https://www.npmjs.com/package/routing)
 
 [Mali](https://www.npmjs.com/package/split)
@@ -543,3 +541,7 @@
 [NGO](https://www.npmjs.com/package/ngo)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Museum](https://www.npmjs.com/package/museum)
+
+[Infant](https://www.npmjs.com/package/infant)
