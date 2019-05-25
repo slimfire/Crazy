@@ -546,8 +546,8 @@
 
 [Query](https://www.npmjs.com/package/query)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Magic](https://www.npmjs.com/package/magic)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Spy](https://www.npmjs.com/package/spy)
