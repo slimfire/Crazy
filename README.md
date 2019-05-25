@@ -376,8 +376,6 @@
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
-[Docker](https://www.npmjs.com/package/docker)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Notice](https://www.npmjs.com/package/notice)
@@ -545,3 +543,9 @@
 [Museum](https://www.npmjs.com/package/museum)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Docker](https://www.npmjs.com/package/docker)
+
+[Query](https://www.npmjs.com/package/query)
+
+[Spy](https://www.npmjs.com/package/spy)
