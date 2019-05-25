@@ -412,8 +412,6 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
-[Isolate](https://www.npmjs.com/package/isolate)
-
 [Push](https://www.npmjs.com/package/push)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -540,8 +538,6 @@
 
 [Museum](https://www.npmjs.com/package/museum)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Docker](https://www.npmjs.com/package/docker)
 
 [Query](https://www.npmjs.com/package/query)
@@ -551,3 +547,9 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Support](https://www.npmjs.com/package/support)
+
+[Isolate](https://www.npmjs.com/package/isolate)
+
+[Infant](https://www.npmjs.com/package/infant)
