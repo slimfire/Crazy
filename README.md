@@ -524,8 +524,6 @@
 
 [All](https://www.npmjs.com/package/all)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Sign](https://www.npmjs.com/package/sign)
 
 [Routing](https://www.npmjs.com/package/routing)
@@ -549,3 +547,7 @@
 [Query](https://www.npmjs.com/package/query)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Magic](https://www.npmjs.com/package/magic)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
