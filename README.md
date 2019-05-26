@@ -372,8 +372,6 @@
 
 [Management](https://www.npmjs.com/package/management)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Notice](https://www.npmjs.com/package/notice)
@@ -553,3 +551,5 @@
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
