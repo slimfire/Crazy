@@ -490,8 +490,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Card](https://www.npmjs.com/package/card)
@@ -556,6 +554,8 @@
 
 [Expression](https://www.npmjs.com/package/expression)
 
-[Insight](https://www.npmjs.com/package/insight)
+[Massive](https://www.npmjs.com/package/massive)
+
+[Docker](https://www.npmjs.com/package/docker)
 
 [Return](https://www.npmjs.com/package/return)
