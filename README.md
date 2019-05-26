@@ -440,10 +440,6 @@
 
 [President](https://www.npmjs.com/package/president)
 
-[Name](https://www.npmjs.com/package/name)
-
-[UUID](https://www.npmjs.com/package/uuid)
-
 [Build](https://www.npmjs.com/package/build)
 
 [Traffic](https://www.npmjs.com/package/traffic)
@@ -553,3 +549,7 @@
 [Infant](https://www.npmjs.com/package/infant)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Name](https://www.npmjs.com/package/name)
+
+[UUID](https://www.npmjs.com/package/uuid)
