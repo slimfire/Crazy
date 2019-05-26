@@ -204,8 +204,6 @@
 
 [Retention](https://www.npmjs.com/package/retention)
 
-[Dangerous](https://www.npmjs.com/package/dangerous)
-
 [Now](https://www.npmjs.com/package/now)
 
 [Fast](https://www.npmjs.com/package/fast)
@@ -551,5 +549,7 @@
 [Support](https://www.npmjs.com/package/support)
 
 [Isolate](https://www.npmjs.com/package/isolate)
+
+[Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Infant](https://www.npmjs.com/package/infant)
