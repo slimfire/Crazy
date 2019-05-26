@@ -246,8 +246,6 @@
 
 [Operation](https://www.npmjs.com/package/operation)
 
-[Witness](https://www.npmjs.com/package/witness)
-
 [Tiny](https://www.npmjs.com/package/tiny)
 
 [Successful](https://www.npmjs.com/package/successful)
@@ -549,6 +547,8 @@
 [Isolate](https://www.npmjs.com/package/isolate)
 
 [Dangerous](https://www.npmjs.com/package/dangerous)
+
+[Witness](https://www.npmjs.com/package/witness)
 
 [Infant](https://www.npmjs.com/package/infant)
 
