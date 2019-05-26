@@ -474,8 +474,6 @@
 
 [Cluster](https://www.npmjs.com/package/cluster)
 
-[xy](https://www.npmjs.com/package/xy)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Duo](https://www.npmjs.com/package/duo)
@@ -520,8 +518,6 @@
 
 [NGO](https://www.npmjs.com/package/ngo)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Museum](https://www.npmjs.com/package/museum)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -542,8 +538,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
 [Name](https://www.npmjs.com/package/name)
@@ -559,3 +553,9 @@
 [Docker](https://www.npmjs.com/package/docker)
 
 [Return](https://www.npmjs.com/package/return)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Infant](https://www.npmjs.com/package/infant)
