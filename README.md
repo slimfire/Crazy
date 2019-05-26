@@ -555,3 +555,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Expression](https://www.npmjs.com/package/expression)
+
+[Insight](https://www.npmjs.com/package/insight)
+
+[Return](https://www.npmjs.com/package/return)
