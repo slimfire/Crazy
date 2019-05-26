@@ -428,8 +428,6 @@
 
 [Dev](https://www.npmjs.com/package/dev)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [Face](https://www.npmjs.com/package/face)
 
 [Cry](https://www.npmjs.com/package/cry)
@@ -544,8 +542,6 @@
 
 [UUID](https://www.npmjs.com/package/uuid)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Expression](https://www.npmjs.com/package/expression)
 
 [Massive](https://www.npmjs.com/package/massive)
@@ -559,3 +555,7 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Deception](https://www.npmjs.com/package/deception)
