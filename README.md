@@ -466,8 +466,6 @@
 
 [Reporter](https://www.npmjs.com/package/reporter)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Back](https://www.npmjs.com/package/back)
 
 [Doctor](https://www.npmjs.com/package/doctor)
@@ -553,3 +551,7 @@
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Expression](https://www.npmjs.com/package/expression)
