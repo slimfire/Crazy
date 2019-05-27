@@ -384,8 +384,6 @@
 
 [warned](https://www.npmjs.com/package/warned)
 
-[Scam](https://www.npmjs.com/package/scam)
-
 [Behavior](https://www.npmjs.com/package/behavior)
 
 [Change](https://www.npmjs.com/package/change)
@@ -567,3 +565,7 @@
 [Massive](https://www.npmjs.com/package/massive)
 
 [Automation](https://www.npmjs.com/package/automation)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Scam](https://www.npmjs.com/package/scam)
