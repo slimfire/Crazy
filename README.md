@@ -398,8 +398,6 @@
 
 [Central](https://www.npmjs.com/package/central)
 
-[Bull](https://www.npmjs.com/package/bull)
-
 [Geek](https://www.npmjs.com/package/geek)
 
 [Push](https://www.npmjs.com/package/push)
@@ -569,3 +567,7 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Scam](https://www.npmjs.com/package/scam)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Bull](https://www.npmjs.com/package/bull)
