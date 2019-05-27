@@ -324,8 +324,6 @@
 
 [Reverse](https://www.npmjs.com/package/reverse)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -544,8 +542,6 @@
 
 [Expression](https://www.npmjs.com/package/expression)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Docker](https://www.npmjs.com/package/docker)
 
 [Return](https://www.npmjs.com/package/return)
@@ -559,3 +555,11 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Deception](https://www.npmjs.com/package/deception)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
