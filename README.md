@@ -554,8 +554,6 @@
 
 [Deception](https://www.npmjs.com/package/deception)
 
-[Massive](https://www.npmjs.com/package/massive)
-
 [Fam](https://www.npmjs.com/package/fam)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -565,3 +563,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Hotel](https://www.npmjs.com/package/hotel)
+
+[Massive](https://www.npmjs.com/package/massive)
+
+[Automation](https://www.npmjs.com/package/automation)
