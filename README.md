@@ -552,8 +552,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Deception](https://www.npmjs.com/package/deception)
 
 [Massive](https://www.npmjs.com/package/massive)
@@ -563,3 +561,7 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Hotel](https://www.npmjs.com/package/hotel)
