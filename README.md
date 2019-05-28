@@ -571,3 +571,7 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Manipulate](https://www.npmjs.com/package/manipulate)
