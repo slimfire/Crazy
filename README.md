@@ -438,8 +438,6 @@
 
 [Stream](https://www.npmjs.com/package/stream)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -502,11 +500,9 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Mali](https://www.npmjs.com/package/split)
+[Mali](https://www.npmjs.com/package/mali)
 
 [Oversea](https://www.npmjs.com/package/oversea)
-
-[Split](https://www.npmjs.com/package/split)
 
 [NGO](https://www.npmjs.com/package/ngo)
 
@@ -575,3 +571,9 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Manipulate](https://www.npmjs.com/package/manipulate)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Infant](https://www.npmjs.com/package/infant)
