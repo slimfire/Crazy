@@ -398,8 +398,6 @@
 
 [Central](https://www.npmjs.com/package/central)
 
-[Geek](https://www.npmjs.com/package/geek)
-
 [Push](https://www.npmjs.com/package/push)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -498,8 +496,6 @@
 
 [Sign](https://www.npmjs.com/package/sign)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Mali](https://www.npmjs.com/package/mali)
 
 [Oversea](https://www.npmjs.com/package/oversea)
@@ -577,3 +573,9 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Photo](https://www.npmjs.com/package/photo)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Geek](https://www.npmjs.com/package/geek)
