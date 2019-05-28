@@ -570,8 +570,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Photo](https://www.npmjs.com/package/photo)
 
 [Routing](https://www.npmjs.com/package/routing)
@@ -581,3 +579,7 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Soda](https://www.npmjs.com/package/soda)
+
+[Your](https://www.npmjs.com/package/your)
+
+[Infant](https://www.npmjs.com/package/infant)
