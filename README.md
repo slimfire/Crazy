@@ -450,8 +450,6 @@
 
 [Computing](https://www.npmjs.com/package/computing)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Reporter](https://www.npmjs.com/package/reporter)
 
 [Back](https://www.npmjs.com/package/back)
@@ -585,3 +583,7 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Net](https://www.npmjs.com/package/net)
+
+[Ready](https://www.npmjs.com/package/ready)
