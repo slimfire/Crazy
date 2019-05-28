@@ -564,8 +564,6 @@
 
 [Bull](https://www.npmjs.com/package/bull)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Manipulate](https://www.npmjs.com/package/manipulate)
 
 [Connections](https://www.npmjs.com/package/connections)
@@ -579,3 +577,7 @@
 [Routing](https://www.npmjs.com/package/routing)
 
 [Geek](https://www.npmjs.com/package/geek)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Soda](https://www.npmjs.com/package/soda)
