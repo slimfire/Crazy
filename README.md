@@ -512,8 +512,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Support](https://www.npmjs.com/package/support)
 
 [Isolate](https://www.npmjs.com/package/isolate)
@@ -582,6 +580,8 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
+[Threesome](https://www.npmjs.com/package/threesome)
+
 [Vote](https://www.npmjs.com/package/scam)
 
-[Threesome](https://www.npmjs.com/package/threesome)
+[Spy](https://www.npmjs.com/package/spy)
