@@ -572,8 +572,6 @@
 
 [Threesome](https://www.npmjs.com/package/threesome)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Ready](https://www.npmjs.com/package/ready)
@@ -585,3 +583,7 @@
 [Advice](https://www.npmjs.com/package/advice)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Attack](https://www.npmjs.com/package/attack)
