@@ -576,8 +576,8 @@
 
 [Vote](https://www.npmjs.com/package/scam)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Spy](https://www.npmjs.com/package/spy)
