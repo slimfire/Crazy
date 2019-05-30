@@ -474,8 +474,6 @@
 
 [xX](https://www.npmjs.com/package/xx)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Run](https://www.npmjs.com/package/run)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -581,3 +579,9 @@
 [Ready](https://www.npmjs.com/package/ready)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Insight](https://www.npmjs.com/package/insight)
+
+[Advice](https://www.npmjs.com/package/advice)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
