@@ -576,8 +576,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Spy](https://www.npmjs.com/package/spy)
-
 [Insight](https://www.npmjs.com/package/insight)
 
 [Advice](https://www.npmjs.com/package/advice)
@@ -587,3 +585,5 @@
 [Vote](https://www.npmjs.com/package/scam)
 
 [Attack](https://www.npmjs.com/package/attack)
+
+[Spy](https://www.npmjs.com/package/spy)
