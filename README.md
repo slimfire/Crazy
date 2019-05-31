@@ -562,13 +562,9 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Geek](https://www.npmjs.com/package/geek)
-
 [Soda](https://www.npmjs.com/package/soda)
 
 [Your](https://www.npmjs.com/package/your)
-
-[Infant](https://www.npmjs.com/package/infant)
 
 [Threesome](https://www.npmjs.com/package/threesome)
 
@@ -587,3 +583,14 @@
 [Attack](https://www.npmjs.com/package/attack)
 
 [Spy](https://www.npmjs.com/package/spy)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Eyes](https://www.npmjs.com/package/eyes)
+
+[Cry](https://www.npmjs.com/package/cry)
+
+[Sad](https://www.npmjs.com/package/sad)
+
+[Infant](https://www.npmjs.com/package/infant)
+
