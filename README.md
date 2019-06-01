@@ -584,13 +584,16 @@
 
 [Spy](https://www.npmjs.com/package/spy)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Eyes](https://www.npmjs.com/package/eyes)
 
 [Cry](https://www.npmjs.com/package/cry)
 
 [Sad](https://www.npmjs.com/package/sad)
 
-[Infant](https://www.npmjs.com/package/infant)
+[Routing](https://www.npmjs.com/package/routing)
 
+[Past](https://www.npmjs.com/package/past)
+
+[Immediate](https://www.npmjs.com/package/immediate)
+
+[Infant](https://www.npmjs.com/package/infant)
