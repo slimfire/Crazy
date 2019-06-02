@@ -474,8 +474,6 @@
 
 [xX](https://www.npmjs.com/package/xx)
 
-[Run](https://www.npmjs.com/package/run)
-
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Target](https://www.npmjs.com/package/target)
@@ -595,5 +593,11 @@
 [Past](https://www.npmjs.com/package/past)
 
 [Immediate](https://www.npmjs.com/package/immediate)
+
+[Car](https://www.npmjs.com/package/car)
+
+[Hit](https://www.npmjs.com/package/hit)
+
+[Run](https://www.npmjs.com/package/run)
 
 [Infant](https://www.npmjs.com/package/infant)
