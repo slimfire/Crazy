@@ -186,15 +186,11 @@
 
 [Persistent](https://www.npmjs.com/package/persistent)
 
-[Fight](https://www.npmjs.com/package/fight)
-
 [French](https://www.npmjs.com/package/french)
 
 [Ad](https://www.npmjs.com/package/ad)
 
 [Voice](https://www.npmjs.com/package/voice)
-
-[Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
 
@@ -534,7 +530,7 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/vote)
+
 
 [Hotel](https://www.npmjs.com/package/hotel)
 
@@ -601,3 +597,9 @@
 [Run](https://www.npmjs.com/package/run)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Fight](https://www.npmjs.com/package/fight)
