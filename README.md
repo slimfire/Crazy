@@ -520,8 +520,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Deception](https://www.npmjs.com/package/deception)
 
 [Fam](https://www.npmjs.com/package/fam)
@@ -603,3 +601,7 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Fight](https://www.npmjs.com/package/fight)
+
+[TxT](https://www.npmjs.com/package/txt)
+
+[Infant](https://www.npmjs.com/package/infant)
