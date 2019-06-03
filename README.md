@@ -604,4 +604,6 @@
 
 [TxT](https://www.npmjs.com/package/txt)
 
+[Gene](https://www.npmjs.com/package/gene)
+
 [Infant](https://www.npmjs.com/package/infant)
