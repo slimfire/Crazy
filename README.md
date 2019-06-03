@@ -600,10 +600,14 @@
 
 [Gene](https://www.npmjs.com/package/gene)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Cough](https://www.npmjs.com/package/cough)
 
 [Fight](https://www.npmjs.com/package/fight)
+
+[Drug](https://www.npmjs.com/package/drug)
+
+[Agress](https://www.npmjs.com/package/agress)
+
+[Infant](https://www.npmjs.com/package/infant)
