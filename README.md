@@ -617,3 +617,7 @@
 [Lone](https://www.npmjs.com/package/lone)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[Hop](https://www.npmjs.com/package/hop)
