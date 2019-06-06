@@ -610,8 +610,10 @@
 
 [Agress](https://www.npmjs.com/package/agress)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Lone](https://www.npmjs.com/package/lone)
+
+[Infant](https://www.npmjs.com/package/infant)
