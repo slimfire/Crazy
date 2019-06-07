@@ -136,8 +136,6 @@
 
 [Loading](https://www.npmjs.com/package/loading)
 
-[Bored](https://www.npmjs.com/package/bored)
-
 [ill](https://www.npmjs.com/package/ill)
 
 [Video](https://www.npmjs.com/package/video)
@@ -404,8 +402,6 @@
 
 [Tag](https://www.npmjs.com/package/tag)
 
-[Card](https://www.npmjs.com/package/card)
-
 [Ref](https://www.npmjs.com/package/ref)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -621,3 +617,9 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [Hop](https://www.npmjs.com/package/hop)
+
+[Institue](https://www.npmjs.com/package/institue)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Bored](https://www.npmjs.com/package/bored)
