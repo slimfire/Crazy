@@ -520,11 +520,7 @@
 
 [Fam](https://www.npmjs.com/package/fam)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Logout](https://www.npmjs.com/package/logout)
-
-
 
 [Hotel](https://www.npmjs.com/package/hotel)
 
@@ -555,8 +551,6 @@
 [Your](https://www.npmjs.com/package/your)
 
 [Threesome](https://www.npmjs.com/package/threesome)
-
-[Net](https://www.npmjs.com/package/net)
 
 [Ready](https://www.npmjs.com/package/ready)
 
@@ -623,3 +617,7 @@
 [Card](https://www.npmjs.com/package/card)
 
 [Bored](https://www.npmjs.com/package/bored)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Net](https://www.npmjs.com/package/net)
