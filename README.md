@@ -584,8 +584,6 @@
 
 [Gene](https://www.npmjs.com/package/gene)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Fight](https://www.npmjs.com/package/fight)
@@ -618,6 +616,12 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Library](https://www.npmjs.com/package/library)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Payload](https://www.npmjs.com/package/payload)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
