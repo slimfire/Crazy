@@ -498,8 +498,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [Name](https://www.npmjs.com/package/name)
 
 [UUID](https://www.npmjs.com/package/uuid)
@@ -621,3 +619,5 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
