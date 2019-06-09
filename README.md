@@ -460,8 +460,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Card](https://www.npmjs.com/package/card)
 
 [xX](https://www.npmjs.com/package/xx)
@@ -513,8 +511,6 @@
 [Return](https://www.npmjs.com/package/return)
 
 [xy](https://www.npmjs.com/package/xy)
-
-[RGB](https://www.npmjs.com/package/rgb)
 
 [Deception](https://www.npmjs.com/package/deception)
 
@@ -621,3 +617,7 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Net](https://www.npmjs.com/package/net)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
