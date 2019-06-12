@@ -552,8 +552,6 @@
 
 [Advice](https://www.npmjs.com/package/advice)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/scam)
 
 [Attack](https://www.npmjs.com/package/attack)
@@ -625,3 +623,7 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
+
+[Fire](https://www.npmjs.com/package/fire)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
