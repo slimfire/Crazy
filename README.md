@@ -622,8 +622,8 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Accuweather](https://www.npmjs.com/package/accuweather)
-
 [Fire](https://www.npmjs.com/package/fire)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Accuweather](https://www.npmjs.com/package/accuweather)
