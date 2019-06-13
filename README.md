@@ -544,8 +544,6 @@
 
 [Threesome](https://www.npmjs.com/package/threesome)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Insight](https://www.npmjs.com/package/insight)
 
 [Advice](https://www.npmjs.com/package/advice)
@@ -627,3 +625,7 @@
 [xx](https://www.npmjs.com/package/xx)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Web](https://www.npmjs.com/package/web)
+
+[Ready](https://www.npmjs.com/package/ready)
