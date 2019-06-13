@@ -462,8 +462,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[xX](https://www.npmjs.com/package/xx)
-
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Target](https://www.npmjs.com/package/target)
@@ -624,6 +622,8 @@
 
 [Fire](https://www.npmjs.com/package/fire)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Accuweather](https://www.npmjs.com/package/accuweather)
+
+[xx](https://www.npmjs.com/package/xx)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
