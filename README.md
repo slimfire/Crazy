@@ -464,8 +464,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Target](https://www.npmjs.com/package/target)
-
 [Manufacture](https://www.npmjs.com/package/manufacture)
 
 [All](https://www.npmjs.com/package/all)
@@ -572,8 +570,6 @@
 
 [Run](https://www.npmjs.com/package/run)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [TxT](https://www.npmjs.com/package/txt)
 
 [Gene](https://www.npmjs.com/package/gene)
@@ -629,3 +625,7 @@
 [Web](https://www.npmjs.com/package/web)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Target](https://www.npmjs.com/package/target)
+
+[Infant](https://www.npmjs.com/package/infant)
