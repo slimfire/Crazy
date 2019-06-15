@@ -450,8 +450,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Arm](https://www.npmjs.com/package/arm)
@@ -626,5 +624,6 @@
 
 [Target](https://www.npmjs.com/package/target)
 
-[Infant](https://www.npmjs.com/package/infant)
+[Live](https://www.npmjs.com/package/live)
 
+[Infant](https://www.npmjs.com/package/infant)
