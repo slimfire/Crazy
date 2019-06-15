@@ -628,10 +628,3 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Vote](https://www.npmjs.com/package/scam)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Account](https://www.npmjs.com/package/account)
-
-[Employ](https://www.npmjs.com/package/employ)
