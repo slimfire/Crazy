@@ -626,4 +626,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
+[Pokemon](https://www.npmjs.com/package/pokemon)
+
 [Infant](https://www.npmjs.com/package/infant)
