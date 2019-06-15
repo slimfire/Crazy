@@ -612,8 +612,6 @@
 
 [Payload](https://www.npmjs.com/package/payload)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Fire](https://www.npmjs.com/package/fire)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
@@ -629,3 +627,11 @@
 [Target](https://www.npmjs.com/package/target)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Account](https://www.npmjs.com/package/account)
+
+[Employ](https://www.npmjs.com/package/employ)
