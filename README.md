@@ -506,8 +506,6 @@
 
 [Fam](https://www.npmjs.com/package/fam)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Hotel](https://www.npmjs.com/package/hotel)
 
 [Massive](https://www.npmjs.com/package/massive)
@@ -626,6 +624,8 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
+[Hop](https://www.npmjs.com/package/hop)
+
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Hop](https://www.npmjs.com/package/hop)
+[Logout](https://www.npmjs.com/package/logout)
