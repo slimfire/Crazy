@@ -588,15 +588,11 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Institue](https://www.npmjs.com/package/institue)
 
 [Card](https://www.npmjs.com/package/card)
 
 [Bored](https://www.npmjs.com/package/bored)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
@@ -629,3 +625,7 @@
 [Net](https://www.npmjs.com/package/net)
 
 [Ireland](https://www.npmjs.com/package/ireland)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Hop](https://www.npmjs.com/package/hop)
