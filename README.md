@@ -298,8 +298,6 @@
 
 [Naked](https://www.npmjs.com/package/naked)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Soccer](https://www.npmjs.com/package/soccer)
 
 [Together](https://www.npmjs.com/package/together)
@@ -600,8 +598,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Net](https://www.npmjs.com/package/net)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Library](https://www.npmjs.com/package/library)
@@ -629,3 +625,7 @@
 [Pokemon](https://www.npmjs.com/package/pokemon)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Net](https://www.npmjs.com/package/net)
+
+[Ireland](https://www.npmjs.com/package/ireland)
