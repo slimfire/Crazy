@@ -592,8 +592,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Library](https://www.npmjs.com/package/library)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -626,8 +624,10 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[RGB](https://www.npmjs.com/package/rgb)
