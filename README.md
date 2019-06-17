@@ -612,8 +612,6 @@
 
 [Target](https://www.npmjs.com/package/target)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Pokemon](https://www.npmjs.com/package/pokemon)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -624,10 +622,12 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Live](https://www.npmjs.com/package/live)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
