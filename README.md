@@ -618,8 +618,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Live](https://www.npmjs.com/package/live)
@@ -629,5 +627,7 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Messenger](https://www.npmjs.com/package/messenger)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
