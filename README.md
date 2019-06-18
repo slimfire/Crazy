@@ -626,8 +626,8 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
