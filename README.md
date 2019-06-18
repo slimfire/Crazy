@@ -626,8 +626,8 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Messenger](https://www.npmjs.com/package/messenger)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
