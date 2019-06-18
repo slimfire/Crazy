@@ -442,8 +442,6 @@
 
 [Zoom](https://www.npmjs.com/package/zoom)
 
-[Cluster](https://www.npmjs.com/package/cluster)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Duo](https://www.npmjs.com/package/duo)
@@ -574,8 +572,6 @@
 
 [Agress](https://www.npmjs.com/package/agress)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Lone](https://www.npmjs.com/package/lone)
@@ -624,10 +620,14 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Cluster](https://www.npmjs.com/package/cluster)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
