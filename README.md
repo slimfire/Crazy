@@ -448,8 +448,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Duo](https://www.npmjs.com/package/duo)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Movement](https://www.npmjs.com/package/movement)
@@ -604,8 +602,6 @@
 
 [xx](https://www.npmjs.com/package/xx)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Web](https://www.npmjs.com/package/web)
 
 [Ready](https://www.npmjs.com/package/ready)
@@ -631,3 +627,7 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Duo](https://www.npmjs.com/package/duo)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
