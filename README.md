@@ -588,8 +588,6 @@
 
 [Library](https://www.npmjs.com/package/library)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Payload](https://www.npmjs.com/package/payload)
 
 [Fire](https://www.npmjs.com/package/fire)
@@ -625,6 +623,8 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
