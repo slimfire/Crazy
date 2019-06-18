@@ -624,10 +624,10 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
