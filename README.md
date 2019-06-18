@@ -620,14 +620,14 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Cluster](https://www.npmjs.com/package/cluster)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
