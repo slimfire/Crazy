@@ -624,14 +624,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Alert](https://www.npmjs.com/package/alert)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Star](https://www.npmjs.com/package/star)
 
 [Gold](https://www.npmjs.com/package/gold)
@@ -639,3 +631,11 @@
 [Trophy](https://www.npmjs.com/package/trophy)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Alert](https://www.npmjs.com/package/alert)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
