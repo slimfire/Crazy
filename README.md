@@ -564,8 +564,6 @@
 
 [Gene](https://www.npmjs.com/package/gene)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Fight](https://www.npmjs.com/package/fight)
 
 [Drug](https://www.npmjs.com/package/drug)
@@ -633,6 +631,10 @@
 [Alert](https://www.npmjs.com/package/alert)
 
 [Live](https://www.npmjs.com/package/live)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Lab](https://www.npmjs.com/package/lab)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
