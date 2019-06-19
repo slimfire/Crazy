@@ -614,8 +614,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Cluster](https://www.npmjs.com/package/cluster)
@@ -633,6 +631,8 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Alert](https://www.npmjs.com/package/alert)
+
+[Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
