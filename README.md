@@ -602,8 +602,6 @@
 
 [Pokemon](https://www.npmjs.com/package/pokemon)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -641,3 +639,8 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Disclose](https://www.npmjs.com/package/disclose)
+
+[Infant](https://www.npmjs.com/package/infant)
+
