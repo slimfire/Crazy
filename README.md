@@ -648,10 +648,12 @@
 
 [Fishing](https://www.npmjs.com/package/fishing)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Mum](https://www.npmjs.com/package/mum)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Model](https://www.npmjs.com/package/model)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
