@@ -632,10 +632,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Disclose](https://www.npmjs.com/package/disclose)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -645,3 +641,7 @@
 [Special](https://www.npmjs.com/package/special)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
