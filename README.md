@@ -256,8 +256,6 @@
 
 [Force](https://www.npmjs.com/package/force)
 
-[Beer](https://www.npmjs.com/package/beer)
-
 [Birth](https://www.npmjs.com/package/birth)
 
 [Unicast](https://www.npmjs.com/package/unicast)
@@ -644,3 +642,4 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
+[Beer](https://www.npmjs.com/package/beer)
