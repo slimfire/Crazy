@@ -645,3 +645,11 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Fast](https://www.npmjs.com/package/fast)
+
+[Smart](https://www.npmjs.com/package/smart)
+
+[Fishing](https://www.npmjs.com/package/fishing)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
