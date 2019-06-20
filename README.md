@@ -622,8 +622,6 @@
 
 [Trophy](https://www.npmjs.com/package/trophy)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Alert](https://www.npmjs.com/package/alert)
 
 [Live](https://www.npmjs.com/package/live)
@@ -643,3 +641,7 @@
 [Infant](https://www.npmjs.com/package/infant)
 
 [Budweiser](https://www.npmjs.com/package/budweiser)
+
+[Special](https://www.npmjs.com/package/special)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
