@@ -606,8 +606,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Cluster](https://www.npmjs.com/package/cluster)
@@ -642,6 +640,8 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
+[Logout](https://www.npmjs.com/package/logout)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
-[Logout](https://www.npmjs.com/package/logout)
+[RGB](https://www.npmjs.com/package/rgb)
