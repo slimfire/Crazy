@@ -642,4 +642,4 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Beer](https://www.npmjs.com/package/beer)
+[Budweiser](https://www.npmjs.com/package/budweiser)
