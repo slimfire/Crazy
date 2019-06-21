@@ -568,8 +568,6 @@
 
 [Agress](https://www.npmjs.com/package/agress)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Lone](https://www.npmjs.com/package/lone)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -650,8 +648,10 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Mom](https://www.npmjs.com/package/mom)
-
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Mom](https://www.npmjs.com/package/mom)
+
+[Split](https://www.npmjs.com/package/split)
