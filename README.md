@@ -646,11 +646,11 @@
 
 [Fishing](https://www.npmjs.com/package/fishing)
 
-[Mum](https://www.npmjs.com/package/mum)
-
 [Model](https://www.npmjs.com/package/model)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Mom](https://www.npmjs.com/package/mom)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
