@@ -648,10 +648,10 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Mom](https://www.npmjs.com/package/mom)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
