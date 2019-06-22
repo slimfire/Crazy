@@ -246,8 +246,6 @@
 
 [Classroom](https://www.npmjs.com/package/classroom)
 
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
-
 [SDN](https://www.npmjs.com/package/sdn)
 
 [Cookie](https://www.npmjs.com/package/cookie)
@@ -580,8 +578,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[Library](https://www.npmjs.com/package/library)
-
 [Payload](https://www.npmjs.com/package/payload)
 
 [Fire](https://www.npmjs.com/package/fire)
@@ -657,3 +653,7 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Library](https://www.npmjs.com/package/library)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
