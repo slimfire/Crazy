@@ -584,8 +584,6 @@
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
 
-[xx](https://www.npmjs.com/package/xx)
-
 [Web](https://www.npmjs.com/package/web)
 
 [Ready](https://www.npmjs.com/package/ready)
@@ -657,3 +655,7 @@
 [Library](https://www.npmjs.com/package/library)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[xx](https://www.npmjs.com/package/xx)
