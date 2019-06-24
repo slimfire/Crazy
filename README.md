@@ -614,8 +614,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Lab](https://www.npmjs.com/package/lab)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -648,10 +646,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Library](https://www.npmjs.com/package/library)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -661,3 +655,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [xx](https://www.npmjs.com/package/xx)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
