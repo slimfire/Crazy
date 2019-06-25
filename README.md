@@ -322,8 +322,6 @@
 
 [Journal](https://www.npmjs.com/package/journal)
 
-[Name](https://www.npmjs.com/package/name)
-
 [Decade](https://www.npmjs.com/package/decade)
 
 [Vis](https://www.npmjs.com/package/vis)
@@ -663,3 +661,5 @@
 [Net](https://www.npmjs.com/package/net)
 
 [Updates](https://www.npmjs.com/package/updates)
+
+[Name](https://www.npmjs.com/package/name)
