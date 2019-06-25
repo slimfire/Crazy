@@ -326,8 +326,6 @@
 
 [Decade](https://www.npmjs.com/package/decade)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Vis](https://www.npmjs.com/package/vis)
 
 [Gavel](https://www.npmjs.com/package/gavel)
@@ -504,8 +502,6 @@
 
 [Automation](https://www.npmjs.com/package/automation)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Scam](https://www.npmjs.com/package/scam)
 
 [Vote](https://www.npmjs.com/package/scam)
@@ -656,10 +652,14 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Updates](https://www.npmjs.com/package/updates)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
