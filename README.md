@@ -592,8 +592,6 @@
 
 [Pokemon](https://www.npmjs.com/package/pokemon)
 
-[Net](https://www.npmjs.com/package/net)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Hop](https://www.npmjs.com/package/hop)
@@ -661,3 +659,7 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Net](https://www.npmjs.com/package/net)
+
+[Updates](https://www.npmjs.com/package/updates)
