@@ -668,5 +668,5 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Delayer](https://www.npmjs.com/package/delayer)
+[Delay](https://www.npmjs.com/package/delay)
 
