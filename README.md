@@ -656,6 +656,10 @@
 
 [Circle](https://www.npmjs.com/package/circle)
 
+[Intersection](https://www.npmjs.com/package/intersection)
+
+[Music](https://www.npmjs.com/package/music)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
