@@ -654,6 +654,8 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
+[Circle](https://www.npmjs.com/package/circle)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
