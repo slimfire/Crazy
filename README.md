@@ -667,3 +667,6 @@
 [Name](https://www.npmjs.com/package/name)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Delayer](https://www.npmjs.com/package/delayer)
+
