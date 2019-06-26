@@ -647,9 +647,6 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [xx](https://www.npmjs.com/package/xx)
-[Vote](https://www.npmjs.com/package/vote)
-
-[Breach](https://www.npmjs.com/package/breach)
 
 [Circle](https://www.npmjs.com/package/circle)
 
@@ -658,6 +655,10 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Cough](https://www.npmjs.com/package/cough)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Breach](https://www.npmjs.com/package/breach)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
