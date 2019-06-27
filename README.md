@@ -688,3 +688,8 @@
 
 [Cheat](https://www.npmjs.com/package/cheat)
 
+[Clusters](https://www.npmjs.com/package/clusters)
+
+[Max](https://www.npmjs.com/package/max)
+
+[One](https://www.npmjs.com/package/one)
