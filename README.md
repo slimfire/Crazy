@@ -408,8 +408,6 @@
 
 [Ring](https://www.npmjs.com/package/ring)
 
-[Live](https://www.npmjs.com/package/live)
-
 [President](https://www.npmjs.com/package/president)
 
 [Build](https://www.npmjs.com/package/build)
@@ -661,6 +659,8 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Forecast](https://www.npmjs.com/package/forecast)
+
+[Live](https://www.npmjs.com/package/live)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
