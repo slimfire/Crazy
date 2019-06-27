@@ -626,8 +626,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Mom](https://www.npmjs.com/package/mom)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -655,6 +653,8 @@
 [Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Mom](https://www.npmjs.com/package/mom)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
