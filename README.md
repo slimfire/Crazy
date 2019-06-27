@@ -606,8 +606,6 @@
 
 [Lab](https://www.npmjs.com/package/lab)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Disclose](https://www.npmjs.com/package/disclose)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -679,3 +677,7 @@
 [Run](https://www.npmjs.com/package/run)
 
 [Laugh](https://www.npmjs.com/package/laugh)
+
+[Lone](https://www.npmjs.com/package/lone)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
