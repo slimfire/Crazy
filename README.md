@@ -656,6 +656,8 @@
 
 [Live](https://www.npmjs.com/package/live)
 
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
