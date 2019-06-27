@@ -660,7 +660,10 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
+[Forecast](https://www.npmjs.com/package/forecast)
+
 [Messenger](https://www.npmjs.com/package/messenger)
+
 [Logout](https://www.npmjs.com/package/logout)
 
 [Net](https://www.npmjs.com/package/net)
