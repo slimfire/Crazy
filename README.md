@@ -677,3 +677,5 @@
 [Delay](https://www.npmjs.com/package/delay)
 
 [Run](https://www.npmjs.com/package/run)
+
+[Laugh](https://www.npmjs.com/package/laugh)
