@@ -693,3 +693,7 @@
 [Max](https://www.npmjs.com/package/max)
 
 [One](https://www.npmjs.com/package/one)
+
+[Event](https://www.npmjs.com/package/event)
+
+[Cough](https://www.npmjs.com/package/cough)
