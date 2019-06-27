@@ -683,3 +683,6 @@
 [Teen](https://www.npmjs.com/package/teen)
 
 [Cough](https://www.npmjs.com/package/cough)
+
+[Cheat](https://www.npmjs.com/package/cheat)
+
