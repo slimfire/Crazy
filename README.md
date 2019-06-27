@@ -512,8 +512,6 @@
 
 [Photo](https://www.npmjs.com/package/photo)
 
-[Routing](https://www.npmjs.com/package/routing)
-
 [Soda](https://www.npmjs.com/package/soda)
 
 [Your](https://www.npmjs.com/package/your)
@@ -650,8 +648,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -681,3 +677,9 @@
 [Lone](https://www.npmjs.com/package/lone)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Teen](https://www.npmjs.com/package/teen)
+
+[Cough](https://www.npmjs.com/package/cough)
