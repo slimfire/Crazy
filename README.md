@@ -652,8 +652,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -697,3 +695,5 @@
 [Event](https://www.npmjs.com/package/event)
 
 [Cough](https://www.npmjs.com/package/cough)
+
+[Forecast](https://www.npmjs.com/package/forecast)
