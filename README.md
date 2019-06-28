@@ -707,3 +707,6 @@
 [Women](https://www.npmjs.com/package/women)
 
 [Weed](https://www.npmjs.com/package/weed)
+
+[Trash](https://www.npmjs.com/package/trash)
+
