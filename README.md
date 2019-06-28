@@ -699,3 +699,6 @@
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Name](https://www.npmjs.com/package/name)
+
+[Viral](https://www.npmjs.com/package/viral)
+
