@@ -660,6 +660,8 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
 [Logout](https://www.npmjs.com/package/logout)
 
 [Net](https://www.npmjs.com/package/net)
@@ -675,8 +677,6 @@
 [Laugh](https://www.npmjs.com/package/laugh)
 
 [Lone](https://www.npmjs.com/package/lone)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Routing](https://www.npmjs.com/package/routing)
 
