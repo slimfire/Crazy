@@ -668,8 +668,6 @@
 
 [Updates](https://www.npmjs.com/package/updates)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Delay](https://www.npmjs.com/package/delay)
 
 [Run](https://www.npmjs.com/package/run)
@@ -713,3 +711,5 @@
 [Delay](https://www.npmjs.com/package/delay)
 
 [Homeless](http://npmjs.com/package/homeless)
+
+[Music](https://www.npmjs.com/package/music)
