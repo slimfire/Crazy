@@ -658,11 +658,11 @@
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
+[Cough](https://www.npmjs.com/package/cough)
+
 [Breach](https://www.npmjs.com/package/breach)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Cough](https://www.npmjs.com/package/cough)
 
 [Logout](https://www.npmjs.com/package/logout)
 
