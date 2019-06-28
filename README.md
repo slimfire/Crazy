@@ -662,6 +662,8 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
+[Cough](https://www.npmjs.com/package/cough)
+
 [Logout](https://www.npmjs.com/package/logout)
 
 [Net](https://www.npmjs.com/package/net)
