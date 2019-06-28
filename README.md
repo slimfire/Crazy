@@ -664,8 +664,6 @@
 
 [Updates](https://www.npmjs.com/package/updates)
 
-[Name](https://www.npmjs.com/package/name)
-
 [Music](https://www.npmjs.com/package/music)
 
 [Delay](https://www.npmjs.com/package/delay)
@@ -697,3 +695,5 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Forecast](https://www.npmjs.com/package/forecast)
+
+[Name](https://www.npmjs.com/package/name)
