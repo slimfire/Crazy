@@ -711,3 +711,5 @@
 [Trash](https://www.npmjs.com/package/trash)
 
 [Delay](https://www.npmjs.com/package/delay)
+
+[Homeless](http://npmjs.com/package/homeless)
