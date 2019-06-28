@@ -636,8 +636,6 @@
 
 [Question](https://www.npmjs.com/package/question)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [xx](https://www.npmjs.com/package/xx)
 
 [Circle](https://www.npmjs.com/package/circle)
@@ -648,13 +646,17 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Mom](https://www.npmjs.com/package/mom)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Cluster](https://www.npmjs.com/package/cluster)
+
+[Breach](https://www.npmjs.com/package/breach)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
