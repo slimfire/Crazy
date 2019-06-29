@@ -664,6 +664,8 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
+[Music](https://www.npmjs.com/package/music)
+
 [Logout](https://www.npmjs.com/package/logout)
 
 [Net](https://www.npmjs.com/package/net)
