@@ -692,8 +692,6 @@
 
 [One](https://www.npmjs.com/package/one)
 
-[Event](https://www.npmjs.com/package/event)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Name](https://www.npmjs.com/package/name)
@@ -712,8 +710,6 @@
 
 [Homeless](http://npmjs.com/package/homeless)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Forecast](https://www.npmjs.com/package/forecast)
@@ -723,3 +719,7 @@
 [Trash](https://www.npmjs.com/package/trash)
 
 [Knowabout](https://www.npmjs.com/package/knowabout)
+
+[Event](https://www.npmjs.com/package/event)
+
+[Music](https://www.npmjs.com/package/music)
