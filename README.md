@@ -394,8 +394,6 @@
 
 [Ref](https://www.npmjs.com/package/ref)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Public](https://www.npmjs.com/package/public)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -655,6 +653,8 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Cluster](https://www.npmjs.com/package/cluster)
+
+[Ireland](https://www.npmjs.com/package/ireland)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
