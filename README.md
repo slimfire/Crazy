@@ -719,3 +719,5 @@
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Lab](https://www.npmjs.com/package/lab)
+
+[Trash](https://www.npmjs.com/package/trash)
