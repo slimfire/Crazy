@@ -718,3 +718,4 @@
 
 [Forecast](https://www.npmjs.com/package/forecast)
 
+[Lab](https://www.npmjs.com/package/lab)
