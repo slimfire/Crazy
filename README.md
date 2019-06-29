@@ -722,4 +722,4 @@
 
 [Trash](https://www.npmjs.com/package/trash)
 
-[Knowabout)[https://www.npmjs.com/package/knowabout)
+[Knowabout](https://www.npmjs.com/package/knowabout)
