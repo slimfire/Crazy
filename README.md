@@ -696,8 +696,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Viral](https://www.npmjs.com/package/viral)
@@ -717,4 +715,6 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Force](https://www.npmjs.com/package/force)
+
+[Forecast](https://www.npmjs.com/package/forecast)
 
