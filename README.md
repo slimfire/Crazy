@@ -664,8 +664,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Net](https://www.npmjs.com/package/net)
@@ -729,6 +727,10 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Force](https://www.npmjs.com/package/force)
+
+[Dad](https://www.npmjs.com/package/dad)
+
+[Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
 
