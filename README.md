@@ -730,6 +730,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Force](https://www.npmjs.com/package/force)
+
+[Logout](https://www.npmjs.com/package/logout)
