@@ -725,3 +725,10 @@
 [Event](https://www.npmjs.com/package/event)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Music](https://www.npmjs.com/package/music)
+
+[Logout](https://www.npmjs.com/package/logout)
+
