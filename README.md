@@ -358,8 +358,6 @@
 
 [WAN](https://www.npmjs.com/package/wan)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Move](https://www.npmjs.com/package/move)
 
 [Network](https://www.npmjs.com/package/network)
@@ -665,6 +663,8 @@
 [Parent](https://www.npmjs.com/package/parent)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Institute](https://www.npmjs.com/package/institute)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
