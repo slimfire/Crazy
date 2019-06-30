@@ -376,8 +376,6 @@
 
 [Open](https://www.npmjs.com/package/open)
 
-[Deception](https://www.npmjs.com/package/deception)
-
 [Central](https://www.npmjs.com/package/central)
 
 [Push](https://www.npmjs.com/package/push)
@@ -733,3 +731,5 @@
 [Force](https://www.npmjs.com/package/force)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Deception](https://www.npmjs.com/package/deception)
