@@ -714,8 +714,6 @@
 
 [Homeless](http://npmjs.com/package/homeless)
 
-[Force](https://www.npmjs.com/package/force)
-
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Lab](https://www.npmjs.com/package/lab)
@@ -734,3 +732,4 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Force](https://www.npmjs.com/package/force)
