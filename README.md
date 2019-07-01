@@ -732,6 +732,8 @@
 
 [Amplify](https://www.npmjs.com/package/amplify)
 
+[Innocent](https://www.npmjs.com/package/innocent)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
