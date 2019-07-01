@@ -498,8 +498,6 @@
 
 [Connections](https://www.npmjs.com/package/connections)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Photo](https://www.npmjs.com/package/photo)
 
 [Soda](https://www.npmjs.com/package/soda)
@@ -716,10 +714,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Music](https://www.npmjs.com/package/music)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Dad](https://www.npmjs.com/package/dad)
@@ -735,6 +729,13 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Group](https://www.npmjs.com/package/group)
+
+[Split](https://www.npmjs.com/package/split)
 
 [Logout](https://www.npmjs.com/package/logout)
 
