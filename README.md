@@ -318,8 +318,6 @@
 
 [Next](https://www.npmjs.com/package/next)
 
-[Journal](https://www.npmjs.com/package/journal)
-
 [Decade](https://www.npmjs.com/package/decade)
 
 [Vis](https://www.npmjs.com/package/vis)
@@ -733,6 +731,8 @@
 [Amplify](https://www.npmjs.com/package/amplify)
 
 [Innocent](https://www.npmjs.com/package/innocent)
+
+[Journal](https://www.npmjs.com/package/journal)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
