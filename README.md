@@ -232,8 +232,6 @@
 
 [Virtual](https://www.npmjs.com/package/virtual)
 
-[Amplify](https://www.npmjs.com/package/amplify)
-
 [Background](https://www.npmjs.com/package/background)
 
 [Power](https://www.npmjs.com/package/power)
@@ -731,6 +729,8 @@
 [Dad](https://www.npmjs.com/package/dad)
 
 [tv](https://www.npmjs.com/package/tv)
+
+[Amplify](https://www.npmjs.com/package/amplify)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
