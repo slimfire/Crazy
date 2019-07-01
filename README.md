@@ -580,8 +580,6 @@
 
 [Cluster](https://www.npmjs.com/package/cluster)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Star](https://www.npmjs.com/package/star)
 
 [Gold](https://www.npmjs.com/package/gold)
@@ -735,6 +733,8 @@
 [Journal](https://www.npmjs.com/package/journal)
 
 [Messenger](https://www.npmjs.com/package/messenger)
+
+[RGB](https://www.npmjs.com/package/rgb)
 
 [Logout](https://www.npmjs.com/package/logout)
 
