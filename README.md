@@ -726,17 +726,16 @@
 
 [Journal](https://www.npmjs.com/package/journal)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
 [RGB](https://www.npmjs.com/package/rgb)
-
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Group](https://www.npmjs.com/package/group)
 
 [Split](https://www.npmjs.com/package/split)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Deception](https://www.npmjs.com/package/deception)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
