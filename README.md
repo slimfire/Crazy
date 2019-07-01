@@ -712,8 +712,6 @@
 
 [Event](https://www.npmjs.com/package/event)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Dad](https://www.npmjs.com/package/dad)
@@ -735,6 +733,8 @@
 [Deception](https://www.npmjs.com/package/deception)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
