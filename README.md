@@ -466,8 +466,6 @@
 
 [Witness](https://www.npmjs.com/package/witness)
 
-[Name](https://www.npmjs.com/package/name)
-
 [UUID](https://www.npmjs.com/package/uuid)
 
 [Expression](https://www.npmjs.com/package/expression)
@@ -735,6 +733,8 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Name](https://www.npmjs.com/package/name)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
