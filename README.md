@@ -678,8 +678,6 @@
 
 [One](https://www.npmjs.com/package/one)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Viral](https://www.npmjs.com/package/viral)
@@ -735,6 +733,8 @@
 [Dad](https://www.npmjs.com/package/dad)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
