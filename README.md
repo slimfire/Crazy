@@ -572,8 +572,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Cluster](https://www.npmjs.com/package/cluster)
-
 [Star](https://www.npmjs.com/package/star)
 
 [Gold](https://www.npmjs.com/package/gold)
@@ -704,8 +702,6 @@
 
 [Trash](https://www.npmjs.com/package/trash)
 
-[Knowabout](https://www.npmjs.com/package/knowabout)
-
 [Event](https://www.npmjs.com/package/event)
 
 [Force](https://www.npmjs.com/package/force)
@@ -743,3 +739,7 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Cluster](https://www.npmjs.com/package/cluster)
+
+[Knowabout](https://www.npmjs.com/package/knowabout)
