@@ -736,6 +736,10 @@
 
 [Name](https://www.npmjs.com/package/name)
 
+[Check](https://www.npmjs.com/package/check)
+
+[Trustless](https://www.npmjs.com/package/trustless)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
