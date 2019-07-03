@@ -740,6 +740,4 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Cluster](https://www.npmjs.com/package/cluster)
-
 [Knowabout](https://www.npmjs.com/package/knowabout)
