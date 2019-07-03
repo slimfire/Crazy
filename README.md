@@ -712,8 +712,6 @@
 
 [Force](https://www.npmjs.com/package/force)
 
-[Dad](https://www.npmjs.com/package/dad)
-
 [tv](https://www.npmjs.com/package/tv)
 
 [Amplify](https://www.npmjs.com/package/amplify)
@@ -739,6 +737,8 @@
 [Check](https://www.npmjs.com/package/check)
 
 [Trustless](https://www.npmjs.com/package/trustless)
+
+[Dad](https://www.npmjs.com/package/dad)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
