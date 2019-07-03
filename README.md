@@ -310,8 +310,6 @@
 
 [Reverse](https://www.npmjs.com/package/reverse)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Grace](https://www.npmjs.com/package/grace)
 
 [Waited](https://www.npmjs.com/package/waited)
@@ -739,6 +737,8 @@
 [Trustless](https://www.npmjs.com/package/trustless)
 
 [Dad](https://www.npmjs.com/package/dad)
+
+[Breach](https://www.npmjs.com/package/breach)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
