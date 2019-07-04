@@ -544,8 +544,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Institue](https://www.npmjs.com/package/institue)
-
 [Card](https://www.npmjs.com/package/card)
 
 [Bored](https://www.npmjs.com/package/bored)
@@ -739,6 +737,8 @@
 [Control](https://www.npmjs.com/package/control)
 
 [Emotion](https://www.npmjs.com/package/emotion)
+
+[Institue](https://www.npmjs.com/package/institue)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
