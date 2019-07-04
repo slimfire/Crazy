@@ -738,8 +738,6 @@
 
 [Health](https://www.npmjs.com/package/health)
 
-[Boss](https://www.npmjs.com/package/boss)
-
 [Control](https://www.npmjs.com/package/control)
 
 [Messenger](https://www.npmjs.com/package/messenger)
