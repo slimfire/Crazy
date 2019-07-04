@@ -740,6 +740,8 @@
 
 [Control](https://www.npmjs.com/package/control)
 
+[Tone](https://www.npmjs.com/package/tone)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
