@@ -218,8 +218,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Emotion](https://www.npmjs.com/package/emotion)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [Pill](https://www.npmjs.com/package/pill)
@@ -740,7 +738,7 @@
 
 [Control](https://www.npmjs.com/package/control)
 
-[Tone](https://www.npmjs.com/package/tone)
+[Emotion](https://www.npmjs.com/package/emotion)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
