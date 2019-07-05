@@ -590,8 +590,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Fast](https://www.npmjs.com/package/fast)
 
 [Smart](https://www.npmjs.com/package/smart)
@@ -737,6 +735,8 @@
 [Emotion](https://www.npmjs.com/package/emotion)
 
 [Institue](https://www.npmjs.com/package/institue)
+
+[RGB](https://www.npmjs.com/package/rgb)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
