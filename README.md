@@ -749,3 +749,11 @@
 [Knowabout](https://www.npmjs.com/package/knowabout)
 
 [Trash](https://www.npmjs.com/package/trash)
+
+[Toyota](https://www.npmjs.com/package/toyota)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Tow](https://www.npmjs.com/package/tow)
+
+[Crush](https://www.npmjs.com/package/crush)
