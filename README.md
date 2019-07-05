@@ -738,6 +738,8 @@
 
 [Cluster](https://www.npmjs.com/package/cluster)
 
+[Terminal](https://www.npmjs.com/package/terminal)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
