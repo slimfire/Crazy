@@ -765,3 +765,5 @@
 [Crush](https://www.npmjs.com/package/crush)
 
 [Junkyard](https://www.npmjs.com/package/junkyard)
+
+[Logout](https://www.npmjs.com/package/logout)
