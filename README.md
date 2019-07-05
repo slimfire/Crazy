@@ -740,6 +740,8 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
+[Boss](https://www.npmjs.com/package/boss)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
