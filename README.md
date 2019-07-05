@@ -754,6 +754,14 @@
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
+[License](https://www.npmjs.com/package/license)
+
+[Months](https://www.npmjs.com/package/months)
+
+[Temporary](https://www.npmjs.com/package/temporary)
+
 [Tow](https://www.npmjs.com/package/tow)
 
 [Crush](https://www.npmjs.com/package/crush)
+
+[Junkyard](https://www.npmjs.com/package/junkyard)
