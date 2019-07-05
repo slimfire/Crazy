@@ -706,8 +706,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Check](https://www.npmjs.com/package/check)
@@ -738,9 +736,11 @@
 
 [Terminal](https://www.npmjs.com/package/terminal)
 
+[Boss](https://www.npmjs.com/package/boss)
+
 [Cough](https://www.npmjs.com/package/cough)
 
-[Boss](https://www.npmjs.com/package/boss)
+[Music](https://www.npmjs.com/package/music)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
