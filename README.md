@@ -632,8 +632,6 @@
 
 [Parent](https://www.npmjs.com/package/parent)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -741,6 +739,8 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Breach](https://www.npmjs.com/package/breach)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
