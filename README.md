@@ -684,8 +684,6 @@
 
 [Weed](https://www.npmjs.com/package/weed)
 
-[Trash](https://www.npmjs.com/package/trash)
-
 [Delay](https://www.npmjs.com/package/delay)
 
 [Homeless](http://npmjs.com/package/homeless)
@@ -745,3 +743,5 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Knowabout](https://www.npmjs.com/package/knowabout)
+
+[Trash](https://www.npmjs.com/package/trash)
