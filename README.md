@@ -138,8 +138,6 @@
 
 [ill](https://www.npmjs.com/package/ill)
 
-[Video](https://www.npmjs.com/package/video)
-
 [Platform](https://www.npmjs.com/package/platform)
 
 [Security](https://www.npmjs.com/package/security)
@@ -741,6 +739,8 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Video](https://www.npmjs.com/package/video)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
