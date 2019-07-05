@@ -626,8 +626,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Music](https://www.npmjs.com/package/music)
@@ -739,6 +737,8 @@
 [Cluster](https://www.npmjs.com/package/cluster)
 
 [Terminal](https://www.npmjs.com/package/terminal)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
