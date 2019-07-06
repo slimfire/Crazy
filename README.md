@@ -742,6 +742,8 @@
 
 [Video](https://www.npmjs.com/package/video)
 
+[Neighbours](https://www.npmjs.com/package/neighbours)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -751,8 +753,6 @@
 [Trash](https://www.npmjs.com/package/trash)
 
 [Toyota](https://www.npmjs.com/package/toyota)
-
-[Neighbours](https://www.npmjs.com/package/neighbours)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
