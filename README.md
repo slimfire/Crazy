@@ -734,8 +734,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Video](https://www.npmjs.com/package/video)
@@ -749,6 +747,8 @@
 [Adopt](https://www.npmjs.com/package/adopt)
 
 [Brain](https://www.npmjs.com/package/brain)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
