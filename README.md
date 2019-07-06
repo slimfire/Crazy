@@ -674,8 +674,6 @@
 
 [Homeless](http://npmjs.com/package/homeless)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Lab](https://www.npmjs.com/package/lab)
 
 [Trash](https://www.npmjs.com/package/trash)
@@ -743,6 +741,8 @@
 [Video](https://www.npmjs.com/package/video)
 
 [Neighbours](https://www.npmjs.com/package/neighbours)
+
+[Forecast](https://www.npmjs.com/package/forecast)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
