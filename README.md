@@ -746,6 +746,10 @@
 
 [Birth](https://www.npmjs.com/package/birth)
 
+[Adopt](https://www.npmjs.com/package/adopt)
+
+[Brain](https://www.npmjs.com/package/brain)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
