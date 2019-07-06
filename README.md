@@ -752,6 +752,8 @@
 
 [Toyota](https://www.npmjs.com/package/toyota)
 
+[Neighbours](https://www.npmjs.com/package/neighbours)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [License](https://www.npmjs.com/package/license)
