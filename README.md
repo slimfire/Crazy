@@ -650,8 +650,6 @@
 
 [Teen](https://www.npmjs.com/package/teen)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Cheat](https://www.npmjs.com/package/cheat)
 
 [Clusters](https://www.npmjs.com/package/clusters)
@@ -749,6 +747,8 @@
 [Brain](https://www.npmjs.com/package/brain)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
