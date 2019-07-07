@@ -789,3 +789,7 @@
 [Duo](https://www.npmjs.com/package/duo)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Careless](https://www.npmjs.com/package/careless)
