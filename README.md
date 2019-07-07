@@ -394,8 +394,6 @@
 
 [Build](https://www.npmjs.com/package/build)
 
-[Traffic](https://www.npmjs.com/package/traffic)
-
 [Stream](https://www.npmjs.com/package/stream)
 
 [Yellow](https://www.npmjs.com/package/yellow)
@@ -757,6 +755,8 @@
 [Island](https://www.npmjs.com/package/island)
 
 [Realtime](https://www.npmjs.com/package/realtime)
+
+[Traffic](https://www.npmjs.com/package/traffic)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
