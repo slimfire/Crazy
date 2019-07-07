@@ -178,8 +178,6 @@
 
 [Room](https://www.npmjs.com/package/room)
 
-[Steps](https://www.npmjs.com/package/step)
-
 [Persistent](https://www.npmjs.com/package/persistent)
 
 [French](https://www.npmjs.com/package/french)
@@ -755,6 +753,10 @@
 [Realtime](https://www.npmjs.com/package/realtime)
 
 [Traffic](https://www.npmjs.com/package/traffic)
+
+[Steps](https://www.npmjs.com/package/steps)
+
+[Mountain](https://www.npmjs.com/package/mountain)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
