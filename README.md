@@ -590,8 +590,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Library](https://www.npmjs.com/package/library)
@@ -793,3 +791,5 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Careless](https://www.npmjs.com/package/careless)
+
+[Split](https://www.npmjs.com/package/split)
