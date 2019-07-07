@@ -452,8 +452,6 @@
 
 [Support](https://www.npmjs.com/package/support)
 
-[Isolate](https://www.npmjs.com/package/isolate)
-
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Witness](https://www.npmjs.com/package/witness)
@@ -753,6 +751,10 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Test](https://www.npmjs.com/package/test)
+
+[Isolate](https://www.npmjs.com/package/isolate)
+
+[Island](https://www.npmjs.com/package/island)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
