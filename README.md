@@ -750,6 +750,8 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
+[Contact](https://www.npmjs.com/package/contact)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
