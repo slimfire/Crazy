@@ -766,6 +766,8 @@
 
 [Health](https://www.npmjs.com/package/health)
 
+[Mirror](https://www.npmjs.com/package/mirror)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
