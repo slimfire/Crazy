@@ -564,8 +564,6 @@
 
 [Alert](https://www.npmjs.com/package/alert)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Lab](https://www.npmjs.com/package/lab)
 
 [Disclose](https://www.npmjs.com/package/disclose)
@@ -763,6 +761,10 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Highlights](https://www.npmjs.com/package/highlights)
+
+[Live](https://www.npmjs.com/package/live)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
