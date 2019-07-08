@@ -712,8 +712,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [Cluster](https://www.npmjs.com/package/cluster)
 
 [Terminal](https://www.npmjs.com/package/terminal)
@@ -760,11 +758,13 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Highlights](https://www.npmjs.com/package/highlights)
 
 [Live](https://www.npmjs.com/package/live)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Breach](https://www.npmjs.com/package/breach)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
