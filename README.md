@@ -734,8 +734,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Test](https://www.npmjs.com/package/test)
@@ -765,6 +763,8 @@
 [Fam](https://www.npmjs.com/package/fam)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
