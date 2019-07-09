@@ -614,8 +614,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Music](https://www.npmjs.com/package/music)
 
 [Parent](https://www.npmjs.com/package/parent)
@@ -798,8 +796,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Careless](https://www.npmjs.com/package/careless)
@@ -809,3 +805,7 @@
 [Disorient](https://www.npmjs.com/package/disorient)
 
 [Gateway](https://www.npmjs.com/package/gateway)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
