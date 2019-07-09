@@ -214,8 +214,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Pill](https://www.npmjs.com/package/pill)
 
 [intervene](https://www.npmjs.com/package/intervene)
@@ -807,6 +805,8 @@
 [Support](https://www.npmjs.com/package/support)
 
 [Live](https://www.npmjs.com/package/live)
+
+[Hop](https://www.npmjs.com/package/hop)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
