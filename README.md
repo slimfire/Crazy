@@ -746,8 +746,6 @@
 
 [Mountain](https://www.npmjs.com/package/mountain)
 
-[Neighborhood](https://www.npmjs.com/package/neighborhood)
-
 [Loud](https://www.npmjs.com/package/loud)
 
 [Music](https://www.npmjs.com/package/music)
@@ -810,5 +808,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Yell](https://www.npmjs.com/package/yell)
+[Neighborhood](https://www.npmjs.com/package/neighborhood)
 
+[Yell](https://www.npmjs.com/package/yell)
