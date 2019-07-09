@@ -446,8 +446,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Support](https://www.npmjs.com/package/support)
-
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Witness](https://www.npmjs.com/package/witness)
@@ -603,8 +601,6 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Vote](https://www.npmjs.com/package/vote)
-
-[Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
@@ -804,10 +800,14 @@
 
 [Gateway](https://www.npmjs.com/package/gateway)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Neighborhood](https://www.npmjs.com/package/neighborhood)
 
 [Yell](https://www.npmjs.com/package/yell)
+
+[Support](https://www.npmjs.com/package/support)
+
+[Live](https://www.npmjs.com/package/live)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
