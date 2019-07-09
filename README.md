@@ -809,3 +809,6 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Yell](https://www.npmjs.com/package/yell)
+
