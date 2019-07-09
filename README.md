@@ -813,3 +813,5 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Catch](https://www.npmjs.com/package/catch)
+
+[Bombard](https://www.npmjs.com/package/bombarder)
