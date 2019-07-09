@@ -792,8 +792,6 @@
 
 [Careless](https://www.npmjs.com/package/careless)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Disorient](https://www.npmjs.com/package/disorient)
 
 [Gateway](https://www.npmjs.com/package/gateway)
@@ -811,3 +809,5 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Split](https://www.npmjs.com/package/split)
