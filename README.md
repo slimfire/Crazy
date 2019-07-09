@@ -376,8 +376,6 @@
 
 [Public](https://www.npmjs.com/package/public)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Dev](https://www.npmjs.com/package/dev)
 
 [Face](https://www.npmjs.com/package/face)
@@ -802,10 +800,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Catch](https://www.npmjs.com/package/catch)
@@ -815,3 +809,9 @@
 [Fam](https://www.npmjs.com/package/fam)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
