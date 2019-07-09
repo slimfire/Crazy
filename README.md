@@ -811,3 +811,5 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Catch](https://www.npmjs.com/package/catch)
