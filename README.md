@@ -674,8 +674,6 @@
 
 [Group](https://www.npmjs.com/package/group)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Deception](https://www.npmjs.com/package/deception)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -748,8 +746,6 @@
 
 [Live](https://www.npmjs.com/package/live)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Cough](https://www.npmjs.com/package/cough)
@@ -815,3 +811,7 @@
 [Catch](https://www.npmjs.com/package/catch)
 
 [Bombard](https://www.npmjs.com/package/bombarder)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Split](https://www.npmjs.com/package/split)
