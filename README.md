@@ -812,8 +812,10 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
+[Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Crush](https://www.npmjs.com/package/crush)
-
-[Logout](https://www.npmjs.com/package/logout)
+[Collapse](https://www.npmjs.com/package/collapse)
