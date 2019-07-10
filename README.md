@@ -814,4 +814,7 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
+[Crush](https://www.npmjs.com/package/crush)
+
 [Logout](https://www.npmjs.com/package/logout)
+
