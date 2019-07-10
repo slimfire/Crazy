@@ -606,8 +606,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Parent](https://www.npmjs.com/package/parent)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -809,6 +807,8 @@
 [Fam](https://www.npmjs.com/package/fam)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Contact](https://www.npmjs.com/package/contact)
 
