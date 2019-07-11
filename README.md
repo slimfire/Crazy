@@ -821,3 +821,5 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Neighborhood](https://www.npmjs.com/package/neighborhood)
+
+[Crowdsource](https://www.npmjs.com/package/crowdsource)
