@@ -788,8 +788,6 @@
 
 [Gateway](https://www.npmjs.com/package/gateway)
 
-[Neighborhood](https://www.npmjs.com/package/neighborhood)
-
 [Yell](https://www.npmjs.com/package/yell)
 
 [Support](https://www.npmjs.com/package/support)
@@ -808,8 +806,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -821,3 +817,7 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Collapse](https://www.npmjs.com/package/collapse)
+
+[Music](https://www.npmjs.com/package/music)
+
+[Neighborhood](https://www.npmjs.com/package/neighborhood)
