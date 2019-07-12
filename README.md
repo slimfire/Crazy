@@ -824,8 +824,8 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
+[Breach](https://www.npmjs.com/package/breach)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[highschool](https://www.npmjs.com/package/highschool)
