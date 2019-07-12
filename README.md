@@ -828,8 +828,8 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Force](https://www.npmjs.com/package/force)
-
 [Contact](https://www.npmjs.com/package/contact)
+
+[Force](https://www.npmjs.com/package/force)
 
 [Dictator](https://www.npmjs.com/package/dictator)
