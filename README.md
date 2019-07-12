@@ -610,8 +610,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Updates](https://www.npmjs.com/package/updates)
@@ -718,8 +716,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Test](https://www.npmjs.com/package/test)
 
 [Isolate](https://www.npmjs.com/package/isolate)
@@ -759,8 +755,6 @@
 [Trash](https://www.npmjs.com/package/trash)
 
 [Toyota](https://www.npmjs.com/package/toyota)
-
-[Messenger](https://www.npmjs.com/package/messenger)
 
 [License](https://www.npmjs.com/package/license)
 
@@ -825,3 +819,9 @@
 [Crowdsource](https://www.npmjs.com/package/crowdsource)
 
 [Win](https://www.npmjs.com/package/win)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
