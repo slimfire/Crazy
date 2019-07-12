@@ -827,3 +827,5 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[HS](https://www.npmjs.com/package/hs)
