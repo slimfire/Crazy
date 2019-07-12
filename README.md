@@ -827,3 +827,9 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Force](https://www.npmjs.com/package/force)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Dictator](https://www.npmjs.com/package/dictator)
