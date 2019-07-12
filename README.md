@@ -800,8 +800,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Unlink](https://www.npmjs.com/package/unlink)
@@ -822,8 +820,10 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
+[Defeat](https://www.npmjs.com/package/defeat)
+
+[Contact](https://www.npmjs.com/package/contact)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Defeat](https://www.npmjs.com/package/defeat)
