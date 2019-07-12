@@ -828,4 +828,4 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[hs](https://www.npmjs.com/package/hs)
+[highschool](https://www.npmjs.com/package/highschool)
