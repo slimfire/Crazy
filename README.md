@@ -825,3 +825,5 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Defeat](https://www.npmjs.com/package/defeat)
