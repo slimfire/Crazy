@@ -84,8 +84,6 @@
 
 [End](https://www.npmjs.com/package/end)
 
-[Event](https://www.npmjs.com/package/event)
-
 [Entites](https://www.npmjs.com/package/entities)
 
 [Filter](https://www.npmjs.com/package/filter)
@@ -833,6 +831,8 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Event](https://www.npmjs.com/package/event)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
