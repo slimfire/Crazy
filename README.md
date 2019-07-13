@@ -594,8 +594,6 @@
 
 [Intersection](https://www.npmjs.com/package/intersection)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -825,6 +823,8 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
