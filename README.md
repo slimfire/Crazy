@@ -690,8 +690,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Cluster](https://www.npmjs.com/package/cluster)
-
 [Terminal](https://www.npmjs.com/package/terminal)
 
 [Boss](https://www.npmjs.com/package/boss)
@@ -833,3 +831,9 @@
 [Grid](https://www.npmjs.com/package/grid)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Community](https://www.npmjs.com/package/community)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
