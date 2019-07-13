@@ -800,8 +800,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Collapse](https://www.npmjs.com/package/collapse)
 
 [Music](https://www.npmjs.com/package/music)
@@ -822,10 +820,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Popo](https://www.npmjs.com/package/popo)
 
 [Grid](https://www.npmjs.com/package/grid)
@@ -837,3 +831,9 @@
 [Job](https://www.npmjs.com/package/job)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
