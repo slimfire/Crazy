@@ -522,8 +522,6 @@
 
 [Lone](https://www.npmjs.com/package/lone)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Card](https://www.npmjs.com/package/card)
@@ -829,3 +827,9 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Popo](https://www.npmjs.com/package/popo)
+
+[Grid](https://www.npmjs.com/package/grid)
+
+[Infant](https://www.npmjs.com/package/infant)
