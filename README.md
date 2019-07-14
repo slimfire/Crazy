@@ -848,14 +848,6 @@
 
 [Fame](https://www.npmjs.com/package/fame)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Attacking](https://www.npmjs.com/package/attacking)
-
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Live](https://www.npmjs.com/package/live)
 
 [Music](https://www.npmjs.com/package/music)
@@ -875,3 +867,11 @@
 [Campus](https://www.npmjs.com/package/campus)
 
 [Monday](https://www.npmjs.com/package/monday)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Attacking](https://www.npmjs.com/package/attacking)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Logout](https://www.npmjs.com/package/logout)
