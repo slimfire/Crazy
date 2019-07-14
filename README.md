@@ -674,8 +674,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Control](https://www.npmjs.com/package/control)
 
 [Emotion](https://www.npmjs.com/package/emotion)
@@ -855,3 +853,5 @@
 [Arrest](https://www.npmjs.com/package/arrest)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Cough](https://www.npmjs.com/package/cough)
