@@ -857,3 +857,5 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Positive](https://www.npmjs.com/package/positive)
+
+[Fame](https://www.npmjs.com/package/fame)
