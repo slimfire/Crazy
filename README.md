@@ -724,8 +724,6 @@
 
 [Highlights](https://www.npmjs.com/package/highlights)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Cough](https://www.npmjs.com/package/cough)
@@ -851,6 +849,8 @@
 [Positive](https://www.npmjs.com/package/positive)
 
 [Fame](https://www.npmjs.com/package/fame)
+
+[Live](https://www.npmjs.com/package/live)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
