@@ -850,8 +850,6 @@
 
 [Fame](https://www.npmjs.com/package/fame)
 
-[Live](https://www.npmjs.com/package/live)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Attacking](https://www.npmjs.com/package/attacking)
@@ -859,3 +857,5 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Live](https://www.npmjs.com/package/live)
