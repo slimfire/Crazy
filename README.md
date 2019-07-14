@@ -851,3 +851,5 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Savage](https://www.npmjs.com/package/savage)
+
+[Arrest](https://www.npmjs.com/package/arrest)
