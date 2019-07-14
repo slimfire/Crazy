@@ -841,3 +841,5 @@
 [Attacking](https://www.npmjs.com/package/attacking)
 
 [tv](https://www.npmjs.com/package/tv)
+
+[Cought](https://www.npmjs.com/package/cought)
