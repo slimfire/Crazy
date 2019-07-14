@@ -847,3 +847,5 @@
 [Steep](https://www.npmjs.com/package/steep)
 
 [Stayback](https://www.npmjs.com/package/stayback)
+
+[Split](https://www.npmjs.com/package/split)
