@@ -863,3 +863,5 @@
 [Tree](https://www.npmjs.com/package/tree)
 
 [Friday](https://www.npmjs.com/package/friday)
+
+[Stream](https://www.npmjs.com/package/stream)
