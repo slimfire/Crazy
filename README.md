@@ -861,3 +861,5 @@
 [Music](https://www.npmjs.com/package/music)
 
 [Tree](https://www.npmjs.com/package/tree)
+
+[Friday](https://www.npmjs.com/package/friday)
