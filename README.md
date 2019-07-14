@@ -865,3 +865,13 @@
 [Friday](https://www.npmjs.com/package/friday)
 
 [Stream](https://www.npmjs.com/package/stream)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Provision](https://www.npmjs.com/package/provision)
+
+[Temp](https://www.npmjs.com/package/temp)
+
+[Campus](https://www.npmjs.com/package/campus)
+
+[Monday](https://www.npmjs.com/package/monday)
