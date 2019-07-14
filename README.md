@@ -720,8 +720,6 @@
 
 [Loud](https://www.npmjs.com/package/loud)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Highlights](https://www.npmjs.com/package/highlights)
 
 [Breach](https://www.npmjs.com/package/breach)
@@ -859,3 +857,6 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Live](https://www.npmjs.com/package/live)
+
+[Music](https://www.npmjs.com/package/music)
+
