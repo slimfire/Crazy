@@ -868,6 +868,8 @@
 
 [Monday](https://www.npmjs.com/package/monday)
 
+[Hop](https://www.npmjs.com/package/hop)
+
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Attacking](https://www.npmjs.com/package/attacking)
@@ -875,5 +877,3 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Hop](https://www.npmjs.com/package/hop)
