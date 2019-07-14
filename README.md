@@ -344,8 +344,6 @@
 
 [Move](https://www.npmjs.com/package/move)
 
-[Network](https://www.npmjs.com/package/network)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [warned](https://www.npmjs.com/package/warned)
@@ -831,6 +829,8 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Network](https://www.npmjs.com/package/network)
 
 [Event](https://www.npmjs.com/package/event)
 
