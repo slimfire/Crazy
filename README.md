@@ -883,3 +883,5 @@
 [You](https://www.npmjs.com/package/you)
 
 [Attack](https://www.npmjs.com/package/attack)
+
+[Allowance](https://www.npmjs.com/package/allowance)
