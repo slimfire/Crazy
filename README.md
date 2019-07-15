@@ -866,19 +866,11 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Pig](https://www.npmjs.com/package/pig)
 
 [Embarrass](https://www.npmjs.com/package/embarrass)
 
 [You](https://www.npmjs.com/package/you)
-
-[Attack](https://www.npmjs.com/package/attack)
 
 [Allowance](https://www.npmjs.com/package/allowance)
 
@@ -899,3 +891,11 @@
 [Biometry](https://www.npmjs.com/package/biometry)
 
 [Lab](https://www.npmjs.com/package/lab)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Attack](https://www.npmjs.com/package/attack)
+
+[Logout](https://www.npmjs.com/package/logout)
