@@ -886,6 +886,8 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Yell](https://www.npmjs.com/package/yell)
+
+[Coworker](https://www.npmjs.com/package/co-work)
+
+[Cough](https://www.npmjs.com/package/cough)
