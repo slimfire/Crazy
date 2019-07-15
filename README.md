@@ -891,3 +891,5 @@
 [Coworker](https://www.npmjs.com/package/co-work)
 
 [Cough](https://www.npmjs.com/package/cough)
+
+[Jealous](https://www.npmjs.com/package/jealous)
