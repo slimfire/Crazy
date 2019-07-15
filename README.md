@@ -877,3 +877,5 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Pig](https://www.npmjs.com/package/pig)
