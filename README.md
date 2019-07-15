@@ -870,8 +870,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Attacking](https://www.npmjs.com/package/attacking)
-
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -883,3 +881,5 @@
 [Embarrass](https://www.npmjs.com/package/embarrass)
 
 [You](https://www.npmjs.com/package/you)
+
+[Attack](https://www.npmjs.com/package/attack)
