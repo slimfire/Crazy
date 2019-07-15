@@ -702,8 +702,6 @@
 
 [Brain](https://www.npmjs.com/package/brain)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Test](https://www.npmjs.com/package/test)
 
 [Isolate](https://www.npmjs.com/package/isolate)
@@ -885,3 +883,5 @@
 [Attack](https://www.npmjs.com/package/attack)
 
 [Allowance](https://www.npmjs.com/package/allowance)
+
+[Music](https://www.npmjs.com/package/music)
