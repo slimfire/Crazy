@@ -885,3 +885,5 @@
 [Allowance](https://www.npmjs.com/package/allowance)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Cough](https://www.npmjs.com/package/cough)
