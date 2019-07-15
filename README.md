@@ -552,8 +552,6 @@
 
 [Alert](https://www.npmjs.com/package/alert)
 
-[Lab](https://www.npmjs.com/package/lab)
-
 [Disclose](https://www.npmjs.com/package/disclose)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -890,8 +888,14 @@
 
 [Coworker](https://www.npmjs.com/package/co-work)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Jealous](https://www.npmjs.com/package/jealous)
 
 [Changed](https://www.npmjs.com/package/changed)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Flavors](https://www.npmjs.com/package/changed)
+
+[Biometry](https://www.npmjs.com/package/biometry)
+
+[Lab](https://www.npmjs.com/package/lab)
