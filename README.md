@@ -893,3 +893,5 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Jealous](https://www.npmjs.com/package/jealous)
+
+[Changed](https://www.npmjs.com/package/changed)
