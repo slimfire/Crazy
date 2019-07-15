@@ -879,3 +879,5 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Pig](https://www.npmjs.com/package/pig)
+
+[Embarrass](https://www.npmjs.com/package/embarrass)
