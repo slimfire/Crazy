@@ -608,8 +608,6 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Teen](https://www.npmjs.com/package/teen)
-
 [Cheat](https://www.npmjs.com/package/cheat)
 
 [Clusters](https://www.npmjs.com/package/clusters)
@@ -890,8 +888,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/scam)
@@ -901,5 +897,9 @@
 [Literal](https://www.npmjs.com/package/literal)
 
 [hop](https://www.npmjs.com/package/hop)
+
+[Teens](https://www.npmjs.com/package/teens)
+
+[Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
