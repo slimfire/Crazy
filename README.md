@@ -322,8 +322,6 @@
 
 [soccer](https://www.npmjs.com/package/soccer)
 
-[hop](https://www.npmjs.com/package/hop)
-
 [Infrastrucre](https://www.npmjs.com/package/infrastructure)
 
 [Over](https://www.npmjs.com/package/over)
@@ -462,8 +460,6 @@
 
 [Scam](https://www.npmjs.com/package/scam)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Bull](https://www.npmjs.com/package/bull)
 
 [Manipulate](https://www.npmjs.com/package/manipulate)
@@ -597,8 +593,6 @@
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Parent](https://www.npmjs.com/package/parent)
-
-[Institute](https://www.npmjs.com/package/institute)
 
 [Net](https://www.npmjs.com/package/net)
 
@@ -898,6 +892,14 @@
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
-[Attack](https://www.npmjs.com/package/attack)
-
 [Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Literal](https://www.npmjs.com/package/literal)
+
+[hop](https://www.npmjs.com/package/hop)
+
+[Attack](https://www.npmjs.com/package/attack)
