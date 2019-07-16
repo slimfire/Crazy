@@ -888,15 +888,14 @@
 
 [Yell](https://www.npmjs.com/package/yell)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Music](https://www.npmjs.com/package/music)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
 
+[Logout](https://www.npmjs.com/package/logout)
