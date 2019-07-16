@@ -894,8 +894,9 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
+[Logout](https://www.npmjs.com/package/logout)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
 
-[Logout](https://www.npmjs.com/package/logout)
