@@ -884,11 +884,7 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Contact](https://www.npmjs.com/package/contact)
-
-[Logout](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/scam)
 
@@ -900,6 +896,10 @@
 
 [Teens](https://www.npmjs.com/package/teens)
 
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
+
+[Logout](https://www.npmjs.com/package/logout)
