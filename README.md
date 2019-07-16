@@ -894,6 +894,8 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
+[Contact](https://www.npmjs.com/package/contact)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
