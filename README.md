@@ -890,12 +890,14 @@
 
 [Lab](https://www.npmjs.com/package/lab)
 
+[Yell](https://www.npmjs.com/package/yell)
+
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
+[Attack](https://www.npmjs.com/package/attack)
+
 [Logout](https://www.npmjs.com/package/logout)
 
-[Yell](https://www.npmjs.com/package/yell)
 
-[Attack](https://www.npmjs.com/package/attack)
