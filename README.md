@@ -686,8 +686,6 @@
 
 [Boss](https://www.npmjs.com/package/boss)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Video](https://www.npmjs.com/package/video)
 
 [Neighbours](https://www.npmjs.com/package/neighbours)
@@ -804,8 +802,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Popo](https://www.npmjs.com/package/popo)
 
 [Grid](https://www.npmjs.com/package/grid)
@@ -895,6 +891,10 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
