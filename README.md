@@ -876,8 +876,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Yell](https://www.npmjs.com/package/yell)
-
 [Coworker](https://www.npmjs.com/package/co-work)
 
 [Jealous](https://www.npmjs.com/package/jealous)
@@ -896,6 +894,8 @@
 
 [Messenger](https://www.npmjs.com/package/messenger)
 
-[Attack](https://www.npmjs.com/package/attack)
-
 [Logout](https://www.npmjs.com/package/logout)
+
+[Yell](https://www.npmjs.com/package/yell)
+
+[Attack](https://www.npmjs.com/package/attack)
