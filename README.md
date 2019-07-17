@@ -76,8 +76,6 @@
 
 [Priority](https://www.npmjs.com/package/priority)
 
-[Next](https://www.npmjs.com/package/next)
-
 [Remote](https://www.npmjs.com/package/remote)
 
 [Config](https://www.npmjs.com/package/config)
@@ -903,5 +901,7 @@
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
+
+[Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
