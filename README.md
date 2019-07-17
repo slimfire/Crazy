@@ -300,8 +300,6 @@
 
 [Reverse](https://www.npmjs.com/package/reverse)
 
-[Grace](https://www.npmjs.com/package/grace)
-
 [Waited](https://www.npmjs.com/package/waited)
 
 [Next](https://www.npmjs.com/package/next)
@@ -311,8 +309,6 @@
 [Vis](https://www.npmjs.com/package/vis)
 
 [Gavel](https://www.npmjs.com/package/gavel)
-
-[Request](https://www.npmjs.com/package/request)
 
 [Resource](https://www.npmjs.com/package/resource)
 
@@ -901,5 +897,11 @@
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Attack](https://www.npmjs.com/package/attack)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Request](https://www.npmjs.com/package/request)
+
+[Grace](https://www.npmjs.com/package/grace)
 
 [Logout](https://www.npmjs.com/package/logout)
