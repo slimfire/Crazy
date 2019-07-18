@@ -898,6 +898,12 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Fam](https://www.npmjs.com/package/fam)
+
+[Score](https://www.npmjs.com/package/score)
+
+[Affects](https://www.npmjs.com/package/affects)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -906,8 +912,3 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Fam](https://www.npmjs.com/package/fam)
-
-[Score](https://www.npmjs.com/package/score)
-
-[Affects](https://www.npmjs.com/package/affects)
