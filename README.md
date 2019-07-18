@@ -912,3 +912,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Adopted](https://www.npmjs.com/package/adopted)
+
+[Disrespect](https://www.npmjs.com/package/disrespect)
