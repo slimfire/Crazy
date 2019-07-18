@@ -906,7 +906,7 @@
 
 [Adopted](https://www.npmjs.com/package/adopted)
 
-[Respect](https://www.npmjs.com/package/respect)
+[Split](https://www.npmjs.com/package/split)
 
 [Request](https://www.npmjs.com/package/request)
 
