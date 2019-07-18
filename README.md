@@ -904,6 +904,10 @@
 
 [Affects](https://www.npmjs.com/package/affects)
 
+[Adopted](https://www.npmjs.com/package/adopted)
+
+[Disrespect](https://www.npmjs.com/package/disrespect)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -911,7 +915,3 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Adopted](https://www.npmjs.com/package/adopted)
-
-[Disrespect](https://www.npmjs.com/package/disrespect)
