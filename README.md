@@ -905,3 +905,9 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Score](https://www.npmjs.com/package/score)
+
+[Affects](https://www.npmjs.com/package/affects)
