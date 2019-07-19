@@ -580,8 +580,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Mom](https://www.npmjs.com/package/mom)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -709,8 +707,6 @@
 [Health](https://www.npmjs.com/package/health)
 
 [Mirror](https://www.npmjs.com/package/mirror)
-
-[Messenger](https://www.npmjs.com/package/messenger)
 
 [Logout](https://www.npmjs.com/package/logout)
 
@@ -919,3 +915,9 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Please](https://www.npmjs.com/package/please)
+
+[Mom](https://www.npmjs.com/package/mom)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Split](https://www.npmjs.com/package/split)
