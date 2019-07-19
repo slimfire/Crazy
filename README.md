@@ -906,6 +906,12 @@
 
 [Penetrate](https://www.npmjs.com/package/penetrate)
 
+[Mom](https://www.npmjs.com/package/mom)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Split](https://www.npmjs.com/package/split)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -915,9 +921,3 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Please](https://www.npmjs.com/package/please)
-
-[Mom](https://www.npmjs.com/package/mom)
-
-[Messenger](https://www.npmjs.com/package/messenger)
-
-[Split](https://www.npmjs.com/package/split)
