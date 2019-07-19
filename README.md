@@ -914,4 +914,8 @@
 
 [Next](https://www.npmjs.com/package/next)
 
+[Penetrate](https://www.npmjs.com/package/penetrate)
+
 [Logout](https://www.npmjs.com/package/logout)
+
+[Please](https://www.npmjs.com/package/please)
