@@ -908,13 +908,13 @@
 
 [Split](https://www.npmjs.com/package/split)
 
+[Penetrate](https://www.npmjs.com/package/penetrate)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
 
 [Next](https://www.npmjs.com/package/next)
-
-[Penetrate](https://www.npmjs.com/package/penetrate)
 
 [Logout](https://www.npmjs.com/package/logout)
 
