@@ -910,16 +910,16 @@
 
 [Split](https://www.npmjs.com/package/split)
 
+[Women](https://www.npmjs.com/package/women)
+
+[Breach](https://www.npmjs.com/package/breach)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
 
 [Next](https://www.npmjs.com/package/next)
 
-[Please](https://www.npmjs.com/package/please)
-
-[Women](https://www.npmjs.com/package/women)
-
-[Breach](https://www.npmjs.com/package/breach)
-
 [Logout](https://www.npmjs.com/package/logout)
+
+[Please](https://www.npmjs.com/package/please)
