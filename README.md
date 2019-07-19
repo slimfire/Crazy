@@ -562,8 +562,6 @@
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Library](https://www.npmjs.com/package/library)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -918,6 +916,10 @@
 
 [Next](https://www.npmjs.com/package/next)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Please](https://www.npmjs.com/package/please)
+
+[Women](https://www.npmjs.com/package/women)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Logout](https://www.npmjs.com/package/logout)
