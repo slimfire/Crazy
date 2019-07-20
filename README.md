@@ -916,6 +916,12 @@
 
 [Amplify](https://www.npmjs.com/package/amplify)
 
+[Cough](https://www.npmjs.com/package/cough)
+
+[Wedding](https://www.npmjs.com/package/wedding)
+
+[Grid](https://www.npmjs.com/package/grid)
+
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -923,19 +929,3 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Cough](https://www.npmjs.com/package/cough)
-
-[Wedding](https://www.npmjs.com/package/wedding)
-
-[Grid](https://www.npmjs.com/package/grid)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Name](https://www.npmjs.com/package/name)
-
-[Hop](https://www.npmjs.com/package/name)
-
-[Institute](https://www.npmjs.com/package/institute)
-
-[Popo](https://www.npmjs.com/package/popo)
