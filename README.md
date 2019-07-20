@@ -923,3 +923,9 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Please](https://www.npmjs.com/package/please)
+
+[Literal](https://www.npmjs.com/package/literal)
+
+[Money](https://www.npmjs.com/package/money)
+
+[Robbery](https://www.npmjs.com/package/robbery)
