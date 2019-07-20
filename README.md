@@ -912,14 +912,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Request](https://www.npmjs.com/package/request)
-
-[Grace](https://www.npmjs.com/package/grace)
-
-[Next](https://www.npmjs.com/package/next)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Please](https://www.npmjs.com/package/please)
 
 [Literal](https://www.npmjs.com/package/literal)
@@ -929,3 +921,11 @@
 [Robbery](https://www.npmjs.com/package/robbery)
 
 [Amplify](https://www.npmjs.com/package/amplify)
+
+[Request](https://www.npmjs.com/package/request)
+
+[Grace](https://www.npmjs.com/package/grace)
+
+[Next](https://www.npmjs.com/package/next)
+
+[Logout](https://www.npmjs.com/package/logout)
