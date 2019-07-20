@@ -606,8 +606,6 @@
 
 [One](https://www.npmjs.com/package/one)
 
-[Name](https://www.npmjs.com/package/name)
-
 [Viral](https://www.npmjs.com/package/viral)
 
 [Dress](https://www.npmjs.com/package/dress)
@@ -778,8 +776,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Popo](https://www.npmjs.com/package/popo)
-
 [Grid](https://www.npmjs.com/package/grid)
 
 [Infant](https://www.npmjs.com/package/infant)
@@ -933,3 +929,13 @@
 [Wedding](https://www.npmjs.com/package/wedding)
 
 [Grid](https://www.npmjs.com/package/grid)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Name](https://www.npmjs.com/package/name)
+
+[Hop](https://www.npmjs.com/package/name)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Popo](https://www.npmjs.com/package/popo)
