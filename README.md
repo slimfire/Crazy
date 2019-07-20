@@ -929,3 +929,5 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Wedding](https://www.npmjs.com/package/wedding)
