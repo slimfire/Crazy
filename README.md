@@ -630,8 +630,6 @@
 
 [tv](https://www.npmjs.com/package/tv)
 
-[Amplify](https://www.npmjs.com/package/amplify)
-
 [Innocent](https://www.npmjs.com/package/innocent)
 
 [Journal](https://www.npmjs.com/package/journal)
@@ -929,3 +927,5 @@
 [Money](https://www.npmjs.com/package/money)
 
 [Robbery](https://www.npmjs.com/package/robbery)
+
+[Amplify](https://www.npmjs.com/package/amplify)
