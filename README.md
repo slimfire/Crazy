@@ -698,8 +698,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Health](https://www.npmjs.com/package/health)
 
 [Mirror](https://www.npmjs.com/package/mirror)
@@ -929,5 +927,7 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Wedding](https://www.npmjs.com/package/wedding)
