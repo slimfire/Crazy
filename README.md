@@ -632,8 +632,6 @@
 
 [Journal](https://www.npmjs.com/package/journal)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Group](https://www.npmjs.com/package/group)
 
 [Deception](https://www.npmjs.com/package/deception)
@@ -929,3 +927,9 @@
 [Next](https://www.npmjs.com/package/next)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Group](https://www.npmjs.com/package/group)
+
+[NGO](https://www.npmjs.com/package/ngo)
+
+[RGB](https://www.npmjs.com/package/rgb)
