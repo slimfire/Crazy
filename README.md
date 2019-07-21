@@ -654,8 +654,6 @@
 
 [Institue](https://www.npmjs.com/package/institue)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Terminal](https://www.npmjs.com/package/terminal)
@@ -939,3 +937,10 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Failure](https://www.npmjs.com/package/failure)
+
+[Electronics](https://www.npmjs.com/package/electronics)
+
+[NGO](https://www.npmjs.com/package/ngo)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
