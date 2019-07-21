@@ -933,3 +933,9 @@
 [NGO](https://www.npmjs.com/package/ngo)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Failure](https://www.npmjs.com/package/failure)
