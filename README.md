@@ -664,8 +664,6 @@
 
 [Neighbours](https://www.npmjs.com/package/neighbours)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Birth](https://www.npmjs.com/package/birth)
 
 [Adopt](https://www.npmjs.com/package/adopt)
@@ -943,5 +941,7 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Feedback](https://www.npmjs.com/package/feedback)
+
+[Forecast](https://www.npmjs.com/package/forecast)
 
 [Logout](https://www.npmjs.com/package/logout)
