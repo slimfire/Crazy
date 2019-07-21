@@ -696,8 +696,6 @@
 
 [Mirror](https://www.npmjs.com/package/mirror)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Knowabout](https://www.npmjs.com/package/knowabout)
 
 [Trash](https://www.npmjs.com/package/trash)
@@ -944,3 +942,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
+[Feedback](https://www.npmjs.com/package/feedback)
+
+[Logout](https://www.npmjs.com/package/logout)
