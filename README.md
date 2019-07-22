@@ -944,4 +944,6 @@
 
 [Forecast](https://www.npmjs.com/package/forecast)
 
+[Advise](https://www.npmjs.com/package/advise)
+
 [Logout](https://www.npmjs.com/package/logout)
