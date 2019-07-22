@@ -760,8 +760,6 @@
 
 [Win](https://www.npmjs.com/package/win)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Defeat](https://www.npmjs.com/package/defeat)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -936,10 +934,6 @@
 
 [Electronics](https://www.npmjs.com/package/electronics)
 
-[NGO](https://www.npmjs.com/package/ngo)
-
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Forecast](https://www.npmjs.com/package/forecast)
@@ -947,3 +941,11 @@
 [Advise](https://www.npmjs.com/package/advise)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[NGO](https://www.npmjs.com/package/ngo)
+
+[Pandora](https://www.npmjs.com/package/pandora)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[RGB](https://www.npmjs.com/package/rgb)
