@@ -932,8 +932,6 @@
 
 [Failure](https://www.npmjs.com/package/failure)
 
-[Electronics](https://www.npmjs.com/package/electronics)
-
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Forecast](https://www.npmjs.com/package/forecast)
@@ -942,9 +940,11 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Pandora](https://www.npmjs.com/package/pandora)
+
 [NGO](https://www.npmjs.com/package/ngo)
 
-[Pandora](https://www.npmjs.com/package/pandora)
+[Electronics](https://www.npmjs.com/package/electronics)
 
 [Contact](https://www.npmjs.com/package/contact)
 
