@@ -968,8 +968,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Terrorist](https://www.npmjs.com/package/terrorist)
 
 [Disease](https://www.npmjs.com/package/disease)
