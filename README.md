@@ -962,6 +962,8 @@
 
 [Family](https://www.npmjs.com/package/family)
 
+[Bros](https://www.npmjs.com/package/bros)
+
 [Messenger](https://www.npmjs.com/package/messenger)
 
 [Ours](https://www.npmjs.com/package/ours)
