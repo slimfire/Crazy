@@ -958,7 +958,7 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Mine](https://www.npmjs.com/package/mine)
+[Ours](https://www.npmjs.com/package/ours)
 
 [Contact](https://www.npmjs.com/package/contact)
 
