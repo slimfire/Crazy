@@ -918,8 +918,6 @@
 
 [Next](https://www.npmjs.com/package/next)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Group](https://www.npmjs.com/package/group)
 
 [NGO](https://www.npmjs.com/package/ngo)
@@ -931,8 +929,6 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Failure](https://www.npmjs.com/package/failure)
-
-[Feedback](https://www.npmjs.com/package/feedback)
 
 [Forecast](https://www.npmjs.com/package/forecast)
 
@@ -949,6 +945,12 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Diagnose](https://www.npmjs.com/package/diagnose)
+
+[Feedback](https://www.npmjs.com/package/feedback)
+
+[Logout](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/vote)
 
