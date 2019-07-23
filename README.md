@@ -973,3 +973,7 @@
 [Disease](https://www.npmjs.com/package/disease)
 
 [Diarrhea](https://www.npmjs.com/package/diarrhea)
+
+[Unruly](https://www.npmjs.com/package/unruly)
+
+[Gay](https://www.npmjs.com/package/gay)
