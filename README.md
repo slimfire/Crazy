@@ -868,8 +868,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Messenger](https://www.npmjs.com/package/messenger)
-
 [Attack](https://www.npmjs.com/package/attack)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -952,16 +950,20 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Friends](https://www.npmjs.com/package/friends)
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Family](https://www.npmjs.com/package/family)
 
-[Ours](https://www.npmjs.com/package/ours)
-
 [Contact](https://www.npmjs.com/package/contact)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Messenger](https://www.npmjs.com/package/messenger)
+
+[Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
