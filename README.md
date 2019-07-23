@@ -949,3 +949,17 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Mine](https://www.npmjs.com/package/mine)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Snitch](https://www.npmjs.com/package/snitch)
