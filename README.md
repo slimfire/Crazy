@@ -958,8 +958,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Bros](https://www.npmjs.com/package/bros)
@@ -969,3 +967,11 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Terrorist](https://www.npmjs.com/package/terrorist)
+
+[Disease](https://www.npmjs.com/package/disease)
+
+[Diarrhea](https://www.npmjs.com/package/diarrhea)
