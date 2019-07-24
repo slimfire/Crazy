@@ -977,3 +977,7 @@
 [Unruly](https://www.npmjs.com/package/unruly)
 
 [Gay](https://www.npmjs.com/package/gay)
+
+[Nonstop](https://www.npmjs.com/package/nonstop)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
