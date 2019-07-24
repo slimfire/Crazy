@@ -742,8 +742,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Unlink](https://www.npmjs.com/package/unlink)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -991,3 +989,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Meditate](https://www.npmjs.com/package/meditate)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
