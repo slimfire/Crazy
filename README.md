@@ -574,8 +574,6 @@
 
 [Intersection](https://www.npmjs.com/package/intersection)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -989,3 +987,7 @@
 [Deception](https://www.npmjs.com/package/deception)
 
 [Bombard](https://www.npmjs.com/package/bombard)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Meditate](https://www.npmjs.com/package/meditate)
