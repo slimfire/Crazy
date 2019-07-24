@@ -986,4 +986,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Deception](https://www.npmjs.com/package/deception)
+
 [Bombard](https://www.npmjs.com/package/bombard)
