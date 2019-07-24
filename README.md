@@ -981,3 +981,7 @@
 [Nonstop](https://www.npmjs.com/package/nonstop)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Negotiate](https://www.npmjs.com/package/negotiate)
+
+[Logout](https://www.npmjs.com/package/logout)
