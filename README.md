@@ -854,8 +854,6 @@
 
 [Vote](https://www.npmjs.com/package/scam)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [hop](https://www.npmjs.com/package/hop)
@@ -985,6 +983,8 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Friends](https://www.npmjs.com/package/friends)
+
+[Institute](https://www.npmjs.com/package/institute)
 
 [Family](https://www.npmjs.com/package/family)
 
