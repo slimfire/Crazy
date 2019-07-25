@@ -988,6 +988,8 @@
 
 [Family](https://www.npmjs.com/package/family)
 
+[Organization](https://www.npmjs.com/package/organization)
+
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
