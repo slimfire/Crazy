@@ -938,15 +938,11 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Diagnose](https://www.npmjs.com/package/diagnose)
 
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Friends](https://www.npmjs.com/package/friends)
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
@@ -954,15 +950,9 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Family](https://www.npmjs.com/package/family)
-
 [Bros](https://www.npmjs.com/package/bros)
 
 [Messenger](https://www.npmjs.com/package/messenger)
-
-[Ours](https://www.npmjs.com/package/ours)
-
-[Snitch](https://www.npmjs.com/package/snitch)
 
 [Terrorist](https://www.npmjs.com/package/terrorist)
 
@@ -993,3 +983,13 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Ours](https://www.npmjs.com/package/ours)
+
+[Snitch](https://www.npmjs.com/package/snitch)
+
+[RGB](https://www.npmjs.com/package/rgb)
