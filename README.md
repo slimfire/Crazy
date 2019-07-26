@@ -978,6 +978,12 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Lost](https://www.npmjs.com/package/lost)
+
+[Sign](https://www.npmjs.com/package/sign)
+
+[Split](https://www.npmjs.com/package/split)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -991,9 +997,3 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
-
-[Lost](https://www.npmjs.com/package/lost)
-
-[Sign](https://www.npmjs.com/package/sign)
-
-[Split](https://www.npmjs.com/package/split)
