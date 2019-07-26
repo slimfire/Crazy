@@ -980,6 +980,12 @@
 
 [Split](https://www.npmjs.com/package/split)
 
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -991,9 +997,3 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[RGB](https://www.npmjs.com/package/rgb)
-
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
-[Logout](https://www.npmjs.com/package/logout)
