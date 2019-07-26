@@ -572,8 +572,6 @@
 
 [Intersection](https://www.npmjs.com/package/intersection)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -936,8 +934,6 @@
 
 [Feedback](https://www.npmjs.com/package/feedback)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Family](https://www.npmjs.com/package/family)
@@ -997,3 +993,7 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
