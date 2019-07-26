@@ -412,8 +412,6 @@
 
 [All](https://www.npmjs.com/package/all)
 
-[Sign](https://www.npmjs.com/package/sign)
-
 [Mali](https://www.npmjs.com/package/mali)
 
 [Oversea](https://www.npmjs.com/package/oversea)
@@ -740,8 +738,6 @@
 
 [Fam](https://www.npmjs.com/package/fam)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Unlink](https://www.npmjs.com/package/unlink)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -995,3 +991,9 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Lost](https://www.npmjs.com/package/lost)
+
+[Sign](https://www.npmjs.com/package/sign)
+
+[Split](https://www.npmjs.com/package/split)
