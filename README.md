@@ -542,8 +542,6 @@
 
 [Disclose](https://www.npmjs.com/package/disclose)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Budweiser](https://www.npmjs.com/package/budweiser)
 
 [Special](https://www.npmjs.com/package/special)
@@ -1001,3 +999,7 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Daily](https://www.npmjs.com/package/daily)
+
+[Infant](https://www.npmjs.com/package/infant)
