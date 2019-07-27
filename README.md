@@ -988,6 +988,10 @@
 
 [Play](https://www.npmjs.com/package/play)
 
+[Daily](https://www.npmjs.com/package/daily)
+
+[Infant](https://www.npmjs.com/package/infant)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -999,7 +1003,3 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Daily](https://www.npmjs.com/package/daily)
-
-[Infant](https://www.npmjs.com/package/infant)
