@@ -750,8 +750,6 @@
 
 [Defeat](https://www.npmjs.com/package/defeat)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Grid](https://www.npmjs.com/package/grid)
@@ -918,8 +916,6 @@
 
 [Advise](https://www.npmjs.com/package/advise)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Pandora](https://www.npmjs.com/package/pandora)
 
 [NGO](https://www.npmjs.com/package/ngo)
@@ -1003,3 +999,7 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Logout](https://www.npmjs.com/package/logout)
