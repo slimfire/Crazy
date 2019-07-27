@@ -986,6 +986,10 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Pause](https://www.npmjs.com/package/pause)
+
+[Play](https://www.npmjs.com/package/play)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Institute](https://www.npmjs.com/package/institute)
