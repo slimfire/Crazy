@@ -482,10 +482,6 @@
 
 [Routing](https://www.npmjs.com/package/routing)
 
-[Past](https://www.npmjs.com/package/past)
-
-[Immediate](https://www.npmjs.com/package/immediate)
-
 [Car](https://www.npmjs.com/package/car)
 
 [Hit](https://www.npmjs.com/package/hit)
@@ -1007,5 +1003,9 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [Contact](https://www.npmjs.com/package/contact)
+
+[Past](https://www.npmjs.com/package/past)
+
+[Immediate](https://www.npmjs.com/package/immediate)
 
 [Logout](https://www.npmjs.com/package/logout)
