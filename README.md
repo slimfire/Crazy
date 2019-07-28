@@ -996,6 +996,10 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Vote](https://www.npmjs.com/package/scam)
+
+[Powerful](https://www.npmjs.com/package/powerful)
+
 [Cough](https://www.npmjs.com/package/cough)
 
 [Friends](https://www.npmjs.com/package/friends)
@@ -1005,7 +1009,3 @@
 [Belong](https://www.npmjs.com/package/belong)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/scam)
-
-[Powerful](https://www.npmjs.com/package/powerful)
