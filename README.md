@@ -710,8 +710,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Careless](https://www.npmjs.com/package/careless)
 
 [Disorient](https://www.npmjs.com/package/disorient)
@@ -996,14 +994,16 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
-[Snitch](https://www.npmjs.com/package/snitch)
+[Feedback](https://www.npmjs.com/package/feedback)
 
-[Belong](https://www.npmjs.com/package/belong)
+[Logout](https://www.npmjs.com/package/logout)
+
+[Cough](https://www.npmjs.com/package/cough)
 
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
 
-[Feedback](https://www.npmjs.com/package/feedback)
+[Belong](https://www.npmjs.com/package/belong)
 
-[Logout](https://www.npmjs.com/package/logout)
+[Snitch](https://www.npmjs.com/package/snitch)
