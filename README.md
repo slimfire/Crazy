@@ -994,12 +994,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Belong](https://www.npmjs.com/package/belong)
-
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -1009,3 +1003,9 @@
 [Immediate](https://www.npmjs.com/package/immediate)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
