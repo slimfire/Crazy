@@ -926,8 +926,6 @@
 
 [Diagnose](https://www.npmjs.com/package/diagnose)
 
-[Feedback](https://www.npmjs.com/package/feedback)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Family](https://www.npmjs.com/package/family)
@@ -953,8 +951,6 @@
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Negotiate](https://www.npmjs.com/package/negotiate)
-
-[Logout](https://www.npmjs.com/package/logout)
 
 [Deception](https://www.npmjs.com/package/deception)
 
@@ -1007,3 +1003,7 @@
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
+
+[Feedback](https://www.npmjs.com/package/feedback)
+
+[Logout](https://www.npmjs.com/package/logout)
