@@ -988,10 +988,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Contact](https://www.npmjs.com/package/contact)
-
-[Logout](https://www.npmjs.com/package/logout)
-
 [Friends](https://www.npmjs.com/package/friends)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -1003,3 +999,7 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Logout](https://www.npmjs.com/package/logout)
