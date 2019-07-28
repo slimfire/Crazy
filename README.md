@@ -470,8 +470,6 @@
 
 [Advice](https://www.npmjs.com/package/advice)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Attack](https://www.npmjs.com/package/attack)
 
 [Spy](https://www.npmjs.com/package/spy)
@@ -1007,3 +1005,7 @@
 [Belong](https://www.npmjs.com/package/belong)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Powerful](https://www.npmjs.com/package/powerful)
