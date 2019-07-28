@@ -992,8 +992,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Friends](https://www.npmjs.com/package/friends)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Family](https://www.npmjs.com/package/family)
@@ -1005,5 +1003,7 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
