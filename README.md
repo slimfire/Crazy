@@ -504,8 +504,6 @@
 
 [Bored](https://www.npmjs.com/package/bored)
 
-[Payload](https://www.npmjs.com/package/payload)
-
 [Fire](https://www.npmjs.com/package/fire)
 
 [Accuweather](https://www.npmjs.com/package/accuweather)
@@ -695,8 +693,6 @@
 [Junkyard](https://www.npmjs.com/package/junkyard)
 
 [Test](https://www.npmjs.com/package/test)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Duo](https://www.npmjs.com/package/duo)
 
@@ -998,6 +994,16 @@
 
 [Embed](https://www.npmjs.com/package/embed)
 
+[Daily](https://www.npmjs.com/package/daily)
+
+[Req](https://www.npmjs.com/package/req)
+
+[Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Payload](https://www.npmjs.com/package/payload)
+
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
@@ -1005,9 +1011,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Daily](https://www.npmjs.com/package/daily)
-
-[Req](https://www.npmjs.com/package/req)
-
-[Infant](https://www.npmjs.com/package/infant)
