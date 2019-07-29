@@ -982,8 +982,6 @@
 
 [Cough](https://www.npmjs.com/package/cough)
 
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Past](https://www.npmjs.com/package/past)
@@ -992,14 +990,18 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[NGO](https://www.npmjs.com/package/ngo)
+
+[Pandora](https://www.npmjs.com/package/pandora)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Embed](https://www.npmjs.com/package/embed)
+
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
 
-[NGO](https://www.npmjs.com/package/ngo)
-
-[Pandora](https://www.npmjs.com/package/pandora)
-
-[RGB](https://www.npmjs.com/package/rgb)
+[Snitch](https://www.npmjs.com/package/snitch)
