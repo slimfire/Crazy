@@ -1004,6 +1004,12 @@
 
 [Payload](https://www.npmjs.com/package/payload)
 
+[Comm](https://www.npmjs.com/package/comm)
+
+[Only](https://www.npmjs.com/package/only)
+
+[Learning](https://www.npmjs.com/package/learning)
+
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
