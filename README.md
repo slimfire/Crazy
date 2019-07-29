@@ -562,8 +562,6 @@
 
 [Intersection](https://www.npmjs.com/package/intersection)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Parent](https://www.npmjs.com/package/parent)
@@ -966,10 +964,6 @@
 
 [Play](https://www.npmjs.com/package/play)
 
-[Daily](https://www.npmjs.com/package/daily)
-
-[Infant](https://www.npmjs.com/package/infant)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Family](https://www.npmjs.com/package/family)
@@ -1009,3 +1003,11 @@
 [Pandora](https://www.npmjs.com/package/pandora)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Daily](https://www.npmjs.com/package/daily)
+
+[Req](https://www.npmjs.com/package/req)
+
+[Infant](https://www.npmjs.com/package/infant)
