@@ -738,8 +738,6 @@
 
 [Grid](https://www.npmjs.com/package/grid)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Community](https://www.npmjs.com/package/community)
 
 [Job](https://www.npmjs.com/package/job)
@@ -1017,3 +1015,9 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Doctor](https://www.npmjs.com/package/doctor)
+
+[Visit](https://www.npmjs.com/package/visit)
+
+[Infant](https://www.npmjs.com/package/infant)
