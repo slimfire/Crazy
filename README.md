@@ -1005,3 +1005,9 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Daily](https://www.npmjs.com/package/daily)
+
+[Req](https://www.npmjs.com/package/req)
+
+[Infant](https://www.npmjs.com/package/infant)
