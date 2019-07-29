@@ -416,8 +416,6 @@
 
 [Oversea](https://www.npmjs.com/package/oversea)
 
-[NGO](https://www.npmjs.com/package/ngo)
-
 [Museum](https://www.npmjs.com/package/museum)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -908,8 +906,6 @@
 
 [Advise](https://www.npmjs.com/package/advise)
 
-[Pandora](https://www.npmjs.com/package/pandora)
-
 [NGO](https://www.npmjs.com/package/ngo)
 
 [Electronics](https://www.npmjs.com/package/electronics)
@@ -962,8 +958,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -1009,3 +1003,9 @@
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
+
+[NGO](https://www.npmjs.com/package/ngo)
+
+[Pandora](https://www.npmjs.com/package/pandora)
+
+[RGB](https://www.npmjs.com/package/rgb)
