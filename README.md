@@ -1003,11 +1003,3 @@
 [Pandora](https://www.npmjs.com/package/pandora)
 
 [RGB](https://www.npmjs.com/package/rgb)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Daily](https://www.npmjs.com/package/daily)
-
-[Req](https://www.npmjs.com/package/req)
-
-[Infant](https://www.npmjs.com/package/infant)
