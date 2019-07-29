@@ -976,10 +976,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Past](https://www.npmjs.com/package/past)
-
-[Immediate](https://www.npmjs.com/package/immediate)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [NGO](https://www.npmjs.com/package/ngo)
@@ -1019,6 +1015,10 @@
 [Gold](https://www.npmjs.com/package/gold)
 
 [Cough](https://www.npmjs.com/package/cough)
+
+[Past](https://www.npmjs.com/package/past)
+
+[Immediate](https://www.npmjs.com/package/immediate)
 
 [Belong](https://www.npmjs.com/package/belong)
 
