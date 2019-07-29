@@ -1021,3 +1021,9 @@
 [Visit](https://www.npmjs.com/package/visit)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Process](https://www.npmjs.com/package/process)
+
+[Gold](https://www.npmjs.com/package/gold)
