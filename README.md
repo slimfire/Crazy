@@ -764,8 +764,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Positive](https://www.npmjs.com/package/positive)
 
 [Fame](https://www.npmjs.com/package/fame)
@@ -1008,14 +1006,6 @@
 
 [Learning](https://www.npmjs.com/package/learning)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Doctor](https://www.npmjs.com/package/doctor)
 
 [Visit](https://www.npmjs.com/package/visit)
@@ -1027,3 +1017,13 @@
 [Process](https://www.npmjs.com/package/process)
 
 [Gold](https://www.npmjs.com/package/gold)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
