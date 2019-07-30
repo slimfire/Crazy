@@ -1034,6 +1034,8 @@
 
 [Million](https://www.npmjs.com/package/million)
 
+[Investigate](https://www.npmjs.com/package/investigate)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Investigate](https://www.npmjs.com/package/investigate)
+[Container](https://www.npmjs.com/package/container)
