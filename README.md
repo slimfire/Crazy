@@ -1002,8 +1002,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Process](https://www.npmjs.com/package/process)
 
 [Gold](https://www.npmjs.com/package/gold)
@@ -1029,3 +1027,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
