@@ -892,8 +892,6 @@
 
 [Failure](https://www.npmjs.com/package/failure)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Advise](https://www.npmjs.com/package/advise)
 
 [NGO](https://www.npmjs.com/package/ngo)
@@ -1019,6 +1017,8 @@
 [Past](https://www.npmjs.com/package/past)
 
 [Immediate](https://www.npmjs.com/package/immediate)
+
+[Forecast](https://www.npmjs.com/package/forecast)
 
 [Belong](https://www.npmjs.com/package/belong)
 
