@@ -1028,8 +1028,10 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Heart](https://www.npmjs.com/package/heart)
 
 [Puls](https://www.npmjs.com/package/puls)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Million](https://www.npmjs.com/package/million)
