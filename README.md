@@ -626,8 +626,6 @@
 
 [Dad](https://www.npmjs.com/package/dad)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Control](https://www.npmjs.com/package/control)
 
 [Emotion](https://www.npmjs.com/package/emotion)
@@ -984,8 +982,6 @@
 
 [Req](https://www.npmjs.com/package/req)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Payload](https://www.npmjs.com/package/payload)
@@ -1039,3 +1035,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Container](https://www.npmjs.com/package/container)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Infant](https://www.npmjs.com/package/infant)
