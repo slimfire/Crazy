@@ -1032,6 +1032,8 @@
 
 [Puls](https://www.npmjs.com/package/puls)
 
+[Million](https://www.npmjs.com/package/million)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Million](https://www.npmjs.com/package/million)
+[Investigate](https://www.npmjs.com/package/investigate)
