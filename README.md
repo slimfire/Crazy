@@ -846,8 +846,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Penetrate](https://www.npmjs.com/package/penetrate)
-
 [Mom](https://www.npmjs.com/package/mom)
 
 [Messenger](https://www.npmjs.com/package/messenger)
@@ -903,8 +901,6 @@
 [Diagnose](https://www.npmjs.com/package/diagnose)
 
 [Ireland](https://www.npmjs.com/package/ireland)
-
-[Family](https://www.npmjs.com/package/family)
 
 [Contact](https://www.npmjs.com/package/contact)
 
@@ -1019,6 +1015,12 @@
 [Immediate](https://www.npmjs.com/package/immediate)
 
 [Forecast](https://www.npmjs.com/package/forecast)
+
+[Penetrate](https://www.npmjs.com/package/penetrate)
+
+[Start](https://www.npmjs.com/package/start)
+
+[Family](https://www.npmjs.com/package/family)
 
 [Belong](https://www.npmjs.com/package/belong)
 
