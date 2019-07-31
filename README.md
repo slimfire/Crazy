@@ -1032,8 +1032,6 @@
 
 [Grid](https://www.npmjs.com/package/grid)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Suspect](https://www.npmjs.com/package/suspect)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1043,3 +1041,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Illegal](https://www.npmjs.com/package/illegal)
