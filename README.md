@@ -948,10 +948,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/scam)
-
-[Powerful](https://www.npmjs.com/package/powerful)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -1055,3 +1051,9 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/scam)
+
+[Powerful](https://www.npmjs.com/package/powerful)
+
+
