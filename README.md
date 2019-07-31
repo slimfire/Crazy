@@ -1032,10 +1032,12 @@
 
 [Investigate](https://www.npmjs.com/package/investigate)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Container](https://www.npmjs.com/package/container)
 
 [Breach](https://www.npmjs.com/package/breach)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Values](https://www.npmjs.com/package/values)
