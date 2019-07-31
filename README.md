@@ -1032,6 +1032,10 @@
 
 [Values](https://www.npmjs.com/package/values)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Grid](https://www.npmjs.com/package/grid)
+
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
@@ -1039,7 +1043,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Grid](https://www.npmjs.com/package/grid)
