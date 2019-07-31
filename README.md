@@ -1042,6 +1042,8 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
+[Illegal](https://www.npmjs.com/package/illegal)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Illegal](https://www.npmjs.com/package/illegal)
+[Criminal](https://www.npmjs.com/package/criminal)
