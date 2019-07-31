@@ -1030,8 +1030,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Values](https://www.npmjs.com/package/values)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1041,3 +1039,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Grid](https://www.npmjs.com/package/grid)
