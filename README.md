@@ -1038,8 +1038,6 @@
 
 [Criminal](https://www.npmjs.com/package/criminal)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fraud](https://www.npmjs.com/package/Fraud)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1049,3 +1047,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Star](https://www.npmjs.com/package/star)
