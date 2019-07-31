@@ -828,8 +828,6 @@
 
 [Attack](https://www.npmjs.com/package/attack)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fam](https://www.npmjs.com/package/fam)
 
 [Score](https://www.npmjs.com/package/score)
@@ -1008,8 +1006,6 @@
 
 [Heart](https://www.npmjs.com/package/heart)
 
-[Puls](https://www.npmjs.com/package/puls)
-
 [Million](https://www.npmjs.com/package/million)
 
 [Investigate](https://www.npmjs.com/package/investigate)
@@ -1051,3 +1047,7 @@
 [Organization](https://www.npmjs.com/package/organization)
 
 [Ours](https://www.npmjs.com/package/ours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
