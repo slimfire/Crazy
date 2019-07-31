@@ -1016,14 +1016,6 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Heart](https://www.npmjs.com/package/heart)
 
 [Puls](https://www.npmjs.com/package/puls)
@@ -1041,3 +1033,11 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Values](https://www.npmjs.com/package/values)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
