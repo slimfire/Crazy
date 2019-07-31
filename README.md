@@ -516,8 +516,6 @@
 
 [Pokemon](https://www.npmjs.com/package/pokemon)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Hop](https://www.npmjs.com/package/hop)
 
 [Duo](https://www.npmjs.com/package/duo)
@@ -946,13 +944,7 @@
 
 [Play](https://www.npmjs.com/package/play)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Family](https://www.npmjs.com/package/family)
-
-[Organization](https://www.npmjs.com/package/organization)
-
-[Ours](https://www.npmjs.com/package/ours)
 
 [Feedback](https://www.npmjs.com/package/feedback)
 
@@ -1046,9 +1038,16 @@
 
 [Belong](https://www.npmjs.com/package/belong)
 
+[Snitch](https://www.npmjs.com/package/snitch)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
 
-[Snitch](https://www.npmjs.com/package/snitch)
+[Institute](https://www.npmjs.com/package/institute
 
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Organization](https://www.npmjs.com/package/organization)
+
+[Ours](https://www.npmjs.com/package/ours)
