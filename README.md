@@ -1040,6 +1040,10 @@
 
 [Fraud](https://www.npmjs.com/package/Fraud)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Star](https://www.npmjs.com/package/star)
+
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
@@ -1048,6 +1052,3 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Star](https://www.npmjs.com/package/star)
