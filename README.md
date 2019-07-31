@@ -1028,11 +1028,9 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Values](https://www.npmjs.com/package/values)
 
-[Vote](https://www.npmjs.com/package/vote)
+[Infant](https://www.npmjs.com/package/infant)
 
 [Grid](https://www.npmjs.com/package/grid)
 
