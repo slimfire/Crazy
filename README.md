@@ -1034,8 +1034,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Morning](https://www.npmjs.com/package/morning)
 
 [Heart](https://www.npmjs.com/package/heart)
@@ -1054,3 +1052,6 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Confront](https://www.npmjs.com/package/confront)
