@@ -1044,6 +1044,8 @@
 
 [Illegal](https://www.npmjs.com/package/illegal)
 
+[Criminal](https://www.npmjs.com/package/criminal)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Criminal](https://www.npmjs.com/package/criminal)
+[Fraud](https://www.npmjs.com/package/Fraud)
