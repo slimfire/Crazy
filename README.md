@@ -1036,6 +1036,10 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
@@ -1048,6 +1052,3 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Puls](https://www.npmjs.com/package/puls)
