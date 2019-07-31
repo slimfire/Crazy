@@ -718,8 +718,6 @@
 
 [Unlink](https://www.npmjs.com/package/unlink)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Collapse](https://www.npmjs.com/package/collapse)
 
 [Music](https://www.npmjs.com/package/music)
@@ -1041,3 +1039,8 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Suspect](https://www.npmjs.com/package/suspect)
+
