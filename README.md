@@ -1034,14 +1034,6 @@
 
 [Suspect](https://www.npmjs.com/package/suspect)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Illegal](https://www.npmjs.com/package/illegal)
 
 [Criminal](https://www.npmjs.com/package/criminal)
@@ -1049,3 +1041,11 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Fraud](https://www.npmjs.com/package/Fraud)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
