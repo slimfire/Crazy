@@ -1044,7 +1044,7 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Institute](https://www.npmjs.com/package/institute
+[Institute](https://www.npmjs.com/package/institute)
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
