@@ -1040,6 +1040,10 @@
 
 [Puls](https://www.npmjs.com/package/puls)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Confront](https://www.npmjs.com/package/confront)
+
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
@@ -1051,7 +1055,3 @@
 [Organization](https://www.npmjs.com/package/organization)
 
 [Ours](https://www.npmjs.com/package/ours)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Confront](https://www.npmjs.com/package/confront)
