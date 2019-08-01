@@ -1048,11 +1048,11 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Dumb](https://www.npmjs.com/package/dumb)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Document](https://www.npmjs.com/package/document)
+
+[Dumb](https://www.npmjs.com/package/dumb)
 
 [Belong](https://www.npmjs.com/package/belong)
 
