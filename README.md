@@ -80,8 +80,6 @@
 
 [Config](https://www.npmjs.com/package/config)
 
-[End](https://www.npmjs.com/package/end)
-
 [Entites](https://www.npmjs.com/package/entities)
 
 [Filter](https://www.npmjs.com/package/filter)
@@ -1048,8 +1046,6 @@
 
 [Document](https://www.npmjs.com/package/document)
 
-[Dumb](https://www.npmjs.com/package/dumb)
-
 [Belong](https://www.npmjs.com/package/belong)
 
 [Friends](https://www.npmjs.com/package/friends)
@@ -1063,3 +1059,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Run](https://www.npmjs.com/package/run)
+
+[End](https://www.npmjs.com/package/end)
+
+[Disorder](https://www.npmjs.com/package/disorder)
+
+[Dumb](https://www.npmjs.com/package/dumb)
