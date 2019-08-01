@@ -812,8 +812,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [hop](https://www.npmjs.com/package/hop)
@@ -1062,3 +1060,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Search](https://www.npmjs.com/package/search)
