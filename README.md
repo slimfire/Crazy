@@ -1052,8 +1052,8 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Powerful](https://www.npmjs.com/package/powerful)
 
+[Vote](https://www.npmjs.com/package/scam)
 
+[Bust](https://www.npmjs.com/package/bust)
