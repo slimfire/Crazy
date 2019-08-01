@@ -1052,10 +1052,12 @@
 
 [Bust](https://www.npmjs.com/package/bust)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Topology](https://www.npmjs.com/package/topology)
 
 [Dumb](https://www.npmjs.com/package/dumb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Document](https://www.npmjs.com/package/document)
