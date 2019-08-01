@@ -390,8 +390,6 @@
 
 [Zoom](https://www.npmjs.com/package/zoom)
 
-[Topology](https://www.npmjs.com/package/topology)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Arm](https://www.npmjs.com/package/arm)
@@ -1040,8 +1038,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Document](https://www.npmjs.com/package/document)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1060,10 +1056,14 @@
 
 [Disorder](https://www.npmjs.com/package/disorder)
 
-[Dumb](https://www.npmjs.com/package/dumb)
-
 [Rich](https://www.npmjs.com/package/rich)
 
 [Vote](https://www.npmjs.com/package/vote)
 
 [Fight](https://www.npmjs.com/package/fight)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[Dumb](https://www.npmjs.com/package/dumb)
