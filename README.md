@@ -168,8 +168,6 @@
 
 [atm](https://www.npmjs.com/package/atm)
 
-[Topology](https://www.npmjs.com/package/topology)
-
 [OnEvent](https://www.npmjs.com/package/onevent)
 
 [Room](https://www.npmjs.com/package/room)
@@ -616,8 +614,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Name](https://www.npmjs.com/package/name)
-
 [Check](https://www.npmjs.com/package/check)
 
 [Trustless](https://www.npmjs.com/package/trustless)
@@ -1054,6 +1050,12 @@
 
 [Powerful](https://www.npmjs.com/package/powerful)
 
-[Vote](https://www.npmjs.com/package/scam)
-
 [Bust](https://www.npmjs.com/package/bust)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Name](https://www.npmjs.com/package/name)
+
+[Topology](https://www.npmjs.com/package/topology)
+
+[Dumb](https://www.npmjs.com/package/dumb)
