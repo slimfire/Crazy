@@ -484,8 +484,6 @@
 
 [Gene](https://www.npmjs.com/package/gene)
 
-[Fight](https://www.npmjs.com/package/fight)
-
 [Drug](https://www.npmjs.com/package/drug)
 
 [Agress](https://www.npmjs.com/package/agress)
@@ -1064,6 +1062,8 @@
 
 [Dumb](https://www.npmjs.com/package/dumb)
 
+[Rich](https://www.npmjs.com/package/rich)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Rich](https://www.npmjs.com/package/rich)
+[Fight](https://www.npmjs.com/package/fight)
