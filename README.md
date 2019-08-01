@@ -1056,8 +1056,6 @@
 
 [Search](https://www.npmjs.com/package/search)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Run](https://www.npmjs.com/package/run)
 
 [End](https://www.npmjs.com/package/end)
@@ -1065,3 +1063,7 @@
 [Disorder](https://www.npmjs.com/package/disorder)
 
 [Dumb](https://www.npmjs.com/package/dumb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Rich](https://www.npmjs.com/package/rich)
