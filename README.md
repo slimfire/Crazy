@@ -482,8 +482,6 @@
 
 [Hit](https://www.npmjs.com/package/hit)
 
-[Run](https://www.npmjs.com/package/run)
-
 [TxT](https://www.npmjs.com/package/txt)
 
 [Gene](https://www.npmjs.com/package/gene)
@@ -1060,6 +1058,8 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
+[Search](https://www.npmjs.com/package/search)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Search](https://www.npmjs.com/package/search)
+[Run](https://www.npmjs.com/package/run)
