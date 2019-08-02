@@ -1016,8 +1016,6 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [Powerful](https://www.npmjs.com/package/powerful)
 
 [Bust](https://www.npmjs.com/package/bust)
@@ -1046,8 +1044,6 @@
 
 [Dumb](https://www.npmjs.com/package/dumb)
 
-[Puls](https://www.npmjs.com/package/puls)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Popo](https://www.npmjs.com/package/popo)
@@ -1072,7 +1068,12 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Contact](https://www.npmjs.com/package/contact) 
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Retard](https://www.npmjs.com/package/retard)
