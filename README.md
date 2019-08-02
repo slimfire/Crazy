@@ -854,8 +854,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Failure](https://www.npmjs.com/package/failure)
 
 [Advise](https://www.npmjs.com/package/advise)
@@ -1040,6 +1038,16 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Contact](https://www.npmjs.com/package/contact) 
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Retard](https://www.npmjs.com/package/retard)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Popo](https://www.npmjs.com/package/popo)
 
 [Nearby](https://www.npmjs.com/package/nearby)
@@ -1061,19 +1069,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Contact](https://www.npmjs.com/package/contact) 
-
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
-[Retard](https://www.npmjs.com/package/retard)
-
-[Coworker](https://www.npmjs.com/package/co-work)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Electronics](https://www.npmjs.com/package/electronics)
-
-[Messenger](https://www.npmjs.com/package/messenger)
