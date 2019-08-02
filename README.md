@@ -946,8 +946,6 @@
 
 [Visit](https://www.npmjs.com/package/visit)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Process](https://www.npmjs.com/package/process)
 
 [Gold](https://www.npmjs.com/package/gold)
@@ -1069,3 +1067,7 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Change](https://www.npmjs.com/package/change)
+
+[Infant](https://www.npmjs.com/package/infant)
