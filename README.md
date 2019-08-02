@@ -850,8 +850,6 @@
 
 [NGO](https://www.npmjs.com/package/ngo)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Failure](https://www.npmjs.com/package/failure)
@@ -1069,3 +1067,5 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[RGB](https://www.npmjs.com/package/rgb)
