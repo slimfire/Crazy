@@ -778,8 +778,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Coworker](https://www.npmjs.com/package/co-work)
-
 [Jealous](https://www.npmjs.com/package/jealous)
 
 [Changed](https://www.npmjs.com/package/changed)
@@ -819,8 +817,6 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Mom](https://www.npmjs.com/package/mom)
-
-[Messenger](https://www.npmjs.com/package/messenger)
 
 [Split](https://www.npmjs.com/package/split)
 
@@ -865,8 +861,6 @@
 [Advise](https://www.npmjs.com/package/advise)
 
 [NGO](https://www.npmjs.com/package/ngo)
-
-[Electronics](https://www.npmjs.com/package/electronics)
 
 [Diagnose](https://www.npmjs.com/package/diagnose)
 
@@ -1070,10 +1064,16 @@
 
 [Contact](https://www.npmjs.com/package/contact) 
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+[Coworker](https://www.npmjs.com/package/co-work)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Electronics](https://www.npmjs.com/package/electronics)
+
+[Messenger](https://www.npmjs.com/package/messenger)
