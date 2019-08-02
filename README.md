@@ -792,8 +792,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [hop](https://www.npmjs.com/package/hop)
@@ -885,8 +883,6 @@
 [Deception](https://www.npmjs.com/package/deception)
 
 [Bombard](https://www.npmjs.com/package/bombard)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Meditate](https://www.npmjs.com/package/meditate)
 
@@ -1038,13 +1034,9 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Contact](https://www.npmjs.com/package/contact) 
-
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
-
-[Retard](https://www.npmjs.com/package/retard)
 
 [Vote](https://www.npmjs.com/package/vote)
 
@@ -1069,3 +1061,11 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Contact](https://www.npmjs.com/package/contact) 
+
+[Verbose](https://www.npmjs.com/package/verbose)
+
+[Retard](https://www.npmjs.com/package/retard)
