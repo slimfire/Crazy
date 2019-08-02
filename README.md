@@ -790,8 +790,6 @@
 
 [Yell](https://www.npmjs.com/package/yell)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Music](https://www.npmjs.com/package/music)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -1034,14 +1032,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Contact](https://www.npmjs.com/package/contact) 
-
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
-[Retard](https://www.npmjs.com/package/retard)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Popo](https://www.npmjs.com/package/popo)
@@ -1071,3 +1061,11 @@
 [Change](https://www.npmjs.com/package/change)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Contact](https://www.npmjs.com/package/contact) 
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Retard](https://www.npmjs.com/package/retard)
