@@ -788,8 +788,6 @@
 
 [Changed](https://www.npmjs.com/package/changed)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Flavors](https://www.npmjs.com/package/changed)
 
 [Biometry](https://www.npmjs.com/package/biometry)
@@ -912,8 +910,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Lost](https://www.npmjs.com/package/lost)
 
 [Sign](https://www.npmjs.com/package/sign)
@@ -1028,8 +1024,6 @@
 
 [Heart](https://www.npmjs.com/package/heart)
 
-[Puls](https://www.npmjs.com/package/puls)
-
 [Powerful](https://www.npmjs.com/package/powerful)
 
 [Bust](https://www.npmjs.com/package/bust)
@@ -1067,3 +1061,8 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [Dumb](https://www.npmjs.com/package/dumb)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Logout](https://www.npmjs.com/package/logout)
+
