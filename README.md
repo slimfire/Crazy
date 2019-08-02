@@ -204,8 +204,6 @@
 
 [Real](https://www.npmjs.com/package/real)
 
-[Community](https://www.npmjs.com/package/community)
-
 [Pill](https://www.npmjs.com/package/pill)
 
 [intervene](https://www.npmjs.com/package/intervene)
@@ -1056,8 +1054,6 @@
 
 [Fight](https://www.npmjs.com/package/fight)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Topology](https://www.npmjs.com/package/topology)
 
 [Dumb](https://www.npmjs.com/package/dumb)
@@ -1066,3 +1062,18 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Popo](https://www.npmjs.com/package/popo)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Present](https://www.npmjs.com/package/present)
+
+[First](https://www.npmjs.com/package/first)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Community](https://www.npmjs.com/package/community)
+
+[Hustle](https://www.npmjs.com/package/hustle)
