@@ -868,8 +868,6 @@
 
 [Electronics](https://www.npmjs.com/package/electronics)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Diagnose](https://www.npmjs.com/package/diagnose)
 
 [Ireland](https://www.npmjs.com/package/ireland)
@@ -1052,8 +1050,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Popo](https://www.npmjs.com/package/popo)
 
 [Nearby](https://www.npmjs.com/package/nearby)
@@ -1075,3 +1071,8 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Contact](https://www.npmjs.com/package/contact) 
+
