@@ -1040,6 +1040,14 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Contact](https://www.npmjs.com/package/contact) 
+
+[Verbose](https://www.npmjs.com/package/verbose)
+
+[Retard](https://www.npmjs.com/package/retard)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Popo](https://www.npmjs.com/package/popo)
 
 [Nearby](https://www.npmjs.com/package/nearby)
@@ -1061,11 +1069,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Contact](https://www.npmjs.com/package/contact) 
-
-[Verbose](https://www.npmjs.com/package/verbose)
-
-[Retard](https://www.npmjs.com/package/retard)
