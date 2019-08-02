@@ -720,8 +720,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Job](https://www.npmjs.com/package/job)
-
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Network](https://www.npmjs.com/package/network)
@@ -1032,14 +1030,6 @@
 
 [Document](https://www.npmjs.com/package/document)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Search](https://www.npmjs.com/package/search)
 
 [Run](https://www.npmjs.com/package/run)
@@ -1076,4 +1066,12 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Hustle](https://www.npmjs.com/package/hustle)
+[Job](https://www.npmjs.com/package/job)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
