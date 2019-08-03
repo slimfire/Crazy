@@ -1046,6 +1046,8 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Excuse](https://www.npmjs.com/package/excuse)
+
 [Popo](https://www.npmjs.com/package/popo)
 
 [Nearby](https://www.npmjs.com/package/nearby)
@@ -1067,7 +1069,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Flag](https://www.npmjs.com/package/flag)
