@@ -1018,8 +1018,6 @@
 
 [Rich](https://www.npmjs.com/package/rich)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fight](https://www.npmjs.com/package/fight)
 
 [Topology](https://www.npmjs.com/package/topology)
@@ -1069,3 +1067,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Flag](https://www.npmjs.com/package/flag)
