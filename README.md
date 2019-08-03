@@ -924,8 +924,6 @@
 
 [Req](https://www.npmjs.com/package/req)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Payload](https://www.npmjs.com/package/payload)
 
 [Comm](https://www.npmjs.com/package/comm)
@@ -1071,3 +1069,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Big](https://www.npmjs.com/package/big)
