@@ -704,8 +704,6 @@
 
 [Collapse](https://www.npmjs.com/package/collapse)
 
-[Music](https://www.npmjs.com/package/music)
-
 [Neighborhood](https://www.npmjs.com/package/neighborhood)
 
 [Crowdsource](https://www.npmjs.com/package/crowdsource)
@@ -1041,6 +1039,8 @@
 [Contact](https://www.npmjs.com/package/contact) 
 
 [Verbose](https://www.npmjs.com/package/verbose)
+
+[Music](https://www.npmjs.com/package/music)
 
 [Retard](https://www.npmjs.com/package/retard)
 
