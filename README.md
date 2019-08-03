@@ -1042,6 +1042,8 @@
 
 [Music](https://www.npmjs.com/package/music)
 
+[Senior](https://www.npmjs.com/package/senior)
+
 [Retard](https://www.npmjs.com/package/retard)
 
 [Vote](https://www.npmjs.com/package/vote)
