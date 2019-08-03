@@ -1046,6 +1046,10 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Big](https://www.npmjs.com/package/big)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Popo](https://www.npmjs.com/package/popo)
@@ -1069,7 +1073,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Big](https://www.npmjs.com/package/big)
