@@ -518,8 +518,6 @@
 
 [Disclose](https://www.npmjs.com/package/disclose)
 
-[Budweiser](https://www.npmjs.com/package/budweiser)
-
 [Special](https://www.npmjs.com/package/special)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -1077,3 +1075,9 @@
 [Creative](https://www.npmjs.com/package/creative)
 
 [Diamond](https://www.npmjs.com/package/diamond)
+
+[Flag](https://www.npmjs.com/package/flag)
+
+[Budweiser](https://www.npmjs.com/package/budweiser)
+
+[Neighbours](https://www.npmjs.com/package/neighbours)
