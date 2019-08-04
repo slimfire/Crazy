@@ -972,14 +972,6 @@
 
 [Confront](https://www.npmjs.com/package/confront)
 
-[Institute](https://www.npmjs.com/package/institute)
-
-[Ireland](https://www.npmjs.com/package/ireland)
-
-[Organization](https://www.npmjs.com/package/organization)
-
-[Ours](https://www.npmjs.com/package/ours)
-
 [Powerful](https://www.npmjs.com/package/powerful)
 
 [Bust](https://www.npmjs.com/package/bust)
@@ -1087,5 +1079,13 @@
 [Friends](https://www.npmjs.com/package/friends)
 
 [Family](https://www.npmjs.com/package/family)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Organization](https://www.npmjs.com/package/organization)
+
+[Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
