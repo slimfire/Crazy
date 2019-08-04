@@ -1026,8 +1026,6 @@
 
 [Big](https://www.npmjs.com/package/big)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Contact](https://www.npmjs.com/package/contact) 
 
 [Puls](https://www.npmjs.com/package/puls)
@@ -1087,3 +1085,7 @@
 [Nonstop](https://www.npmjs.com/package/nonstop)
 
 [Fast](https://www.npmjs.com/package/fast)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Forecast](https://www.npmjs.com/package/forecast)
