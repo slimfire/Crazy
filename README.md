@@ -1018,10 +1018,6 @@
 
 [Contact](https://www.npmjs.com/package/contact) 
 
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1051,6 +1047,14 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Forecast](https://www.npmjs.com/package/forecast)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Agress](https://www.npmjs.com/package/agress)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
 
 [Vote](https://www.npmjs.com/package/vote)
 
@@ -1086,6 +1090,3 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Agress](https://www.npmjs.com/package/agress)
