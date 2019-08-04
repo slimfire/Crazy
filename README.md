@@ -478,8 +478,6 @@
 
 [Drug](https://www.npmjs.com/package/drug)
 
-[Agress](https://www.npmjs.com/package/agress)
-
 [Lone](https://www.npmjs.com/package/lone)
 
 [Topology](https://www.npmjs.com/package/topology)
@@ -1042,8 +1040,6 @@
 
 [Clusters](https://www.npmjs.com/package/clusters)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Growth](https://www.npmjs.com/package/growth)
 
 [Infinity](https://www.npmjs.com/package/infinity)
@@ -1089,3 +1085,7 @@
 [Ours](https://www.npmjs.com/package/ours)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Agress](https://www.npmjs.com/package/agress)
