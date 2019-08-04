@@ -136,8 +136,6 @@
 
 [Security](https://www.npmjs.com/package/security)
 
-[Infinity](https://www.npmjs.com/package/infinity)
-
 [Business](https://www.npmjs.com/package/business)
 
 [Win](https://www.npmjs.com/package/win)
@@ -187,8 +185,6 @@
 [Retention](https://www.npmjs.com/package/retention)
 
 [Now](https://www.npmjs.com/package/now)
-
-[Fast](https://www.npmjs.com/package/fast)
 
 [Unite](https://www.npmjs.com/package/unite)
 
@@ -870,8 +866,6 @@
 
 [Gay](https://www.npmjs.com/package/gay)
 
-[Nonstop](https://www.npmjs.com/package/nonstop)
-
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Negotiate](https://www.npmjs.com/package/negotiate)
@@ -971,8 +965,6 @@
 [Criminal](https://www.npmjs.com/package/criminal)
 
 [Fraud](https://www.npmjs.com/package/Fraud)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Star](https://www.npmjs.com/package/star)
 
@@ -1083,3 +1075,15 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Clusters](https://www.npmjs.com/package/clusters)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Growth](https://www.npmjs.com/package/growth)
+
+[Infinity](https://www.npmjs.com/package/infinity)
+
+[Nonstop](https://www.npmjs.com/package/nonstop)
+
+[Fast](https://www.npmjs.com/package/fast)
