@@ -1056,6 +1056,8 @@
 
 [Neighbours](https://www.npmjs.com/package/neighbours)
 
+[Electronics](https://www.npmjs.com/package/electronics)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Excuse](https://www.npmjs.com/package/excuse)
