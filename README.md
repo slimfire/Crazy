@@ -1040,6 +1040,16 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Contact](https://www.npmjs.com/package/contact) 
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Popo](https://www.npmjs.com/package/popo)
@@ -1063,13 +1073,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Contact](https://www.npmjs.com/package/contact) 
-
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
-[Logout](https://www.npmjs.com/package/logout)
