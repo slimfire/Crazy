@@ -1052,6 +1052,14 @@
 
 [Agress](https://www.npmjs.com/package/agress)
 
+[Institute](https://www.npmjs.com/package/institute)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Organization](https://www.npmjs.com/package/organization)
+
+[Ours](https://www.npmjs.com/package/ours)
+
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
@@ -1080,13 +1088,4 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Institute](https://www.npmjs.com/package/institute)
-
-[Ireland](https://www.npmjs.com/package/ireland)
-
-[Organization](https://www.npmjs.com/package/organization)
-
-[Ours](https://www.npmjs.com/package/ours)
-
 [Snitch](https://www.npmjs.com/package/snitch)
-
