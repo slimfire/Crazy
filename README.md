@@ -1056,10 +1056,6 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Excuse](https://www.npmjs.com/package/excuse)
@@ -1089,3 +1085,12 @@
 [Force](https://www.npmjs.com/package/force)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+
+[Infants](https://www.npmjs.com/package/infants)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Geek](https://www.npmjs.com/package/geek)
