@@ -1046,6 +1046,18 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Creative](https://www.npmjs.com/package/creative)
+
+[Diamond](https://www.npmjs.com/package/diamond)
+
+[Flag](https://www.npmjs.com/package/flag)
+
+[Budweiser](https://www.npmjs.com/package/budweiser)
+
+[Neighbours](https://www.npmjs.com/package/neighbours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Popo](https://www.npmjs.com/package/popo)
@@ -1069,15 +1081,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Creative](https://www.npmjs.com/package/creative)
-
-[Diamond](https://www.npmjs.com/package/diamond)
-
-[Flag](https://www.npmjs.com/package/flag)
-
-[Budweiser](https://www.npmjs.com/package/budweiser)
-
-[Neighbours](https://www.npmjs.com/package/neighbours)
