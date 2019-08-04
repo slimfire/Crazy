@@ -228,8 +228,6 @@
 
 [Spanish](https://www.npmjs.com/package/spanish)
 
-[Force](https://www.npmjs.com/package/force)
-
 [Birth](https://www.npmjs.com/package/birth)
 
 [Unicast](https://www.npmjs.com/package/unicast)
@@ -1010,8 +1008,6 @@
 
 [Senior](https://www.npmjs.com/package/senior)
 
-[Retard](https://www.npmjs.com/package/retard)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Big](https://www.npmjs.com/package/big)
@@ -1089,3 +1085,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Force](https://www.npmjs.com/package/force)
+
+[Retard](https://www.npmjs.com/package/retard)
