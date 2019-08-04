@@ -980,8 +980,6 @@
 
 [Morning](https://www.npmjs.com/package/morning)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Confront](https://www.npmjs.com/package/confront)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -1073,3 +1071,9 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Creative](https://www.npmjs.com/package/creative)
+
+[Diamond](https://www.npmjs.com/package/diamond)
