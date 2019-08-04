@@ -1048,6 +1048,22 @@
 
 [Electronics](https://www.npmjs.com/package/electronics)
 
+[Clusters](https://www.npmjs.com/package/clusters)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Growth](https://www.npmjs.com/package/growth)
+
+[Infinity](https://www.npmjs.com/package/infinity)
+
+[Nonstop](https://www.npmjs.com/package/nonstop)
+
+[Fast](https://www.npmjs.com/package/fast)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Forecast](https://www.npmjs.com/package/forecast)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Excuse](https://www.npmjs.com/package/excuse)
@@ -1073,19 +1089,3 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
-
-[Clusters](https://www.npmjs.com/package/clusters)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Growth](https://www.npmjs.com/package/growth)
-
-[Infinity](https://www.npmjs.com/package/infinity)
-
-[Nonstop](https://www.npmjs.com/package/nonstop)
-
-[Fast](https://www.npmjs.com/package/fast)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Forecast](https://www.npmjs.com/package/forecast)
