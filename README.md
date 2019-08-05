@@ -1096,6 +1096,9 @@
 
 [Star](https://www.npmjs.com/package/star)
 
+[Rich](https://www.npmjs.com/package/rich)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Rich](https://www.npmjs.com/package/rich)
+[King](https://www.npmjs.com/package/king)
+
