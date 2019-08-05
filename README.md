@@ -984,8 +984,6 @@
 
 [Disorder](https://www.npmjs.com/package/disorder)
 
-[Rich](https://www.npmjs.com/package/rich)
-
 [Fight](https://www.npmjs.com/package/fight)
 
 [Topology](https://www.npmjs.com/package/topology)
@@ -1094,8 +1092,10 @@
 
 [Trash](https://www.npmjs.com/package/trash)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Champion](https://www.npmjs.com/package/champion)
 
 [Star](https://www.npmjs.com/package/star)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Rich](https://www.npmjs.com/package/rich)
