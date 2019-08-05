@@ -1098,8 +1098,10 @@
 
 [King](https://www.npmjs.com/package/king)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Coworker](https://www.npmjs.com/package/coworker)
 
 [Bull](https://www.npmjs.com/package/bull)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Tough](https://www.npmjs.com/package/tough)
