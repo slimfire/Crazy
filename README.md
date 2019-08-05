@@ -962,8 +962,6 @@
 
 [Fraud](https://www.npmjs.com/package/Fraud)
 
-[Star](https://www.npmjs.com/package/star)
-
 [Morning](https://www.npmjs.com/package/morning)
 
 [Confront](https://www.npmjs.com/package/confront)
@@ -1092,8 +1090,12 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
-[Vote](https://www.npmjs.com/package/vote
-
 [Landlord](https://www.npmjs.com/package/landlord)
 
 [Trash](https://www.npmjs.com/package/trash)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Champion](https://www.npmjs.com/package/champion)
+
+[Star](https://www.npmjs.com/package/star)
