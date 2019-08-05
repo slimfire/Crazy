@@ -436,8 +436,6 @@
 
 [Scam](https://www.npmjs.com/package/scam)
 
-[Bull](https://www.npmjs.com/package/bull)
-
 [Manipulate](https://www.npmjs.com/package/manipulate)
 
 [Connections](https://www.npmjs.com/package/connections)
@@ -1098,7 +1096,10 @@
 
 [Rich](https://www.npmjs.com/package/rich)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [King](https://www.npmjs.com/package/king)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Coworker](https://www.npmjs.com/package/coworker)
+
+[Bull](https://www.npmjs.com/package/bull)
