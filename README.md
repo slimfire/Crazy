@@ -1108,6 +1108,8 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Girl](https://www.npmjs.com/package/girl)
+
 [Verbose](https://www.npmjs.com/package/verbose)
 
 [Trash](https://www.npmjs.com/package/trash)
