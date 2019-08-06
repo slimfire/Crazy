@@ -810,8 +810,6 @@
 
 [Money](https://www.npmjs.com/package/money)
 
-[Robbery](https://www.npmjs.com/package/robbery)
-
 [Amplify](https://www.npmjs.com/package/amplify)
 
 [Cough](https://www.npmjs.com/package/cough)
@@ -1096,8 +1094,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [NGO](https://www.npmjs.com/package/ngo)
 
 [Electronics](https://www.npmjs.com/package/electronics)
@@ -1105,3 +1101,7 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Robbery](https://www.npmjs.com/package/robbery)
