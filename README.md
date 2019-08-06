@@ -572,8 +572,6 @@
 
 [Lab](https://www.npmjs.com/package/lab)
 
-[Trash](https://www.npmjs.com/package/trash)
-
 [Event](https://www.npmjs.com/package/event)
 
 [Force](https://www.npmjs.com/package/force)
@@ -982,8 +980,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Verbose](https://www.npmjs.com/package/verbose)
-
 [Music](https://www.npmjs.com/package/music)
 
 [Senior](https://www.npmjs.com/package/senior)
@@ -1108,6 +1104,10 @@
 
 [Successful](https://www.npmjs.com/package/successful)
 
+[Active](https://www.npmjs.com/package/active)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Active](https://www.npmjs.com/package/active)
+[Verbose](https://www.npmjs.com/package/verbose)
+
+[Trash](https://www.npmjs.com/package/trash)
