@@ -898,8 +898,6 @@
 
 [Pandora](https://www.npmjs.com/package/pandora)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Embed](https://www.npmjs.com/package/embed)
 
 [Daily](https://www.npmjs.com/package/daily)
@@ -1020,8 +1018,6 @@
 
 [Neighbours](https://www.npmjs.com/package/neighbours)
 
-[Electronics](https://www.npmjs.com/package/electronics)
-
 [Clusters](https://www.npmjs.com/package/clusters)
 
 [Growth](https://www.npmjs.com/package/growth)
@@ -1102,6 +1098,10 @@
 
 [Tough](https://www.npmjs.com/package/tough)
 
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
+[Electronics](https://www.npmjs.com/package/electronics)
+
+[RGB](https://www.npmjs.com/package/rgb)
