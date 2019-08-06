@@ -938,8 +938,6 @@
 
 [Values](https://www.npmjs.com/package/values)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Grid](https://www.npmjs.com/package/grid)
 
 [Suspect](https://www.npmjs.com/package/suspect)
@@ -1104,6 +1102,8 @@
 
 [Robbery](https://www.npmjs.com/package/robbery)
 
+[Assault](https://www.npmjs.com/package/assault)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Assault](https://www.npmjs.com/package/assault)
+[Infant](https://www.npmjs.com/package/infant)
