@@ -892,10 +892,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Logout](https://www.npmjs.com/package/logout)
-
-[NGO](https://www.npmjs.com/package/ngo)
-
 [Pandora](https://www.npmjs.com/package/pandora)
 
 [Embed](https://www.npmjs.com/package/embed)
@@ -1102,6 +1098,10 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[NGO](https://www.npmjs.com/package/ngo)
+
 [Electronics](https://www.npmjs.com/package/electronics)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Logout](https://www.npmjs.com/package/logout)
