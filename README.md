@@ -706,8 +706,6 @@
 
 [Community](https://www.npmjs.com/package/community)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Network](https://www.npmjs.com/package/network)
 
 [Event](https://www.npmjs.com/package/event)
@@ -1102,6 +1100,8 @@
 
 [Bull](https://www.npmjs.com/package/bull)
 
+[Tough](https://www.npmjs.com/package/tough)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Tough](https://www.npmjs.com/package/tough)
+[Sabotage](https://www.npmjs.com/package/sabotage)
