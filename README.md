@@ -1102,6 +1102,8 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Robbery](https://www.npmjs.com/package/robbery)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Robbery](https://www.npmjs.com/package/robbery)
+[Assault](https://www.npmjs.com/package/assault)
