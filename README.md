@@ -104,8 +104,6 @@
 
 [Oklahoma](https://www.npmjs.com/package/oklahoma)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Assault](https://www.npmjs.com/package/assault)
 
 [One](https://www.npmjs.com/package/one)
@@ -978,10 +976,6 @@
 
 [Contact](https://www.npmjs.com/package/contact) 
 
-[Logout](https://www.npmjs.com/package/logout)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [Creative](https://www.npmjs.com/package/creative)
 
 [Diamond](https://www.npmjs.com/package/diamond)
@@ -1006,8 +1000,6 @@
 
 [Forecast](https://www.npmjs.com/package/forecast)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Agress](https://www.npmjs.com/package/agress)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -1021,8 +1013,6 @@
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Popo](https://www.npmjs.com/package/popo)
-
-[Nearby](https://www.npmjs.com/package/nearby)
 
 [Present](https://www.npmjs.com/package/present)
 
@@ -1123,3 +1113,13 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Odor](https://www.npmjs.com/package/odor)
+
+[LOGOUT](https://www.npmjs.com/package/logout)
