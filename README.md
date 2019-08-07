@@ -1058,8 +1058,6 @@
 
 [NGO](https://www.npmjs.com/package/ngo)
 
-[Electronics](https://www.npmjs.com/package/electronics)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -1106,15 +1104,11 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Node](https://www.npmjs.com/package/node)
 
 [Nearby](https://www.npmjs.com/package/nearby)
 
 [Odor](https://www.npmjs.com/package/odor)
-
-[LOGOUT](https://www.npmjs.com/package/logout)
 
 [Belong](https://www.npmjs.com/package/belong)
 
@@ -1123,3 +1117,13 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Electronics](https://www.npmjs.com/package/electronics)
+
+[Voice](https://www.npmjs.com/package/voice)
+
+[Raise](https://www.npmjs.com/package/raise)
+
+[LOGOUT](https://www.npmjs.com/package/logout)
