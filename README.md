@@ -956,8 +956,6 @@
 
 [Run](https://www.npmjs.com/package/run)
 
-[End](https://www.npmjs.com/package/end)
-
 [Disorder](https://www.npmjs.com/package/disorder)
 
 [Fight](https://www.npmjs.com/package/fight)
@@ -1110,12 +1108,18 @@
 
 [Strongest](https://www.npmjs.com/package/strongest)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [hiv](https://www.npmjs.com/package/hiv)
 
 [Breach](https://www.npmjs.com/package/breach)
 
 [Video](https://www.npmjs.com/package/video)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Session](https://www.npmjs.com/package/Session)
+
+[End](https://www.npmjs.com/package/end)
+
+[Lab](https://www.npmjs.com/package/lab)
 
 [Logout](https://www.npmjs.com/package/logout)
