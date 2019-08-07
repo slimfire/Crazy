@@ -574,8 +574,6 @@
 
 [Event](https://www.npmjs.com/package/event)
 
-[Force](https://www.npmjs.com/package/force)
-
 [tv](https://www.npmjs.com/package/tv)
 
 [Innocent](https://www.npmjs.com/package/innocent)
@@ -832,8 +830,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Bros](https://www.npmjs.com/package/bros)
 
 [Messenger](https://www.npmjs.com/package/messenger)
@@ -1038,14 +1034,6 @@
 
 [Job](https://www.npmjs.com/package/job)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Retard](https://www.npmjs.com/package/retard)
@@ -1123,3 +1111,15 @@
 [Lab](https://www.npmjs.com/package/lab)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Force](https://www.npmjs.com/package/force)
+
+[Contact](https://www.npmjs.com/package/contact)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
