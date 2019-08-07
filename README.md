@@ -604,8 +604,6 @@
 
 [Boss](https://www.npmjs.com/package/boss)
 
-[Video](https://www.npmjs.com/package/video)
-
 [Neighbours](https://www.npmjs.com/package/neighbours)
 
 [Birth](https://www.npmjs.com/package/birth)
@@ -1117,5 +1115,7 @@
 [hiv](https://www.npmjs.com/package/hiv)
 
 [Breach](https://www.npmjs.com/package/breach)
+
+[Video](https://www.npmjs.com/package/video)
 
 [Logout](https://www.npmjs.com/package/logout)
