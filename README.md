@@ -1114,6 +1114,8 @@
 
 [Trash](https://www.npmjs.com/package/trash)
 
+[Strongest](https://www.npmjs.com/package/strongest)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Strongest](https://www.npmjs.com/package/strongest)
+[hiv](https://www.npmjs.com/package/hiv)
