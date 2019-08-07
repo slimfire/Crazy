@@ -600,8 +600,6 @@
 
 [Institue](https://www.npmjs.com/package/institue)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Terminal](https://www.npmjs.com/package/terminal)
 
 [Boss](https://www.npmjs.com/package/boss)
@@ -872,8 +870,6 @@
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Pause](https://www.npmjs.com/package/pause)
 
 [Play](https://www.npmjs.com/package/play)
@@ -1119,3 +1115,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [hiv](https://www.npmjs.com/package/hiv)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Logout](https://www.npmjs.com/package/logout)
