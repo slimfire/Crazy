@@ -1106,14 +1106,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Node](https://www.npmjs.com/package/node)
@@ -1123,3 +1115,11 @@
 [Odor](https://www.npmjs.com/package/odor)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
