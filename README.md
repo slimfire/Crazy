@@ -1113,3 +1113,7 @@
 [Verbose](https://www.npmjs.com/package/verbose)
 
 [Trash](https://www.npmjs.com/package/trash)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Strongest](https://www.npmjs.com/package/strongest)
