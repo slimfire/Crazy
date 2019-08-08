@@ -952,8 +952,6 @@
 
 [Dumb](https://www.npmjs.com/package/dumb)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Change](https://www.npmjs.com/package/change)
 
 [Music](https://www.npmjs.com/package/music)
@@ -1151,3 +1149,5 @@
 [Friends](https://www.npmjs.com/package/friends)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[RGB](https://www.npmjs.com/package/rgb)
