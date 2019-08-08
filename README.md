@@ -1012,8 +1012,6 @@
 
 [Excuse](https://www.npmjs.com/package/excuse)
 
-[Popo](https://www.npmjs.com/package/popo)
-
 [Present](https://www.npmjs.com/package/present)
 
 [First](https://www.npmjs.com/package/first)
@@ -1128,8 +1126,16 @@
 
 [LOGOUT](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Video](https://www.npmjs.com/package/video)
 
 [Record](https://www.npmjs.com/package/record)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fight](https://www.npmjs.com/package/fight)
+
+[Start](https://www.npmjs.com/package/start)
+
+[Popo](https://www.npmjs.com/package/popo)
+
+[Call](https://www.npmjs.com/package/call)
