@@ -366,8 +366,6 @@
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
-[Thumbsup](https://www.npmjs.com/package/thumbsup)
-
 [Security](https://www.npmjs.com/package/security)
 
 [Computing](https://www.npmjs.com/package/computing)
@@ -1102,10 +1100,6 @@
 
 [Belong](https://www.npmjs.com/package/belong)
 
-[Friends](https://www.npmjs.com/package/friends)
-
-[Family](https://www.npmjs.com/package/family)
-
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [Electronics](https://www.npmjs.com/package/electronics)
@@ -1139,6 +1133,14 @@
 [Raise](https://www.npmjs.com/package/raise)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Vote](https://www.npmjs.com/package/vote)
 
