@@ -1128,4 +1128,4 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Lean](https://www.npmjs.com/package/lean)
+[Dependency](https://www.npmjs.com/package/dependency)
