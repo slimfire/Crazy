@@ -1090,12 +1090,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Node](https://www.npmjs.com/package/node)
-
-[Nearby](https://www.npmjs.com/package/nearby)
-
-[Odor](https://www.npmjs.com/package/odor)
-
 [Belong](https://www.npmjs.com/package/belong)
 
 [Snitch](https://www.npmjs.com/package/snitch)
@@ -1109,8 +1103,6 @@
 [Video](https://www.npmjs.com/package/video)
 
 [Record](https://www.npmjs.com/package/record)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Fight](https://www.npmjs.com/package/fight)
 
@@ -1131,6 +1123,14 @@
 [Raise](https://www.npmjs.com/package/raise)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Odor](https://www.npmjs.com/package/odor)
 
 [Vote](https://www.npmjs.com/package/vote)
 
