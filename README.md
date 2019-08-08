@@ -1124,8 +1124,9 @@
 
 [Raise](https://www.npmjs.com/package/raise)
 
-[LOGOUT](https://www.npmjs.com/package/logout)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Dependency](https://www.npmjs.com/package/dependency)
+
+[LOGOUT](https://www.npmjs.com/package/logout)
+
