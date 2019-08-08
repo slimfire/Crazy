@@ -964,8 +964,6 @@
 
 [Change](https://www.npmjs.com/package/change)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Music](https://www.npmjs.com/package/music)
 
 [Senior](https://www.npmjs.com/package/senior)
@@ -1001,8 +999,6 @@
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Agress](https://www.npmjs.com/package/agress)
-
-[Institute](https://www.npmjs.com/package/institute)
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
@@ -1139,3 +1135,7 @@
 [Popo](https://www.npmjs.com/package/popo)
 
 [Call](https://www.npmjs.com/package/call)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Infant](https://www.npmjs.com/package/infant)
