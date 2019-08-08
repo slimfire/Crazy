@@ -1004,8 +1004,6 @@
 
 [Ours](https://www.npmjs.com/package/ours)
 
-[Excuse](https://www.npmjs.com/package/excuse)
-
 [Present](https://www.npmjs.com/package/present)
 
 [First](https://www.npmjs.com/package/first)
@@ -1143,5 +1141,7 @@
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Vote](https://www.npmjs.com/package/vote)
+
+[Excuse](https://www.npmjs.com/package/excuse)
 
 [Bullying](https://www.npmjs.com/package/bullying)
