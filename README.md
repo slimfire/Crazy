@@ -1092,8 +1092,6 @@
 
 [Lab](https://www.npmjs.com/package/lab)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -1113,10 +1111,6 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [Electronics](https://www.npmjs.com/package/electronics)
-
-[Voice](https://www.npmjs.com/package/voice)
-
-[Raise](https://www.npmjs.com/package/raise)
 
 [Dependency](https://www.npmjs.com/package/dependency)
 
@@ -1141,3 +1135,9 @@
 [Percent](https://www.npmjs.com/package/percent)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Voice](https://www.npmjs.com/package/voice)
+
+[Raise](https://www.npmjs.com/package/raise)
+
+[LOGOUT](https://www.npmjs.com/package/logout)
