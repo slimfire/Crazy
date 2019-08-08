@@ -1118,8 +1118,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Electronics](https://www.npmjs.com/package/electronics)
 
 [Voice](https://www.npmjs.com/package/voice)
@@ -1127,3 +1125,7 @@
 [Raise](https://www.npmjs.com/package/raise)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Lean](https://www.npmjs.com/package/lean)
