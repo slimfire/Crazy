@@ -1044,8 +1044,6 @@
 
 [Coworker](https://www.npmjs.com/package/coworker)
 
-[Bull](https://www.npmjs.com/package/bull)
-
 [Tough](https://www.npmjs.com/package/tough)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
@@ -1141,3 +1139,7 @@
 [Raise](https://www.npmjs.com/package/raise)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Bullying](https://www.npmjs.com/package/bullying)
