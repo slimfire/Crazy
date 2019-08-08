@@ -864,10 +864,6 @@
 
 [Play](https://www.npmjs.com/package/play)
 
-[Family](https://www.npmjs.com/package/family)
-
-[Feedback](https://www.npmjs.com/package/feedback)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -955,8 +951,6 @@
 [Topology](https://www.npmjs.com/package/topology)
 
 [Dumb](https://www.npmjs.com/package/dumb)
-
-[Logout](https://www.npmjs.com/package/logout)
 
 [RGB](https://www.npmjs.com/package/rgb)
 
@@ -1090,10 +1084,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Electronics](https://www.npmjs.com/package/electronics)
 
 [Dependency](https://www.npmjs.com/package/dependency)
@@ -1118,10 +1108,6 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Voice](https://www.npmjs.com/package/voice)
-
-[Raise](https://www.npmjs.com/package/raise)
-
 [LOGOUT](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1138,8 +1124,6 @@
 
 [xx](https://www.npmjs.com/package/xx)
 
-[Friends](https://www.npmjs.com/package/friends)
-
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Family](https://www.npmjs.com/package/family)
@@ -1151,3 +1135,19 @@
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Bullying](https://www.npmjs.com/package/bullying)
+
+[Feedback](https://www.npmjs.com/package/feedback)
+
+[Logout](https://www.npmjs.com/package/logout)
+
+[Voice](https://www.npmjs.com/package/voice)
+
+[Raise](https://www.npmjs.com/package/raise)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Snitch](https://www.npmjs.com/package/snitch)
