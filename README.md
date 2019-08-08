@@ -1138,4 +1138,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
+[Percent](https://www.npmjs.com/package/percent)
+
 [Infant](https://www.npmjs.com/package/infant)
