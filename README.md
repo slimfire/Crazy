@@ -624,8 +624,6 @@
 
 [Highlights](https://www.npmjs.com/package/highlights)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Health](https://www.npmjs.com/package/health)
 
 [Mirror](https://www.npmjs.com/package/mirror)
@@ -656,8 +654,6 @@
 
 [Disorient](https://www.npmjs.com/package/disorient)
 
-[Gateway](https://www.npmjs.com/package/gateway)
-
 [Yell](https://www.npmjs.com/package/yell)
 
 [Support](https://www.npmjs.com/package/support)
@@ -665,8 +661,6 @@
 [Live](https://www.npmjs.com/package/live)
 
 [Hop](https://www.npmjs.com/package/hop)
-
-[Split](https://www.npmjs.com/package/split)
 
 [Catch](https://www.npmjs.com/package/catch)
 
@@ -1151,3 +1145,11 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Gateway](https://www.npmjs.com/package/gateway)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Split](https://www.npmjs.com/package/split)
