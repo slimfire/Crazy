@@ -952,8 +952,6 @@
 
 [Senior](https://www.npmjs.com/package/senior)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Big](https://www.npmjs.com/package/big)
 
 [Contact](https://www.npmjs.com/package/contact) 
@@ -1076,8 +1074,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Electronics](https://www.npmjs.com/package/electronics)
-
 [Dependency](https://www.npmjs.com/package/dependency)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
@@ -1144,8 +1140,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Gateway](https://www.npmjs.com/package/gateway)
@@ -1153,3 +1147,11 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Electronics](https://www.npmjs.com/package/electronics)
+
+[RGB](https://www.npmjs.com/package/rgb)
+
+[Mislead](https://www.npmjs.com/package/mislead)
