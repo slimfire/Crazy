@@ -1096,8 +1096,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Nearby](https://www.npmjs.com/package/nearby)
 
 [Odor](https://www.npmjs.com/package/odor)
@@ -1155,7 +1153,3 @@
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Naming](https://www.npmjs.com/package/naming)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Assaulting](https://www.npmjs.com/package/assaulting)
