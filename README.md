@@ -1154,6 +1154,8 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
+[Naming](https://www.npmjs.com/package/naming)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Naming](https://www.npmjs.com/package/naming)
+[Assaulting](https://www.npmjs.com/package/assaulting)
