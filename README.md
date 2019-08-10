@@ -1116,8 +1116,6 @@
 
 [Excuse](https://www.npmjs.com/package/excuse)
 
-[Bullying](https://www.npmjs.com/package/bullying)
-
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Logout](https://www.npmjs.com/package/logout)
@@ -1154,8 +1152,10 @@
 
 [Naming](https://www.npmjs.com/package/naming)
 
+[Assaulting](https://www.npmjs.com/package/assaulting)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Assaulting](https://www.npmjs.com/package/assaulting)
+[Bullying](https://www.npmjs.com/package/bullying)
 
 [Node](https://www.npmjs.com/package/node)
