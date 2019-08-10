@@ -572,8 +572,6 @@
 
 [tv](https://www.npmjs.com/package/tv)
 
-[Innocent](https://www.npmjs.com/package/innocent)
-
 [Journal](https://www.npmjs.com/package/journal)
 
 [Group](https://www.npmjs.com/package/group)
@@ -1152,9 +1150,11 @@
 
 [Node](https://www.npmjs.com/package/node)
 
+[Enforcement](https://www.npmjs.com/package/enforcement)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Enforcement](https://www.npmjs.com/package/enforcement)
+[Innocent](https://www.npmjs.com/package/innocent)
 
 [Puls](https://www.npmjs.com/package/puls)
 
