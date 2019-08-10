@@ -1004,10 +1004,6 @@
 
 [Infants](https://www.npmjs.com/package/infants)
 
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
 [Geek](https://www.npmjs.com/package/geek)
 
 [Landlord](https://www.npmjs.com/package/landlord)
@@ -1132,14 +1128,6 @@
 
 [Raise](https://www.npmjs.com/package/raise)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Gateway](https://www.npmjs.com/package/gateway)
@@ -1148,10 +1136,22 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Electronics](https://www.npmjs.com/package/electronics)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Mislead](https://www.npmjs.com/package/mislead)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Snitch](https://www.npmjs.com/package/snitch)
+
+[RGB](https://www.npmjs.com/package/rgb)
