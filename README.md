@@ -1140,8 +1140,6 @@
 
 [Mislead](https://www.npmjs.com/package/mislead)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
@@ -1155,3 +1153,7 @@
 [Snitch](https://www.npmjs.com/package/snitch)
 
 [RGB](https://www.npmjs.com/package/rgb)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Naming](https://www.npmjs.com/package/naming)
