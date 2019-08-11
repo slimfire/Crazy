@@ -1144,17 +1144,11 @@
 
 [Assaulting](https://www.npmjs.com/package/assaulting)
 
-[Bullying](https://www.npmjs.com/package/bullying)
-
-[Node](https://www.npmjs.com/package/node)
-
 [Enforcement](https://www.npmjs.com/package/enforcement)
 
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Innocent](https://www.npmjs.com/package/innocent)
 
@@ -1163,3 +1157,9 @@
 [Write](https://www.npmjs.com/package/write)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Bullying](https://www.npmjs.com/package/bullying)
+
+[Node](https://www.npmjs.com/package/node)
