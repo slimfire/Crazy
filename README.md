@@ -364,8 +364,6 @@
 
 [Stream](https://www.npmjs.com/package/stream)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
 [Security](https://www.npmjs.com/package/security)
 
 [Computing](https://www.npmjs.com/package/computing)
@@ -1106,8 +1104,6 @@
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Excuse](https://www.npmjs.com/package/excuse)
 
 [Feedback](https://www.npmjs.com/package/feedback)
@@ -1123,8 +1119,6 @@
 [Gateway](https://www.npmjs.com/package/gateway)
 
 [Breach](https://www.npmjs.com/package/breach)
-
-[Split](https://www.npmjs.com/package/split)
 
 [Electronics](https://www.npmjs.com/package/electronics)
 
@@ -1163,3 +1157,9 @@
 [Bullying](https://www.npmjs.com/package/bullying)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Split](https://www.npmjs.com/package/split)
