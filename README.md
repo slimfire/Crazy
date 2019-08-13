@@ -1158,8 +1158,11 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Lier](https://www.npmjs.com/package/lier)
+
