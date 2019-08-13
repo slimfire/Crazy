@@ -1088,12 +1088,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Nearby](https://www.npmjs.com/package/nearby)
-
-[Odor](https://www.npmjs.com/package/odor)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [Massive](https://www.npmjs.com/package/massive)
 
 [xx](https://www.npmjs.com/package/xx)
@@ -1156,8 +1150,6 @@
 
 [Bullying](https://www.npmjs.com/package/bullying)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Split](https://www.npmjs.com/package/split)
@@ -1166,3 +1158,10 @@
 
 [Lier](https://www.npmjs.com/package/lier)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Odor](https://www.npmjs.com/package/odor)
