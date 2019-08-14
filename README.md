@@ -100,8 +100,6 @@
 
 [Deploy](https://www.npmjs.com/package/deploy)
 
-[Utah](https://github.com/iammerrick/utahjs.com)
-
 [Oklahoma](https://www.npmjs.com/package/oklahoma)
 
 [Assault](https://www.npmjs.com/package/assault)
@@ -143,8 +141,6 @@
 [Orlando](https://www.npmjs.com/package/orlando)
 
 [Competition](https://www.npmjs.com/package/competition)
-
-[Sync](https://www.npmjs.com/package/sync)
 
 [Propagate](https://www.npmjs.com/package/propagate)
 
@@ -480,8 +476,6 @@
 
 [Web](https://www.npmjs.com/package/web)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Target](https://www.npmjs.com/package/target)
 
 [Pokemon](https://www.npmjs.com/package/pokemon)
@@ -529,8 +523,6 @@
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Parent](https://www.npmjs.com/package/parent)
-
-[Net](https://www.npmjs.com/package/net)
 
 [Updates](https://www.npmjs.com/package/updates)
 
@@ -1154,8 +1146,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Nearby](https://www.npmjs.com/package/nearby)
-
 [Odor](https://www.npmjs.com/package/odor)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1165,3 +1155,15 @@
 [Heart](https://www.npmjs.com/package/heart)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Net](https://www.npmjs.com/package/net)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Sync](https://www.npmjs.com/package/sync)
+
+[Via](https://www.npmjs.com/package/via)
+
+[Utah](https://github.com/iammerrick/utahjs.com)
+
+[Ready](https://www.npmjs.com/package/ready)
