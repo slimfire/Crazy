@@ -1026,8 +1026,6 @@
 
 [Assault](https://www.npmjs.com/package/assault)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Massive](https://www.npmjs.com/package/massive)
 
 [Successful](https://www.npmjs.com/package/successful)
@@ -1134,10 +1132,6 @@
 
 [Enforcement](https://www.npmjs.com/package/enforcement)
 
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
 [Innocent](https://www.npmjs.com/package/innocent)
 
 [Network](https://www.npmjs.com/package/network)
@@ -1158,10 +1152,16 @@
 
 [Lier](https://www.npmjs.com/package/lier)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Node](https://www.npmjs.com/package/node)
 
 [Nearby](https://www.npmjs.com/package/nearby)
 
 [Odor](https://www.npmjs.com/package/odor)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Infant](https://www.npmjs.com/package/infant)
