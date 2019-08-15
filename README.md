@@ -962,8 +962,6 @@
 
 [Fast](https://www.npmjs.com/package/fast)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Agress](https://www.npmjs.com/package/agress)
@@ -1144,21 +1142,13 @@
 
 [Lier](https://www.npmjs.com/package/lier)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Odor](https://www.npmjs.com/package/odor)
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Puls](https://www.npmjs.com/package/puls)
-
-[Heart](https://www.npmjs.com/package/heart)
-
 [Infant](https://www.npmjs.com/package/infant)
 
 [Net](https://www.npmjs.com/package/net)
-
-[Nearby](https://www.npmjs.com/package/nearby)
 
 [Sync](https://www.npmjs.com/package/sync)
 
@@ -1167,3 +1157,15 @@
 [Utah](https://github.com/iammerrick/utahjs.com)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Puls](https://www.npmjs.com/package/puls)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Noise](https://www.npmjs.com/package/noise)
