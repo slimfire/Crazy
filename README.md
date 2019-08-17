@@ -936,8 +936,6 @@
 
 [Senior](https://www.npmjs.com/package/senior)
 
-[Big](https://www.npmjs.com/package/big)
-
 [Contact](https://www.npmjs.com/package/contact) 
 
 [Creative](https://www.npmjs.com/package/creative)
@@ -1140,8 +1138,6 @@
 
 [Odor](https://www.npmjs.com/package/odor)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Infant](https://www.npmjs.com/package/infant)
 
 [Net](https://www.npmjs.com/package/net)
@@ -1166,7 +1162,10 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Big](https://www.npmjs.com/package/big)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [Harassing](https://www.npmjs.com/package/Harassing)
 
 [Fam](https://www.npmjs.com/package/fam)
-
