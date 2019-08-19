@@ -732,8 +732,6 @@
 
 [Changed](https://www.npmjs.com/package/changed)
 
-[Flavors](https://www.npmjs.com/package/changed)
-
 [Biometry](https://www.npmjs.com/package/biometry)
 
 [Lab](https://www.npmjs.com/package/lab)
@@ -775,8 +773,6 @@
 [Money](https://www.npmjs.com/package/money)
 
 [Amplify](https://www.npmjs.com/package/amplify)
-
-[Cough](https://www.npmjs.com/package/cough)
 
 [Wedding](https://www.npmjs.com/package/wedding)
 
@@ -1148,8 +1144,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Nearby](https://www.npmjs.com/package/nearby)
-
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
@@ -1164,8 +1158,16 @@
 
 [Fam](https://www.npmjs.com/package/fam)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Bullying](https://www.npmjs.com/package/bullying)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Nearby](https://www.npmjs.com/package/nearby)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Experimenting](https://www.npmjs.com/package/experimenting)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Flavors](https://www.npmjs.com/package/flavors)
