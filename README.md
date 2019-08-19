@@ -618,8 +618,6 @@
 
 [Knowabout](https://www.npmjs.com/package/knowabout)
 
-[Trash](https://www.npmjs.com/package/trash)
-
 [Toyota](https://www.npmjs.com/package/toyota)
 
 [License](https://www.npmjs.com/package/license)
@@ -1158,11 +1156,7 @@
 
 [Bullying](https://www.npmjs.com/package/bullying)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Nearby](https://www.npmjs.com/package/nearby)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Experimenting](https://www.npmjs.com/package/experimenting)
 
@@ -1173,3 +1167,9 @@
 [Habit](https://www.npmjs.com/package/habit)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Trashing](https://www.npmjs.com/package/trashing)
+
+[Node](https://www.npmjs.com/package/node)
