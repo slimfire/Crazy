@@ -1062,8 +1062,6 @@
 
 [Percent](https://www.npmjs.com/package/percent)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [LOGOUT](https://www.npmjs.com/package/logout)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1171,3 +1169,7 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Flavors](https://www.npmjs.com/package/flavors)
+
+[Habit](https://www.npmjs.com/package/habit)
+
+[Infant](https://www.npmjs.com/package/infant)
