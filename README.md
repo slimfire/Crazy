@@ -1156,20 +1156,20 @@
 
 [Bullying](https://www.npmjs.com/package/bullying)
 
+[Habit](https://www.npmjs.com/package/habit)
+
+[Infant](https://www.npmjs.com/package/infant)
+
+[Trashing](https://www.npmjs.com/package/trashing)
+
+[Node](https://www.npmjs.com/package/node)
+
 [Nearby](https://www.npmjs.com/package/nearby)
 
-[Experimenting](https://www.npmjs.com/package/experimenting)
+[Vote](https://www.npmjs.com/package/vote)
 
 [Cough](https://www.npmjs.com/package/cough)
 
 [Flavors](https://www.npmjs.com/package/flavors)
 
-[Habit](https://www.npmjs.com/package/habit)
-
-[Infant](https://www.npmjs.com/package/infant)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Trashing](https://www.npmjs.com/package/trashing)
-
-[Node](https://www.npmjs.com/package/node)
+[Experimenting](https://www.npmjs.com/package/experimenting)
