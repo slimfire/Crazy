@@ -1166,10 +1166,14 @@
 
 [Nearby](https://www.npmjs.com/package/nearby)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Flavors](https://www.npmjs.com/package/flavors)
 
 [Experimenting](https://www.npmjs.com/package/experimenting)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[MRI](https://www.npmjs.com/package/mri)
+
+
