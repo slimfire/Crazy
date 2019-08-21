@@ -1094,14 +1094,6 @@
 
 [Mislead](https://www.npmjs.com/package/mislead)
 
-[Belong](https://www.npmjs.com/package/belong)
-
-[Family](https://www.npmjs.com/package/family)
-
-[Friends](https://www.npmjs.com/package/friends)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Naming](https://www.npmjs.com/package/naming)
@@ -1172,8 +1164,16 @@
 
 [Experimenting](https://www.npmjs.com/package/experimenting)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [MRI](https://www.npmjs.com/package/mri)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[East](https://www.npmjs.com/package/east)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Friends](https://www.npmjs.com/package/friends)
+
+[Snitch](https://www.npmjs.com/package/snitch)
