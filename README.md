@@ -1120,8 +1120,6 @@
 
 [Odor](https://www.npmjs.com/package/odor)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Net](https://www.npmjs.com/package/net)
 
 [Sync](https://www.npmjs.com/package/sync)
@@ -1177,3 +1175,7 @@
 [Friends](https://www.npmjs.com/package/friends)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Infant](https://www.npmjs.com/package/infant)
