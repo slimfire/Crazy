@@ -500,8 +500,6 @@
 
 [Fast](https://www.npmjs.com/package/fast)
 
-[Smart](https://www.npmjs.com/package/smart)
-
 [Fishing](https://www.npmjs.com/package/fishing)
 
 [Model](https://www.npmjs.com/package/model)
@@ -1170,8 +1168,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Cough](https://www.npmjs.com/package/cough)
 
 [Sneeze](https://www.npmjs.com/package/sneeze)
@@ -1179,3 +1175,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Smart](https://www.npmjs.com/package/smart)
