@@ -682,8 +682,6 @@
 
 [Stayback](https://www.npmjs.com/package/stayback)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Savage](https://www.npmjs.com/package/savage)
 
 [Arrest](https://www.npmjs.com/package/arrest)
@@ -876,8 +874,6 @@
 
 [Start](https://www.npmjs.com/package/start)
 
-[Family](https://www.npmjs.com/package/family)
-
 [Million](https://www.npmjs.com/package/million)
 
 [Investigate](https://www.npmjs.com/package/investigate)
@@ -1028,8 +1024,6 @@
 
 [Video](https://www.npmjs.com/package/video)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Session](https://www.npmjs.com/package/Session)
 
 [End](https://www.npmjs.com/package/end)
@@ -1176,6 +1170,12 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
+[Vote](https://www.npmjs.com/package/vote)
+
 [Cough](https://www.npmjs.com/package/cough)
 
-[Infant](https://www.npmjs.com/package/infant)
+[Sneeze](https://www.npmjs.com/package/sneeze)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Split](https://www.npmjs.com/package/split)
