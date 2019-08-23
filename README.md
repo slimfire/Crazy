@@ -1176,6 +1176,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Smart](https://www.npmjs.com/package/smart)
+
+[Nasty](https://www.npmjs.com/package/nasty)
