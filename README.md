@@ -1148,8 +1148,6 @@
 
 [Nearby](https://www.npmjs.com/package/nearby)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Flavors](https://www.npmjs.com/package/flavors)
 
 [Experimenting](https://www.npmjs.com/package/experimenting)
@@ -1179,3 +1177,7 @@
 [Smart](https://www.npmjs.com/package/smart)
 
 [Nasty](https://www.npmjs.com/package/nasty)
+
+[Cough](https://www.npmjs.com/package/cough)
+
+[Robot](https://www.npmjs.com/package/robot)
