@@ -440,8 +440,6 @@
 
 [Advice](https://www.npmjs.com/package/advice)
 
-[Attack](https://www.npmjs.com/package/attack)
-
 [Spy](https://www.npmjs.com/package/spy)
 
 [Eyes](https://www.npmjs.com/package/eyes)
@@ -832,8 +830,6 @@
 
 [Play](https://www.npmjs.com/package/play)
 
-[Cough](https://www.npmjs.com/package/cough)
-
 [Contact](https://www.npmjs.com/package/contact)
 
 [Pandora](https://www.npmjs.com/package/pandora)
@@ -1006,8 +1002,6 @@
 
 [Active](https://www.npmjs.com/package/active)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Girl](https://www.npmjs.com/package/girl)
 
 [Verbose](https://www.npmjs.com/package/verbose)
@@ -1144,8 +1138,6 @@
 
 [Trashing](https://www.npmjs.com/package/trashing)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Nearby](https://www.npmjs.com/package/nearby)
 
 [Flavors](https://www.npmjs.com/package/flavors)
@@ -1181,3 +1173,9 @@
 [Cough](https://www.npmjs.com/package/cough)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Attacking](https://www.npmjs.com/package/attacking)
+
+[Node](https://www.npmjs.com/package/node)
