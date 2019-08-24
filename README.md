@@ -1174,8 +1174,15 @@
 
 [Robot](https://www.npmjs.com/package/robot)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Attacking](https://www.npmjs.com/package/attacking)
 
-[Node](https://www.npmjs.com/package/node)
+[Vote](https://www.npmjs.com/package/vote)
+
+[Public](https://www.npmjs.com/package/public)
+
+[Video](https://www.npmjs.com/package/video)
+
+[Record](https://www.npmjs.com/package/record)
+
+[Literal](https://www.npmjs.com/package/literal)
+
