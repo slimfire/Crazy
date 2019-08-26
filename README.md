@@ -1193,3 +1193,9 @@
 [First](https://www.npmjs.com/package/first)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
+
+
