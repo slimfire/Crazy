@@ -1040,8 +1040,6 @@
 
 [Call](https://www.npmjs.com/package/call)
 
-[Institute](https://www.npmjs.com/package/institute)
-
 [Percent](https://www.npmjs.com/package/percent)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
@@ -1185,3 +1183,7 @@
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Institute](https://www.npmjs.com/package/institute)
+
+[Beer](https://www.npmjs.com/package/beer)
