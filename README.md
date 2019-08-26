@@ -382,8 +382,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Manufacture](https://www.npmjs.com/package/manufacture)
 
 [All](https://www.npmjs.com/package/all)
@@ -952,8 +950,6 @@
 
 [Present](https://www.npmjs.com/package/present)
 
-[First](https://www.npmjs.com/package/first)
-
 [Then](https://www.npmjs.com/package/then)
 
 [Community](https://www.npmjs.com/package/community)
@@ -1194,3 +1190,6 @@
 
 [disrespect](https://www.npmjs.com/package/disrespect)
 
+[First](https://www.npmjs.com/package/first)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
