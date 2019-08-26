@@ -1166,8 +1166,6 @@
 
 [Attacking](https://www.npmjs.com/package/attacking)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Public](https://www.npmjs.com/package/public)
 
 [Video](https://www.npmjs.com/package/video)
@@ -1187,3 +1185,8 @@
 [Institute](https://www.npmjs.com/package/institute)
 
 [Beer](https://www.npmjs.com/package/beer)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[disrespect](https://www.npmjs.com/package/disrespect)
+
