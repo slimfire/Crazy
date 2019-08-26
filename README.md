@@ -1188,5 +1188,9 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Gold](https://www.npmjs.com/package/gold)
+
+[Vote](https://www.npmjs.com/package/vote)
+
 [disrespect](https://www.npmjs.com/package/disrespect)
 
