@@ -516,8 +516,6 @@
 
 [Intersection](https://www.npmjs.com/package/intersection)
 
-[Ireland](https://www.npmjs.com/package/ireland)
-
 [Parent](https://www.npmjs.com/package/parent)
 
 [Updates](https://www.npmjs.com/package/updates)
@@ -1056,8 +1054,6 @@
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
-[Family](https://www.npmjs.com/package/family)
-
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Excuse](https://www.npmjs.com/package/excuse)
@@ -1150,13 +1146,9 @@
 
 [East](https://www.npmjs.com/package/east)
 
-[Belong](https://www.npmjs.com/package/belong)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Friends](https://www.npmjs.com/package/friends)
-
-[Snitch](https://www.npmjs.com/package/snitch)
 
 [Cough](https://www.npmjs.com/package/cough)
 
@@ -1186,3 +1178,10 @@
 
 [Literal](https://www.npmjs.com/package/literal)
 
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Family](https://www.npmjs.com/package/family)
+
+[Snitch](https://www.npmjs.com/package/snitch)
