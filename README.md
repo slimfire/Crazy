@@ -1182,7 +1182,6 @@
 
 [Beer](https://www.npmjs.com/package/beer)
 
-[Vote](https://www.npmjs.com/package/vote)
 
 [Gold](https://www.npmjs.com/package/gold)
 
@@ -1198,4 +1197,9 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Husteling](https://www.npmjs.com/package/hustling)
+
+[Node](https://www.npmjs.com/package/node)
 
