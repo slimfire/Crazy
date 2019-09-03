@@ -324,7 +324,9 @@
 
 [Behavior](https://www.npmjs.com/package/behavior)
 
-[Change](https://www.npmjs.com/package/change)
+[
+
+](https://www.npmjs.com/package/change)
 
 [Level](https://www.npmjs.com/package/level)
 
@@ -728,8 +730,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Literal](https://www.npmjs.com/package/literal)
-
 [hop](https://www.npmjs.com/package/hop)
 
 [Teens](https://www.npmjs.com/package/teens)
@@ -757,8 +757,6 @@
 [Please](https://www.npmjs.com/package/please)
 
 [Literal](https://www.npmjs.com/package/literal)
-
-[Money](https://www.npmjs.com/package/money)
 
 [Amplify](https://www.npmjs.com/package/amplify)
 
@@ -946,8 +944,6 @@
 
 [Organization](https://www.npmjs.com/package/organization)
 
-[Ours](https://www.npmjs.com/package/ours)
-
 [Present](https://www.npmjs.com/package/present)
 
 [Then](https://www.npmjs.com/package/then)
@@ -1039,8 +1035,6 @@
 [Percent](https://www.npmjs.com/package/percent)
 
 [LOGOUT](https://www.npmjs.com/package/logout)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Massive](https://www.npmjs.com/package/massive)
 
@@ -1172,8 +1166,6 @@
 
 [Ireland](https://www.npmjs.com/package/ireland)
 
-[Belong](https://www.npmjs.com/package/belong)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Snitch](https://www.npmjs.com/package/snitch)
@@ -1207,4 +1199,16 @@
 
 [Node](https://www.npmjs.com/package/node)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[Money](https://www.npmjs.com/package/money)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Ours](https://www.npmjs.com/package/ours)
+
+[Literal](https://www.npmjs.com/package/literal)
+
+[Charge](https://www.npmjs.com/package/charge)
+
+[Snitch](https://www.npmjs.com/package/snitch)
