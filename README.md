@@ -1199,8 +1199,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Money](https://www.npmjs.com/package/money)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1212,3 +1210,9 @@
 [Charge](https://www.npmjs.com/package/charge)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[xx](https://www.npmjs.com/package/xx)
+
+
