@@ -1193,8 +1193,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Harrassing](https://www.npmjs.com/package/harassing)
 
 [Node](https://www.npmjs.com/package/node)
@@ -1214,6 +1212,10 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [xx](https://www.npmjs.com/package/xx)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Huge](https://www.npmjs.com/package/huge)
 
 [Vote](https://www.npmjs.com/package/vote)
 
