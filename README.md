@@ -1209,8 +1209,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [xx](https://www.npmjs.com/package/xx)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1220,3 +1218,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Opportunity](https://www.npmjs.com/package/opportunity)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[PhD](https://www.npmjs.com/package/phd)
+
+
