@@ -1215,4 +1215,6 @@
 
 [xx](https://www.npmjs.com/package/xx)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[Opportunity](https://www.npmjs.com/package/opportunity)
