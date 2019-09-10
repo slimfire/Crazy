@@ -1193,10 +1193,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Harrassing](https://www.npmjs.com/package/harassing)
-
-[Node](https://www.npmjs.com/package/node)
-
 [Money](https://www.npmjs.com/package/money)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1221,7 +1217,11 @@
 
 [PhD](https://www.npmjs.com/package/phd)
 
+[Sneaky](https://www.npmjs.com/package/sneaky)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Sneaky](https://www.npmjs.com/package/sneaky)
+[Harassing](https://www.npmjs.com/package/harassing)
+
+[Node](https://www.npmjs.com/package/node)
 
