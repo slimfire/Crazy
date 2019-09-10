@@ -1219,8 +1219,9 @@
 
 [Opportunity](https://www.npmjs.com/package/opportunity)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [PhD](https://www.npmjs.com/package/phd)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sneaky](https://www.npmjs.com/package/sneaky)
 
