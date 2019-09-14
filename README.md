@@ -1219,12 +1219,15 @@
 
 [Sneaky](https://www.npmjs.com/package/sneaky)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Harassing](https://www.npmjs.com/package/harassing)
 
 [Node](https://www.npmjs.com/package/node)
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Bordem](https://www.npmjs.com/package/bordem)
+[Bordem](https://www.npmjs.com/package/
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Hustler](https://www.npmjs.com/package/hustler)
+
