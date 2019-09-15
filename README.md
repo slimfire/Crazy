@@ -1211,7 +1211,6 @@
 
 [Huge](https://www.npmjs.com/package/huge)
 
-[Vote](https://www.npmjs.com/package/vote)
 
 [Opportunity](https://www.npmjs.com/package/opportunity)
 
@@ -1230,4 +1229,10 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Hustler](https://www.npmjs.com/package/hustler)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Allnighter)(https://www.npmjs.com/package/all-nighter)
+
+
 
