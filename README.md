@@ -1232,7 +1232,7 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Allnighter)(https://www.npmjs.com/package/all-nighter)
+[Allnighter](https://www.npmjs.com/package/all-nighter)
 
 
 
