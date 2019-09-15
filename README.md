@@ -1098,8 +1098,6 @@
 
 [Utah](https://github.com/iammerrick/utahjs.com)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Puls](https://www.npmjs.com/package/puls)
 
 [Heart](https://www.npmjs.com/package/heart)
@@ -1234,5 +1232,12 @@
 
 [Allnighter](https://www.npmjs.com/package/all-nighter)
 
+[Institute](https://www.npmjs.com/package/institute)
 
+[Yellow](https://www.npmjs.com/package/yellow)
 
+[Duo](https://www.npmjs.com/package/duo)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Ready](https://www.npmjs.com/package/ready)
