@@ -980,8 +980,6 @@
 
 [NGO](https://www.npmjs.com/package/ngo)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Robbery](https://www.npmjs.com/package/robbery)
 
 [Assault](https://www.npmjs.com/package/assault)
@@ -1236,8 +1234,10 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Experimenting](https://www.npmjs.com/package/experimenting)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[RGB](https://www.npmjs.com/package/rgb)
