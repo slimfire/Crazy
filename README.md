@@ -1236,8 +1236,11 @@
 
 [Experimenting](https://www.npmjs.com/package/experimenting)
 
-[Node](https://www.npmjs.com/package/node)
+[RGB](https://www.npmjs.com/package/rgb)
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[RGB](https://www.npmjs.com/package/rgb)
+[Exploiting](https://www.npmjs.com/package/exploiting)
+
+[Node](https://www.npmjs.com/package/node)
+
