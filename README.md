@@ -154,8 +154,6 @@
 
 [Dialog](https://www.npmjs.com/package/dialog)
 
-[Pink](https://www.npmjs.com/package/pink)
-
 [atm](https://www.npmjs.com/package/atm)
 
 [OnEvent](https://www.npmjs.com/package/onevent)
@@ -381,8 +379,6 @@
 [Movement](https://www.npmjs.com/package/movement)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
-
-[Card](https://www.npmjs.com/package/card)
 
 [Manufacture](https://www.npmjs.com/package/manufacture)
 
@@ -1232,8 +1228,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Experimenting](https://www.npmjs.com/package/experimenting)
 
 [RGB](https://www.npmjs.com/package/rgb)
@@ -1245,3 +1239,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Ill](https://www.npmjs.com/package/ill)
+
+[Pink](https://www.npmjs.com/package/pink)
+
+[Card](https://www.npmjs.com/package/card)
+
+[Ready](https://www.npmjs.com/package/ready)
