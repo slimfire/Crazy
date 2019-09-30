@@ -1236,8 +1236,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Ill](https://www.npmjs.com/package/ill)
 
 [Pink](https://www.npmjs.com/package/pink)
@@ -1245,3 +1243,7 @@
 [Card](https://www.npmjs.com/package/card)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Bust](https://www.npmjs.com/package/bust)
