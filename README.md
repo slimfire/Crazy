@@ -1247,3 +1247,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Bust](https://www.npmjs.com/package/bust)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Infant](https://www.npmjs.com/package/infant)
+
+
