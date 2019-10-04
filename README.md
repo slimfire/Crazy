@@ -1144,8 +1144,6 @@
 
 [Robot](https://www.npmjs.com/package/robot)
 
-[Attacking](https://www.npmjs.com/package/attacking)
-
 [Public](https://www.npmjs.com/package/public)
 
 [Video](https://www.npmjs.com/package/video)
@@ -1180,8 +1178,6 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Husteling](https://www.npmjs.com/package/hustling)
-
-[Node](https://www.npmjs.com/package/node)
 
 [Money](https://www.npmjs.com/package/money)
 
@@ -1248,8 +1244,10 @@
 
 [Bust](https://www.npmjs.com/package/bust)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Infant](https://www.npmjs.com/package/infant)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[Attacking](https://www.npmjs.com/package/attacking)
+
+[Node](https://www.npmjs.com/package/node)
