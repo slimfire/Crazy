@@ -126,8 +126,6 @@
 
 [Loading](https://www.npmjs.com/package/loading)
 
-[ill](https://www.npmjs.com/package/ill)
-
 [Platform](https://www.npmjs.com/package/platform)
 
 [Security](https://www.npmjs.com/package/security)
@@ -1246,8 +1244,12 @@
 
 [Infant](https://www.npmjs.com/package/infant)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Attacking](https://www.npmjs.com/package/attacking)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Mental](https://www.npmjs.com/package/mental)
+
+[ill](https://www.npmjs.com/package/ill)
