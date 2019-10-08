@@ -1252,7 +1252,10 @@
 
 [ill](https://www.npmjs.com/package/ill)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Lego](https://www.npmjs.com/package/lego)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Love](https://www.npmjs.com/package/love)
+
+[Men](https://www.npmjs.com/package/men)
