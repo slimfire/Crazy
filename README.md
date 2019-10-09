@@ -202,8 +202,6 @@
 
 [Background](https://www.npmjs.com/package/background)
 
-[Power](https://www.npmjs.com/package/power)
-
 [Operation](https://www.npmjs.com/package/operation)
 
 [Tiny](https://www.npmjs.com/package/tiny)
@@ -1254,8 +1252,10 @@
 
 [Lego](https://www.npmjs.com/package/lego)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Love](https://www.npmjs.com/package/love)
 
 [Men](https://www.npmjs.com/package/men)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Power](https://www.npmjs.com/package/power)
