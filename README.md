@@ -1256,6 +1256,8 @@
 
 [Power](https://www.npmjs.com/package/power)
 
+[Dumb](https://www.npmjs.com/package/dumb)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Dumb](https://www.npmjs.com/package/dumb)
+[Hidden](https://www.npmjs.com/package/hidden)
