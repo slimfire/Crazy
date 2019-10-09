@@ -208,8 +208,6 @@
 
 [Successful](https://www.npmjs.com/package/successful)
 
-[Classroom](https://www.npmjs.com/package/classroom)
-
 [SDN](https://www.npmjs.com/package/sdn)
 
 [Cookie](https://www.npmjs.com/package/cookie)
@@ -1258,6 +1256,10 @@
 
 [Dumb](https://www.npmjs.com/package/dumb)
 
+[Hidden](https://www.npmjs.com/package/hidden)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Hidden](https://www.npmjs.com/package/hidden)
+[Classroom](https://www.npmjs.com/package/classroom)
+
+[Leave](https://www.npmjs.com/package/leave)
