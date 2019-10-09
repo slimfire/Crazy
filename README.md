@@ -900,8 +900,6 @@
 
 [Music](https://www.npmjs.com/package/music)
 
-[Senior](https://www.npmjs.com/package/senior)
-
 [Contact](https://www.npmjs.com/package/contact) 
 
 [Creative](https://www.npmjs.com/package/creative)
@@ -1248,8 +1246,6 @@
 
 [Lego](https://www.npmjs.com/package/lego)
 
-[Love](https://www.npmjs.com/package/love)
-
 [Men](https://www.npmjs.com/package/men)
 
 [Power](https://www.npmjs.com/package/power)
@@ -1258,8 +1254,16 @@
 
 [Hidden](https://www.npmjs.com/package/hidden)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Classroom](https://www.npmjs.com/package/classroom)
 
 [Leave](https://www.npmjs.com/package/leave)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Love](https://www.npmjs.com/package/love)
+
+[Women](https://www.npmjs.com/package/women)
+
+[Age](https://www.npmjs.com/package/age)
+
+[Senior](https://www.npmjs.com/package/senior)
