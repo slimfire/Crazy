@@ -898,8 +898,6 @@
 
 [Topology](https://www.npmjs.com/package/topology)
 
-[Dumb](https://www.npmjs.com/package/dumb)
-
 [Change](https://www.npmjs.com/package/change)
 
 [Music](https://www.npmjs.com/package/music)
@@ -1256,6 +1254,8 @@
 
 [Men](https://www.npmjs.com/package/men)
 
+[Power](https://www.npmjs.com/package/power)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Power](https://www.npmjs.com/package/power)
+[Dumb](https://www.npmjs.com/package/dumb)
