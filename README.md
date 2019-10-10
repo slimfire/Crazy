@@ -1048,8 +1048,6 @@
 
 [Mislead](https://www.npmjs.com/package/mislead)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Naming](https://www.npmjs.com/package/naming)
 
 [Assaulting](https://www.npmjs.com/package/assaulting)
@@ -1258,8 +1256,6 @@
 
 [Leave](https://www.npmjs.com/package/leave)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Love](https://www.npmjs.com/package/love)
 
 [Women](https://www.npmjs.com/package/women)
@@ -1267,3 +1263,7 @@
 [Age](https://www.npmjs.com/package/age)
 
 [Senior](https://www.npmjs.com/package/senior)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[RGB](https://www.npmjs.com/package/rgb)
