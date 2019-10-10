@@ -1266,7 +1266,10 @@
 
 [RGB](https://www.npmjs.com/package/
 
+[Bald](https://www.npmjs.com/package/bald)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Bald](https://www.npmjs.com/package/bald)
+[Disrespect](https://www.npmjs.com/package/disrespect)
+
 
