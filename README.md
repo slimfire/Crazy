@@ -1264,6 +1264,9 @@
 
 [Senior](https://www.npmjs.com/package/senior)
 
+[RGB](https://www.npmjs.com/package/
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[RGB](https://www.npmjs.com/package/rgb)
+[Bald](https://www.npmjs.com/package/bald)
+
