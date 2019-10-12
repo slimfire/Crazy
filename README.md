@@ -932,8 +932,6 @@
 
 [Present](https://www.npmjs.com/package/present)
 
-[Then](https://www.npmjs.com/package/then)
-
 [Community](https://www.npmjs.com/package/community)
 
 [Job](https://www.npmjs.com/package/job)
@@ -1250,8 +1248,6 @@
 
 [Classroom](https://www.npmjs.com/package/classroom)
 
-[Leave](https://www.npmjs.com/package/leave)
-
 [Love](https://www.npmjs.com/package/love)
 
 [Women](https://www.npmjs.com/package/women)
@@ -1266,8 +1262,14 @@
 
 [Disrespect](https://www.npmjs.com/package/disrespect)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Mental](https://www.npmjs.com/package/mental)
 
 [ill](https://www.npmjs.com/package/ill)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Start](https://www.npmjs.com/package/start)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Leave](https://www.npmjs.com/package/leave)
