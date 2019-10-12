@@ -1238,10 +1238,6 @@
 
 [Node](https://www.npmjs.com/package/node)
 
-[Mental](https://www.npmjs.com/package/mental)
-
-[ill](https://www.npmjs.com/package/ill)
-
 [Lego](https://www.npmjs.com/package/lego)
 
 [Men](https://www.npmjs.com/package/men)
@@ -1268,8 +1264,10 @@
 
 [Bald](https://www.npmjs.com/package/bald)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Disrespect](https://www.npmjs.com/package/disrespect)
 
+[Vote](https://www.npmjs.com/package/vote)
 
+[Mental](https://www.npmjs.com/package/mental)
+
+[ill](https://www.npmjs.com/package/ill)
