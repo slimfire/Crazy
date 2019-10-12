@@ -1266,10 +1266,12 @@
 
 [ill](https://www.npmjs.com/package/ill)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Start](https://www.npmjs.com/package/start)
 
 [Then](https://www.npmjs.com/package/then)
 
 [Leave](https://www.npmjs.com/package/leave)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Toys](https://www.npmjs.com/package/toys)
