@@ -1277,3 +1277,13 @@
 [Transparent](https://www.npmjs.com/package/transparent)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Literal](https://www.npmjs.com/package/literal)
+
+[Photograph](https://www.npmjs.com/package/photograph)
+
+[Node](https://www.npmjs.com/package/node)
+
+[Retard](https://www.npmjs.com/package/retard)
