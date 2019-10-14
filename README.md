@@ -1096,8 +1096,6 @@
 
 [Habit](https://www.npmjs.com/package/habit)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Trashing](https://www.npmjs.com/package/trashing)
 
 [Nearby](https://www.npmjs.com/package/nearby)
@@ -1275,3 +1273,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Toys](https://www.npmjs.com/package/toys)
+
+[Transparent](https://www.npmjs.com/package/transparent)
+
+[Infant](https://www.npmjs.com/package/infant)
