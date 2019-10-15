@@ -1062,8 +1062,6 @@
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Lier](https://www.npmjs.com/package/lier)
 
 [Odor](https://www.npmjs.com/package/odor)
@@ -1287,3 +1285,7 @@
 [Womens](https://www.npmjs.com/package/women)
 
 [Infant](https://www.npmjs.com/package/infant)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Smoke](https://www.npmjs.com/package/smoke)
