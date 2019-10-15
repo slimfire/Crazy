@@ -532,8 +532,6 @@
 
 [Dress](https://www.npmjs.com/package/dress)
 
-[Women](https://www.npmjs.com/package/women)
-
 [Weed](https://www.npmjs.com/package/weed)
 
 [Delay](https://www.npmjs.com/package/delay)
@@ -1228,8 +1226,6 @@
 
 [Bust](https://www.npmjs.com/package/bust)
 
-[Infant](https://www.npmjs.com/package/infant)
-
 [Attacking](https://www.npmjs.com/package/attacking)
 
 [Node](https://www.npmjs.com/package/node)
@@ -1287,3 +1283,7 @@
 [Node](https://www.npmjs.com/package/node)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+[Womens](https://www.npmjs.com/package/women)
+
+[Infant](https://www.npmjs.com/package/infant)
