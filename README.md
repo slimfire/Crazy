@@ -1286,8 +1286,10 @@
 
 [Harassing](https://www.npmjs.com/package/harassing)
 
+[Abusing](https://www.npmjs.com/package/abusing)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Abusing](https://www.npmjs.com/package/abusing)
+[Experimenting](https://www.npmjs.com/package/experimenting]
 
 [Node](https://www.npmjs.com/package/node)
