@@ -1284,8 +1284,10 @@
 
 [Smoke](https://www.npmjs.com/package/smoke)
 
+[Harassing](https://www.npmjs.com/package/harassing)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Harassing](https://www.npmjs.com/package/harassing)
+[Abusing](https://www.npmjs.com/package/abusing)
 
 [Node](https://www.npmjs.com/package/node)
