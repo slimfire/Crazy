@@ -1286,10 +1286,10 @@
 
 [Harassing](https://www.npmjs.com/package/harassing)
 
-[Abusing](https://www.npmjs.com/package/abusing)
+[Experimenting](https://www.npmjs.com/package/experimenting]
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Experimenting](https://www.npmjs.com/package/experimenting]
+[Fighting](https://www.npmjs.com/package/fighting)
 
 [Node](https://www.npmjs.com/package/node)
