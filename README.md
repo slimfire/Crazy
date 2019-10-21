@@ -1286,7 +1286,7 @@
 
 [Harassing](https://www.npmjs.com/package/harassing)
 
-[Experimenting](https://www.npmjs.com/package/experimenting]
+[Experimenting](https://www.npmjs.com/package/experimenting)
 
 [Fighting](https://www.npmjs.com/package/fighting)
 
