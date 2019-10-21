@@ -618,8 +618,6 @@
 
 [Duo](https://www.npmjs.com/package/duo)
 
-[Careless](https://www.npmjs.com/package/careless)
-
 [Disorient](https://www.npmjs.com/package/disorient)
 
 [Yell](https://www.npmjs.com/package/yell)
@@ -1291,6 +1289,8 @@
 [Fighting](https://www.npmjs.com/package/fighting)
 
 [Vote](https://www.npmjs.com/package/vote)
+
+[Careless](https://www.npmjs.com/package/careless)
 
 [Harm](https://www.npmjs.com/package/harm)
 
