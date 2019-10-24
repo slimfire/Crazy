@@ -310,8 +310,6 @@
 
 [Move](https://www.npmjs.com/package/move)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [warned](https://www.npmjs.com/package/warned)
 
 [Behavior](https://www.npmjs.com/package/behavior)
@@ -1012,8 +1010,6 @@
 
 [Percent](https://www.npmjs.com/package/percent)
 
-[LOGOUT](https://www.npmjs.com/package/logout)
-
 [Massive](https://www.npmjs.com/package/massive)
 
 [xx](https://www.npmjs.com/package/xx)
@@ -1297,3 +1293,7 @@
 [Node](https://www.npmjs.com/package/node)
 
 [Help](https://www.npmjs.com/package/help)
+
+[Hop](https://www.npmjs.com/package/hop)
+
+[Logout](https://www.npmjs.com/package/logout)
