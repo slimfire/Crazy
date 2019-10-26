@@ -1284,6 +1284,12 @@
 
 [Fighting](https://www.npmjs.com/package/fighting)
 
+[Help](https://www.npmjs.com/package/help)
+
+[Hop](https://www.npmjs.com/package/hop)
+
+[Logout](https://www.npmjs.com/package/logout)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Careless](https://www.npmjs.com/package/careless)
@@ -1291,9 +1297,3 @@
 [Harm](https://www.npmjs.com/package/harm)
 
 [Node](https://www.npmjs.com/package/node)
-
-[Help](https://www.npmjs.com/package/help)
-
-[Hop](https://www.npmjs.com/package/hop)
-
-[Logout](https://www.npmjs.com/package/logout)
