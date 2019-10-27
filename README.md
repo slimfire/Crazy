@@ -1288,8 +1288,6 @@
 
 [Hop](https://www.npmjs.com/package/hop)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Careless](https://www.npmjs.com/package/careless)
@@ -1297,3 +1295,7 @@
 [Harm](https://www.npmjs.com/package/harm)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Breach](https://www.npmjs.com/package/breach)
+
+[Logout](https://www.npmjs.com/package/logout)
