@@ -1286,8 +1286,6 @@
 
 [Help](https://www.npmjs.com/package/help)
 
-[Hop](https://www.npmjs.com/package/hop)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Careless](https://www.npmjs.com/package/careless)
@@ -1299,3 +1297,13 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Routing](https://www.npmjs.com/package/routing)
+
+[Nodes](https://www.npmjs.com/package/nodes)
+
+[Hop](https://www.npmjs.com/package/hop)
+
+[Hurting](https://www.npmjs.com/package/hurting)
