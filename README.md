@@ -1300,10 +1300,14 @@
 
 [Abusing](https://www.npmjs.com/package/abusing)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Careless](https://www.npmjs.com/package/careless)
 
 [Harm](https://www.npmjs.com/package/harm)
 
 [Node](https://www.npmjs.com/package/node)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Car](https://www.npmjs.com/package/car)
+
+[Snitched](https://www.npmjs.com/package/snitched)
