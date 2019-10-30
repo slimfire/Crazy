@@ -1292,13 +1292,9 @@
 
 [Harm](https://www.npmjs.com/package/harm)
 
-[Node](https://www.npmjs.com/package/node)
-
 [Breach](https://www.npmjs.com/package/breach)
 
 [Logout](https://www.npmjs.com/package/logout)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Routing](https://www.npmjs.com/package/routing)
 
@@ -1307,3 +1303,9 @@
 [Hop](https://www.npmjs.com/package/hop)
 
 [Hurting](https://www.npmjs.com/package/hurting)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Abusing](https://www.npmjs.com/package/abusing)
+
+[Node](https://www.npmjs.com/package/node)
