@@ -932,8 +932,6 @@
 
 [Force](https://www.npmjs.com/package/force)
 
-[Retard](https://www.npmjs.com/package/retard)
-
 [Infants](https://www.npmjs.com/package/infants)
 
 [Geek](https://www.npmjs.com/package/geek)
@@ -1311,3 +1309,7 @@
 [Car](https://www.npmjs.com/package/car)
 
 [Snitched](https://www.npmjs.com/package/snitched)
+
+[Center](https://www.npmjs.com/package/center)
+
+[Retard](https://www.npmjs.com/package/retard)
