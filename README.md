@@ -560,8 +560,6 @@
 
 [Emotion](https://www.npmjs.com/package/emotion)
 
-[Institue](https://www.npmjs.com/package/institue)
-
 [Terminal](https://www.npmjs.com/package/terminal)
 
 [Boss](https://www.npmjs.com/package/boss)
@@ -843,8 +841,6 @@
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Penetrate](https://www.npmjs.com/package/penetrate)
-
-[Start](https://www.npmjs.com/package/start)
 
 [Million](https://www.npmjs.com/package/million)
 
@@ -1250,10 +1246,6 @@
 
 [Start](https://www.npmjs.com/package/start)
 
-[Then](https://www.npmjs.com/package/then)
-
-[Leave](https://www.npmjs.com/package/leave)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Toys](https://www.npmjs.com/package/toys)
@@ -1317,3 +1309,11 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Loner](https://www.npmjs.com/package/loner)
+
+[Institue](https://www.npmjs.com/package/institue)
+
+[Start](https://www.npmjs.com/package/start)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Leave](https://www.npmjs.com/package/leave)
