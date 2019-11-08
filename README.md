@@ -1304,8 +1304,6 @@
 
 [Center](https://www.npmjs.com/package/center)
 
-[Retard](https://www.npmjs.com/package/retard)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Loner](https://www.npmjs.com/package/loner)
@@ -1317,3 +1315,7 @@
 [Then](https://www.npmjs.com/package/then)
 
 [Leave](https://www.npmjs.com/package/leave)
+
+[Hop](https://www.npmjs.com/package/hop)
+
+[Retard](https://www.npmjs.com/package/retard)
