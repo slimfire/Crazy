@@ -1319,3 +1319,7 @@
 [Hop](https://www.npmjs.com/package/hop)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+[Arrow](https://www.npmjs.com/package/arrow)
+
+[Infant](https://www.npmjs.com/package/infant)
