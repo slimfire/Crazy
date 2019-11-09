@@ -1325,3 +1325,7 @@
 [Infant](https://www.npmjs.com/package/infant)
 
 [Docker](https://www.npmjs.com/package/docker)
+
+[Ring](https://www.npmjs.com/package/ring)
+
+[Vote](https://www.npmjs.com/package/vote)
