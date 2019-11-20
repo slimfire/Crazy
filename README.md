@@ -1324,6 +1324,8 @@
 
 [Careless](https://www.npmjs.com/package/careless)
 
+[Deceptive](https://www.npmjs.com/package/deceptive)
+
 [Harm](https://www.npmjs.com/package/harm)
 
 [Node](https://www.npmjs.com/package/node)
