@@ -1319,13 +1319,3 @@
 [Docker](https://www.npmjs.com/package/docker)
 
 [Ring](https://www.npmjs.com/package/ring)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Careless](https://www.npmjs.com/package/careless)
-
-[Deceptive](https://www.npmjs.com/package/deceptive)
-
-[Harm](https://www.npmjs.com/package/harm)
-
-[Node](https://www.npmjs.com/package/node)
