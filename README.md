@@ -1319,3 +1319,7 @@
 [Docker](https://www.npmjs.com/package/docker)
 
 [Ring](https://www.npmjs.com/package/ring)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Logout](https://www.npmjs.com/package/logout)
