@@ -1,4 +1,4 @@
-### A list of interesting javascript libraries
+Comm it### A list of interesting javascript libraries
 
 [Lessons](https://www.npmjs.com/package/browser-lessons)
 
@@ -1320,10 +1320,20 @@
 
 [Ring](https://www.npmjs.com/package/ring)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Logout](https://www.npmjs.com/package/logout)
 
 [Provisioning](https://www.npmjs.com/package/provisioning)
 
 [Overdue](https://www.npmjs.com/package/overdue)
+
+[Community](https://www.npmjs.com/package/community)
+
+[Tumbsup](https://www.npmjs.com/package/thumbsup)
+
+[net](https://www.npmjs.com/package/vote)
+
+[Tumbsup](https://www.npmjs.com/package/tumbsup)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Retard](https://www.npmjs.com/package/retard)
