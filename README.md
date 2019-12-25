@@ -1337,3 +1337,7 @@ Comm it### A list of interesting javascript libraries
 [Vote](https://www.npmjs.com/package/vote)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+[Spirit](https://www.npmjs.com/package/spirit)
+
+[Geek](https://www.npmjs.com/package/geek)
