@@ -1337,15 +1337,3 @@
 [Spirit](https://www.npmjs.com/package/spirit)
 
 [Geek](https://www.npmjs.com/package/geek)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Provisioning](https://www.npmjs.com/package/provisioning)
-
-[Agree](https://www.npmjs.com/package/agree)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Now](https://www.npmjs.com/package/now)
-
-[Parents](https://www.npmjs.com/package/parents)
