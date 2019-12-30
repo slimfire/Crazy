@@ -1338,4 +1338,10 @@
 
 [Professor](https://www.npmjs.com/package/professor)
 
+[Summer](https://www.npmjs.com/package/summer)
+
+[Ready](https://www.npmjs.com/package/ready)
+
+[Complete](https://www.npmjs.com/package/complete)
+
 [Ready](https://www.npmjs.com/package/ready)
