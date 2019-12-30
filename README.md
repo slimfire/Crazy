@@ -42,8 +42,6 @@
 
 [Contrail](https://github.com/Juniper/contrail)
 
-[Cart](https://www.npmjs.com/package/cart)
-
 [More](https://www.npmjs.com/package/more)
 
 [hci](https://www.npmjs.com/package/hci)
@@ -313,10 +311,6 @@
 [warned](https://www.npmjs.com/package/warned)
 
 [Behavior](https://www.npmjs.com/package/behavior)
-
-[
-
-](https://www.npmjs.com/package/change)
 
 [Level](https://www.npmjs.com/package/level)
 
@@ -1337,3 +1331,11 @@
 [Spirit](https://www.npmjs.com/package/spirit)
 
 [Geek](https://www.npmjs.com/package/geek)
+
+[Cart](https://www.npmjs.com/package/cart)
+
+[Atlanta](https://www.npmjs.com/package/atlanta-counties)
+
+[Professor](https://www.npmjs.com/package/professor)
+
+[Ready](https://www.npmjs.com/package/ready)
