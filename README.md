@@ -1331,17 +1331,3 @@
 [Spirit](https://www.npmjs.com/package/spirit)
 
 [Geek](https://www.npmjs.com/package/geek)
-
-[Cart](https://www.npmjs.com/package/cart)
-
-[Atlanta](https://www.npmjs.com/package/atlanta-counties)
-
-[Professor](https://www.npmjs.com/package/professor)
-
-[Summer](https://www.npmjs.com/package/summer)
-
-[Ready](https://www.npmjs.com/package/ready)
-
-[Complete](https://www.npmjs.com/package/complete)
-
-[Ready](https://www.npmjs.com/package/ready)
