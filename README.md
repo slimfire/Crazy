@@ -1331,3 +1331,11 @@
 [Spirit](https://www.npmjs.com/package/spirit)
 
 [Geek](https://www.npmjs.com/package/geek)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Posting](https://www.npmjs.com/package/posting)
+
+[Hiding](https://www.npmjs.com/package/hide)
