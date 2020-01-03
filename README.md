@@ -146,8 +146,6 @@
 
 [Fix](https://www.npmjs.com/package/fix)
 
-[Delay](https://www.npmjs.com/package/delay)
-
 [Dialog](https://www.npmjs.com/package/dialog)
 
 [atm](https://www.npmjs.com/package/atm)
@@ -1339,3 +1337,19 @@
 [Posting](https://www.npmjs.com/package/posting)
 
 [Hiding](https://www.npmjs.com/package/hide)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Provision](https://www.npmjs.com/package/provision)
+
+[Agree](https://www.npmjs.com/package/agree)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Delay](https://www.npmjs.com/package/delay)
+
+[Then](https://www.npmjs.com/package/then)
+
+[No](https://www.npmjs.com/package/no)
