@@ -1349,7 +1349,3 @@
 [Then](https://www.npmjs.com/package/then)
 
 [Delay](https://www.npmjs.com/package/delay)
-
-[Then](https://www.npmjs.com/package/then)
-
-[No](https://www.npmjs.com/package/no)
