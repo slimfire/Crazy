@@ -1349,3 +1349,13 @@
 [Then](https://www.npmjs.com/package/then)
 
 [Delay](https://www.npmjs.com/package/delay)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Literal](https://www.npmjs.com/package/literal)
+
+[Car](https://www.npmjs.com/package/car)
+
+[Steal](https://www.npmjs.com/package/steal)
+
+[Criminal](https://www.npmjs.com/package/criminal)
