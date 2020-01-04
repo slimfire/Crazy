@@ -1364,6 +1364,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Stealing](https://www.npmjs.com/package/stealing)
-
 [Property](https://www.npmjs.com/package/property)
+
+[Stealing](https://www.npmjs.com/package/stealing)
