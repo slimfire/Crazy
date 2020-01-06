@@ -1362,8 +1362,12 @@
 
 [Massive](https://www.npmjs.com/package/massive)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Property](https://www.npmjs.com/package/property)
 
 [Stealing](https://www.npmjs.com/package/stealing)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Splitting](https://www.npmjs.com/package/splitting)
+
+[Fam](https://www.npmjs.com/package/fam)
