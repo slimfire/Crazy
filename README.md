@@ -370,8 +370,6 @@
 
 [Mali](https://www.npmjs.com/package/mali)
 
-[Oversea](https://www.npmjs.com/package/oversea)
-
 [Museum](https://www.npmjs.com/package/museum)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -1371,3 +1369,5 @@
 [Splitting](https://www.npmjs.com/package/splitting)
 
 [Fam](https://www.npmjs.com/package/fam)
+
+[Oversea](https://www.npmjs.com/package/oversea)
