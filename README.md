@@ -1377,3 +1377,9 @@
 [Then](https://www.npmjs.com/package/then)
 
 [No](https://www.npmjs.com/package/no)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Citizens](https://www.npmjs.com/package/citizens)
