@@ -1383,3 +1383,6 @@
 [Job](https://www.npmjs.com/package/job)
 
 [Citizens](https://www.npmjs.com/package/citizens)
+
+[Bust](https://www.npmjs.com/package/bust)
+
