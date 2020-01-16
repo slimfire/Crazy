@@ -1386,4 +1386,4 @@
 
 [Catch](https://www.npmjs.com/package/catch)
 
-[Institution](https://www.npmjs.com/package/institution)
+[Boredom](https://www.npmjs.com/package/boredom)
