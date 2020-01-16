@@ -1386,6 +1386,4 @@
 
 [Catch](https://www.npmjs.com/package/catch)
 
-[Simplicity](https://www.npmjs.com/package/simplicity)
-
 [Institution](https://www.npmjs.com/package/institution)
