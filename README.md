@@ -1407,3 +1407,9 @@
 [Retention](https://www.npmjs.com/package/retention)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Pink](https://www.npmjs.com/package/pink)
+
+[Ireland](https://www.npmjs.com/package/ireland)
+
+[Lion](https://www.npmjs.com/package/lion)
