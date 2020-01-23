@@ -766,8 +766,6 @@
 
 [Unruly](https://www.npmjs.com/package/unruly)
 
-[Gay](https://www.npmjs.com/package/gay)
-
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Negotiate](https://www.npmjs.com/package/negotiate)
@@ -1379,6 +1377,10 @@
 [Catch](https://www.npmjs.com/package/catch)
 
 [Boredom](https://www.npmjs.com/package/boredom)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Gay](https://www.npmjs.com/package/gay)
 
 [Grid](https://www.npmjs.com/package/grid)
 
