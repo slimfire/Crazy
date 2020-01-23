@@ -168,8 +168,6 @@
 
 [WearOS](https://www.npmjs.com/package/wearos)
 
-[Retention](https://www.npmjs.com/package/retention)
-
 [Now](https://www.npmjs.com/package/now)
 
 [Unite](https://www.npmjs.com/package/unite)
@@ -1401,3 +1399,7 @@
 [Hybrid](https://www.npmjs.com/package/hybrid)
 
 [Logout](https://www.npmjs.com/package/logout)
+
+[Secret](https://www.npmjs.com/package/secret)
+
+[Retard](https://www.npmjs.com/package/retard)
