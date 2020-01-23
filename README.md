@@ -538,8 +538,6 @@
 
 [Deception](https://www.npmjs.com/package/deception)
 
-[Hybrid](https://www.npmjs.com/package/hybrid)
-
 [Check](https://www.npmjs.com/package/check)
 
 [Trustless](https://www.npmjs.com/package/trustless)
@@ -978,8 +976,6 @@
 
 [Dependency](https://www.npmjs.com/package/dependency)
 
-[LOGOUT](https://www.npmjs.com/package/logout)
-
 [Video](https://www.npmjs.com/package/video)
 
 [Record](https://www.npmjs.com/package/record)
@@ -1397,3 +1393,11 @@
 [cto](https://www.npmjs.com/package/cto)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Bust](https://www.npmjs.com/package/bust)
+
+[Hybrid](https://www.npmjs.com/package/hybrid)
+
+[Logout](https://www.npmjs.com/package/logout)
