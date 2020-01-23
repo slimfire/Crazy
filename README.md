@@ -1390,8 +1390,6 @@
 
 [cto](https://www.npmjs.com/package/cto)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Bust](https://www.npmjs.com/package/bust)
@@ -1403,3 +1401,7 @@
 [Secret](https://www.npmjs.com/package/secret)
 
 [Retard](https://www.npmjs.com/package/retard)
+
+[Retention](https://www.npmjs.com/package/retention)
+
+[Ready](https://www.npmjs.com/package/ready)
