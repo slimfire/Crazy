@@ -1050,8 +1050,6 @@
 
 [Noise](https://www.npmjs.com/package/noise)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Big](https://www.npmjs.com/package/big)
 
 [Harassing](https://www.npmjs.com/package/Harassing)
@@ -1415,3 +1413,9 @@
 [cto](https://www.npmjs.com/package/cto)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[Blocker](https://www.npmjs.com/package/blocker)
