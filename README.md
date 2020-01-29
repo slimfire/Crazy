@@ -1419,3 +1419,7 @@
 [White](https://www.npmjs.com/package/white)
 
 [Robot](https://www.npmjs.com/package/robot)
+
+[Offer](https://www.npmjs.com/package/offer)
+
+[Overdue](https://www.npmjs.com/package/overdue)
