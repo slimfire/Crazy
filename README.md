@@ -1380,12 +1380,6 @@
 
 [Gay](https://www.npmjs.com/package/gay)
 
-[Grid](https://www.npmjs.com/package/grid)
-
-[White](https://www.npmjs.com/package/white)
-
-[Robot](https://www.npmjs.com/package/robot)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Bust](https://www.npmjs.com/package/bust)
@@ -1419,3 +1413,9 @@
 [xy](https://www.npmjs.com/package/xy)
 
 [Blocker](https://www.npmjs.com/package/blocker)
+
+[Grid](https://www.npmjs.com/package/grid)
+
+[White](https://www.npmjs.com/package/white)
+
+[Robot](https://www.npmjs.com/package/robot)
