@@ -1188,8 +1188,6 @@
 
 [Bust](https://www.npmjs.com/package/bust)
 
-[Attacking](https://www.npmjs.com/package/attacking)
-
 [Node](https://www.npmjs.com/package/node)
 
 [Lego](https://www.npmjs.com/package/lego)
@@ -1408,8 +1406,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [Blocker](https://www.npmjs.com/package/blocker)
@@ -1423,3 +1419,7 @@
 [Offer](https://www.npmjs.com/package/offer)
 
 [Overdue](https://www.npmjs.com/package/overdue)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Attacking](https://www.npmjs.com/package/attacking)
