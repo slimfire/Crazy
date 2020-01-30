@@ -1420,6 +1420,20 @@
 
 [Overdue](https://www.npmjs.com/package/overdue)
 
+[Attacking](https://www.npmjs.com/package/attacking)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Attacking](https://www.npmjs.com/package/attacking)
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Snitch](https://www.npmjs.com/package/snitch)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Attack](https://www.npmjs.com/package/attack)
