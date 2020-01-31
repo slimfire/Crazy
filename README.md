@@ -376,8 +376,6 @@
 
 [Magic](https://www.npmjs.com/package/magic)
 
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Dangerous](https://www.npmjs.com/package/dangerous)
 
 [Witness](https://www.npmjs.com/package/witness)
@@ -1437,3 +1435,7 @@
 [Then](https://www.npmjs.com/package/then)
 
 [Attack](https://www.npmjs.com/package/attack)
+
+[Three](https://www.npmjs.com/package/three)
+
+[Paranoia](https://www.npmjs.com/package/paranoia)
