@@ -1441,3 +1441,19 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Suspect](https://www.npmjs.com/package/suspect)
+
+[Hosts](https://www.npmjs.com/package/hosts)
+
+[Applications](https://www.npmjs.com/package/applications)
+
+[Concurrent](https://www.npmjs.com/package/concurrent)
+
+[Max](https://www.npmjs.com/package/max)
+
+[One](https://www.npmjs.com/package/one)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Reject](https://www.npmjs.com/package/reject)
+
+[Unfair](https://www.npmjs.com/package/unfair)
