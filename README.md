@@ -930,8 +930,6 @@
 
 [Tough](https://www.npmjs.com/package/tough)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [NGO](https://www.npmjs.com/package/ngo)
 
 [Robbery](https://www.npmjs.com/package/robbery)
@@ -1026,8 +1024,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Yellow](https://www.npmjs.com/package/yellow)
 
 [Lier](https://www.npmjs.com/package/lier)
@@ -1065,8 +1061,6 @@
 [Flavors](https://www.npmjs.com/package/flavors)
 
 [MRI](https://www.npmjs.com/package/mri)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [East](https://www.npmjs.com/package/east)
 
@@ -1110,8 +1104,6 @@
 
 
 [Gold](https://www.npmjs.com/package/gold)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [disrespect](https://www.npmjs.com/package/disrespect)
 
@@ -1439,3 +1431,13 @@
 [Three](https://www.npmjs.com/package/three)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Tunnel](https://www.npmjs.com/package/tunnel)
+
+[Interview](https://www.npmjs.com/package/interview)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Suspect](https://www.npmjs.com/package/suspect)
