@@ -1412,22 +1412,6 @@
 
 [Attacking](https://www.npmjs.com/package/attacking)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Instance](https://www.npmjs.com/package/instance)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Belong](https://www.npmjs.com/package/belong)
-
-[Yours](https://www.npmjs.com/package/yours)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Attack](https://www.npmjs.com/package/attack)
-
 [Three](https://www.npmjs.com/package/three)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -1457,3 +1441,19 @@
 [Reject](https://www.npmjs.com/package/reject)
 
 [Unfair](https://www.npmjs.com/package/unfair)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Snitch](https://www.npmjs.com/package/snitch)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Exploite](https://www.npmjs.com/package/exploite)
