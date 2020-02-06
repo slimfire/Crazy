@@ -1160,8 +1160,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Experimenting](https://www.npmjs.com/package/experimenting)
-
 [RGB](https://www.npmjs.com/package/rgb)
 
 [Exploiting](https://www.npmjs.com/package/exploiting)
@@ -1442,6 +1440,8 @@
 
 [Unfair](https://www.npmjs.com/package/unfair)
 
+[Exploite](https://www.npmjs.com/package/exploite)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
@@ -1456,4 +1456,4 @@
 
 [Then](https://www.npmjs.com/package/then)
 
-[Exploite](https://www.npmjs.com/package/exploite)
+[Attack](https://www.npmjs.com/package/attack)
