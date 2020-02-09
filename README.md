@@ -1461,3 +1461,19 @@
 [Massive](https://www.npmjs.com/package/massive)
 
 [Docker](https://www.npmjs.com/package/docker)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Delay](https://www.npmjs.com/package/delay)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Offer](https://www.npmjs.com/package/offer)
+
+[Time](https://www.npmjs.com/package/time)
+
+[Over](https://www.npmjs.com/package/over)
+
+[Then](https://www.npmjs.com/package/offer)
+
+[Offer](https://www.npmjs.com/package/offer)
