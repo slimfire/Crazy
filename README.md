@@ -1474,6 +1474,12 @@
 
 [Passed](https://www.npmjs.com/package/passed)
 
-[Then](https://www.npmjs.com/package/offer)
+[Then](https://www.npmjs.com/package/then)
 
 [Offer](https://www.npmjs.com/package/offer)
+
+[Flag](https://www.npmjs.com/package/flag)
+
+[Logout](https://www.npmjs.com/package/logout)
+
+[Fam](https://www.npmjs.com/package/fam)
