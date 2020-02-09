@@ -1472,7 +1472,7 @@
 
 [Time](https://www.npmjs.com/package/time)
 
-[Over](https://www.npmjs.com/package/over)
+[Passed](https://www.npmjs.com/package/passed)
 
 [Then](https://www.npmjs.com/package/offer)
 
