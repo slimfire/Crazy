@@ -1487,3 +1487,7 @@
 [Breath](https://www.npmjs.com/package/breath)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Name](https://www.npmjs.com/package/name)
+
+[Yours](https://www.npmjs.com/package/yours)
