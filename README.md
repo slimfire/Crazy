@@ -1468,6 +1468,14 @@
 
 [Hiding](https://www.npmjs.com/package/hiding)
 
+[Breath](https://www.npmjs.com/package/breath)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Name](https://www.npmjs.com/package/name)
+
+[Yours](https://www.npmjs.com/package/yours)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
@@ -1482,12 +1490,6 @@
 
 [Then](https://www.npmjs.com/package/then)
 
-[Attack](https://www.npmjs.com/package/attack)
+[Experiment](https://www.npmjs.com/package/experiment)
 
-[Breath](https://www.npmjs.com/package/breath)
-
-[Yours](https://www.npmjs.com/package/yours)
-
-[Name](https://www.npmjs.com/package/name)
-
-[Yours](https://www.npmjs.com/package/yours)
+[Attacks](https://www.npmjs.com/package/attacks)
