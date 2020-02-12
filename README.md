@@ -1304,14 +1304,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Job](https://www.npmjs.com/package/job)
-
-[Posting](https://www.npmjs.com/package/posting)
-
-[Hiding](https://www.npmjs.com/package/hide)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [Car](https://www.npmjs.com/package/car)
@@ -1483,3 +1475,11 @@
 [Logout](https://www.npmjs.com/package/logout)
 
 [Fam](https://www.npmjs.com/package/fam)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Posting](https://www.npmjs.com/package/posting)
+
+[Manufacturing](https://www.npmjs.com/package/manufacturing)
