@@ -1482,4 +1482,4 @@
 
 [Posting](https://www.npmjs.com/package/posting)
 
-[Manufacturing](https://www.npmjs.com/package/manufacturing)
+[Hiding](https://www.npmjs.com/package/hiding)
