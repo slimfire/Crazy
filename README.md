@@ -1410,10 +1410,6 @@
 
 [Interview](https://www.npmjs.com/package/interview)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [Suspect](https://www.npmjs.com/package/suspect)
 
 [Hosts](https://www.npmjs.com/package/hosts)
@@ -1493,3 +1489,11 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Report](https://www.npmjs.com/package/report)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
