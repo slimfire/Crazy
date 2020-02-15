@@ -1497,3 +1497,13 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Applications](https://www.npmjs.com/package/applications)
+
+[Content](https://www.npmjs.com/package/content)
+
+[Misleading](https://www.npmjs.com/package/misleading)
