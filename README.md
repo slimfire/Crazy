@@ -1472,14 +1472,6 @@
 
 [Yours](https://www.npmjs.com/package/yours)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Report](https://www.npmjs.com/package/report)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
@@ -1507,3 +1499,11 @@
 [Editing](https://www.npmjs.com/package/editing)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Report](https://www.npmjs.com/package/report)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
