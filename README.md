@@ -1500,10 +1500,10 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Job](https://www.npmjs.com/package/job)
+[Message](https://www.npmjs.com/package/message)
 
-[Applications](https://www.npmjs.com/package/applications)
+[Digital](https://www.npmjs.com/package/digital)
 
-[Content](https://www.npmjs.com/package/content)
+[Editing](https://www.npmjs.com/package/editing)
 
-[Misleading](https://www.npmjs.com/package/misleading)
+[Yours](https://www.npmjs.com/package/yours)
