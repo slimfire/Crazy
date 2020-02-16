@@ -1472,24 +1472,6 @@
 
 [Yours](https://www.npmjs.com/package/yours)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Instance](https://www.npmjs.com/package/instance)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Belong](https://www.npmjs.com/package/belong)
-
-[Yours](https://www.npmjs.com/package/yours)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Experiment](https://www.npmjs.com/package/experiment)
-
-[Attacks](https://www.npmjs.com/package/attacks)
-
 [Message](https://www.npmjs.com/package/message)
 
 [Digital](https://www.npmjs.com/package/digital)
@@ -1509,3 +1491,37 @@
 [Analytics](https://www.npmjs.com/package/analytics)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Show](https://www.npmjs.com/package/show)
+
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[When](https://www.npmjs.com/package/when)
+
+[Alone](https://www.npmjs.com/package/alone)
+
+[Experiment](https://www.npmjs.com/package/experiment)
+
+[Attacks](https://www.npmjs.com/package/attacks)
