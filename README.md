@@ -1490,15 +1490,11 @@
 
 [Attacks](https://www.npmjs.com/package/attacks)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Message](https://www.npmjs.com/package/message)
 
 [Digital](https://www.npmjs.com/package/digital)
 
 [Editing](https://www.npmjs.com/package/editing)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
@@ -1507,3 +1503,9 @@
 [Report](https://www.npmjs.com/package/report)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Analytics](https://www.npmjs.com/package/analytics)
+
+[Yours](https://www.npmjs.com/package/yours)
