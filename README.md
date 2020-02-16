@@ -1478,14 +1478,6 @@
 
 [Editing](https://www.npmjs.com/package/editing)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Report](https://www.npmjs.com/package/report)
-
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Analytics](https://www.npmjs.com/package/analytics)
@@ -1525,3 +1517,11 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Report](https://www.npmjs.com/package/report)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
