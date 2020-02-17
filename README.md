@@ -1546,12 +1546,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
-[Net](https://www.npmjs.com/package/net)
-
-[Paranoia](https://www.npmjs.com/package/paranoia)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Team](https://www.npmjs.com/package/team)
