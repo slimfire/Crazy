@@ -1400,8 +1400,6 @@
 
 [Overdue](https://www.npmjs.com/package/overdue)
 
-[Attacking](https://www.npmjs.com/package/attacking)
-
 [Three](https://www.npmjs.com/package/three)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
@@ -1526,8 +1524,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Show](https://www.npmjs.com/package/show)
 
 [Shiny](https://www.npmjs.com/package/shiny)
@@ -1555,3 +1551,11 @@
 [Net](https://www.npmjs.com/package/net)
 
 [Paranoia](https://www.npmjs.com/package/paranoia)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Yours](https://www.npmjs.com/package/your)
+
+[Attack](https://www.npmjs.com/package/attack)
