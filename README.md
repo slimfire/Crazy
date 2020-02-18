@@ -1524,6 +1524,16 @@
 
 [Attack](https://www.npmjs.com/package/attack)
 
+[Then](https://www.npmjs.com/package/then)
+
+[When](https://www.npmjs.com/package/when)
+
+[Alone](https://www.npmjs.com/package/alone)
+
+[Experiment](https://www.npmjs.com/package/experiment)
+
+[Attacks](https://www.npmjs.com/package/attacks)
+
 [Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
@@ -1550,10 +1560,8 @@
 
 [Then](https://www.npmjs.com/package/then)
 
-[When](https://www.npmjs.com/package/when)
+[Cirlcle](https://www.npmjs.com/package/circle)
 
-[Alone](https://www.npmjs.com/package/alone)
+[Then](https://www.npmjs.com/package/then)
 
-[Experiment](https://www.npmjs.com/package/experiment)
-
-[Attacks](https://www.npmjs.com/package/attacks)
+[Fight](https://www.npmjs.com/package/fight)
