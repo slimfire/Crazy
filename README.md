@@ -1516,12 +1516,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Yours](https://www.npmjs.com/package/your)
-
 [Attack](https://www.npmjs.com/package/attack)
 
 [Then](https://www.npmjs.com/package/then)
@@ -1571,3 +1565,15 @@
 [Messages](https://www.npmjs.com/package/messages)
 
 [Bombard](https://www.npmjs.com/package/bombard)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Experiment](https://www.npmjs.com/package/experiment)
+
+[Attacks](https://www.npmjs.com/package/attacks)
+
+[RGB](https://www.npmjs.com/package/RGB)
