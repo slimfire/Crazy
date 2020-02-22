@@ -662,8 +662,6 @@
 
 [Stream](https://www.npmjs.com/package/stream)
 
-[Job](https://www.npmjs.com/package/job)
-
 [Provision](https://www.npmjs.com/package/provision)
 
 [Temp](https://www.npmjs.com/package/temp)
@@ -1412,8 +1410,6 @@
 
 [Hosts](https://www.npmjs.com/package/hosts)
 
-[Applications](https://www.npmjs.com/package/applications)
-
 [Concurrent](https://www.npmjs.com/package/concurrent)
 
 [Max](https://www.npmjs.com/package/max)
@@ -1460,8 +1456,6 @@
 
 [Posting](https://www.npmjs.com/package/posting)
 
-[Hiding](https://www.npmjs.com/package/hiding)
-
 [Breath](https://www.npmjs.com/package/breath)
 
 [Yours](https://www.npmjs.com/package/yours)
@@ -1471,8 +1465,6 @@
 [Yours](https://www.npmjs.com/package/yours)
 
 [Message](https://www.npmjs.com/package/message)
-
-[Digital](https://www.npmjs.com/package/digital)
 
 [Editing](https://www.npmjs.com/package/editing)
 
@@ -1554,8 +1546,6 @@
 
 [RGB](https://www.npmjs.com/package/RGB)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Instance](https://www.npmjs.com/package/instance)
 
 [Investment](https://www.npmjs.com/package/investment)
@@ -1583,3 +1573,19 @@
 [Investment](https://www.npmjs.com/package/investment)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Changing](https://www.npmjs.com/package/changing)
+
+[And](https://www.npmjs.com/package/and)
+
+[Hiding](https://www.npmjs.com/package/hiding)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Application](https://www.npmjs.com/package/application)
+
+[Digital](https://www.npmjs.com/package/digital)
+
+[Content](https://www.npmjs.com/package/content)
