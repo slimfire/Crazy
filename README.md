@@ -1560,22 +1560,6 @@
 
 [Snitch](https://www.npmjs.com/package/snitch)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Changing](https://www.npmjs.com/package/changing)
-
-[And](https://www.npmjs.com/package/and)
-
-[Hiding](https://www.npmjs.com/package/hiding)
-
-[Job](https://www.npmjs.com/package/job)
-
-[Application](https://www.npmjs.com/package/application)
-
-[Digital](https://www.npmjs.com/package/digital)
-
-[Content](https://www.npmjs.com/package/content)
-
 [Hosts](https://www.npmjs.com/package/hosts)
 
 [Concurrent](https://www.npmjs.com/package/concurrent)
@@ -1607,3 +1591,19 @@
 [Ready](https://www.npmjs.com/package/ready)
 
 [Unfair](https://www.npmjs.com/package/unfair)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Changing](https://www.npmjs.com/package/changing)
+
+[And](https://www.npmjs.com/package/and)
+
+[Hiding](https://www.npmjs.com/package/hiding)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Application](https://www.npmjs.com/package/application)
+
+[Digital](https://www.npmjs.com/package/digital)
+
+[Content](https://www.npmjs.com/package/content)
