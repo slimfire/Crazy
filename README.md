@@ -1607,3 +1607,7 @@
 [Digital](https://www.npmjs.com/package/digital)
 
 [Content](https://www.npmjs.com/package/content)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
