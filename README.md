@@ -1144,8 +1144,6 @@
 
 [Bordem](https://www.npmjs.com/package/
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Hustler](https://www.npmjs.com/package/hustler)
 
 [Allnighter](https://www.npmjs.com/package/all-nighter)
@@ -1470,8 +1468,6 @@
 
 [Report](https://www.npmjs.com/package/report)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
 [Show](https://www.npmjs.com/package/show)
 
 [Shiny](https://www.npmjs.com/package/shiny)
@@ -1645,3 +1641,7 @@
 [Reject](https://www.npmjs.com/package/reject)
 
 [Unfair](https://www.npmjs.com/package/unfair)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
