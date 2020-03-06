@@ -1506,29 +1506,11 @@
 
 [RGB](https://www.npmjs.com/package/RGB)
 
-[Instance](https://www.npmjs.com/package/instance)
-
 [Investment](https://www.npmjs.com/package/investment)
 
 [Team](https://www.npmjs.com/package/team)
 
 [Yours](https://www.npmjs.com/package/yours)
-
-[Show](https://www.npmjs.com/package/show)
-
-[Shiny](https://www.npmjs.com/package/shiny)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Connections](https://www.npmjs.com/package/connections)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
 
 [Investment](https://www.npmjs.com/package/investment)
 
@@ -1624,18 +1606,36 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
+[Instance](https://www.npmjs.com/package/instance)
+
 [Team](https://www.npmjs.com/package/team)
 
 [Belong](https://www.npmjs.com/package/belong)
 
 [Yours](https://www.npmjs.com/package/your)
 
-[When](https://www.npmjs.com/package/when)
+[Show](https://www.npmjs.com/package/show)
 
-[Alone](https://www.npmjs.com/package/alone)
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Public](https://www.npmjs.com/package/public)
+
+[Anonymous](https://www.npmjs.com/package/anonymous)
+
+[And](https://www.npmjs.com/package/and)
+
+[Distributed](https://www.npmjs.com/package/distributed)
 
 [Experiment](https://www.npmjs.com/package/experiment)
-
-[Heart](https://www.npmjs.com/package/heart)
 
 [Attacks](https://www.npmjs.com/package/attacks)
