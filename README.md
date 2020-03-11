@@ -1639,3 +1639,9 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Feedback](https://www.npmjs.com/package/feedback)
+
+[Yours](https://www.npmjs.com/package/yours)
