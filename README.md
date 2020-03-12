@@ -314,8 +314,6 @@
 
 [Open](https://www.npmjs.com/package/open)
 
-[Central](https://www.npmjs.com/package/central)
-
 [Push](https://www.npmjs.com/package/push)
 
 [EMC](https://www.npmjs.com/package/emc)
@@ -1640,8 +1638,12 @@
 
 [Attacks](https://www.npmjs.com/package/attacks)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Centralize](https://www.npmjs.com/package/centralize)
+
+[Bust](https://www.npmjs.com/package/bust)
