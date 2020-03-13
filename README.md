@@ -1020,8 +1020,6 @@
 
 [Logout](https://www.npmjs.com/package/logout)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
 [Lier](https://www.npmjs.com/package/lier)
 
 [Odor](https://www.npmjs.com/package/odor)
@@ -1643,6 +1641,8 @@
 [Yours](https://www.npmjs.com/package/yours)
 
 [Centralize](https://www.npmjs.com/package/centralize)
+
+[Yellow](https://www.npmjs.com/package/yellow)
 
 [Vote](https://www.npmjs.com/package/vote)
 
