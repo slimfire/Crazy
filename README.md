@@ -1642,8 +1642,12 @@
 
 [Yours](https://www.npmjs.com/package/yours)
 
+[Centralize](https://www.npmjs.com/package/centralize)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Centralize](https://www.npmjs.com/package/centralize)
+[Virus](https://www.npmjs.com/package/virus)
+
+[Hype](https://www.npmjs.com/package/hype)
 
 [Bust](https://www.npmjs.com/package/bust)
