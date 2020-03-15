@@ -1608,8 +1608,6 @@
 
 [Belong](https://www.npmjs.com/package/belong)
 
-[Yours](https://www.npmjs.com/package/your)
-
 [Show](https://www.npmjs.com/package/show)
 
 [Shiny](https://www.npmjs.com/package/shiny)
@@ -1644,10 +1642,14 @@
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Virus](https://www.npmjs.com/package/virus)
 
 [Hype](https://www.npmjs.com/package/hype)
 
 [Bust](https://www.npmjs.com/package/bust)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Deep](https://www.npmjs.com/package/deep)
+
+[Yours](https://www.npmjs.com/package/your)
