@@ -294,8 +294,6 @@
 
 [Push](https://www.npmjs.com/package/push)
 
-[Management](https://www.npmjs.com/package/management)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Notice](https://www.npmjs.com/package/notice)
@@ -1142,8 +1140,6 @@
 
 [Institute](https://www.npmjs.com/package/institute)
 
-[Yellow](https://www.npmjs.com/package/yellow)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Card](https://www.npmjs.com/package/card)
@@ -1558,10 +1554,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
-
-[Vote](https://www.npmjs.com/package/vote)
-
 [Host](https://www.npmjs.com/package/host)
 
 [X](https://www.npmjs.com/package/x)
@@ -1646,10 +1638,16 @@
 
 [Deep](https://www.npmjs.com/package/deep)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Family](https://www.npmjs.com/package/family)
 
 [Yours](https://www.npmjs.com/package/your)
 
 [Split](https://www.npmjs.com/package/split)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Manager](https://www.npmjs.com/package/manager)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
