@@ -706,8 +706,6 @@
 
 [Adopted](https://www.npmjs.com/package/adopted)
 
-[Split](https://www.npmjs.com/package/split)
-
 [Mom](https://www.npmjs.com/package/mom)
 
 [Split](https://www.npmjs.com/package/split)
@@ -995,8 +993,6 @@
 [Voice](https://www.npmjs.com/package/voice)
 
 [Raise](https://www.npmjs.com/package/raise)
-
-[Family](https://www.npmjs.com/package/family)
 
 [Gateway](https://www.npmjs.com/package/gateway)
 
@@ -1648,8 +1644,12 @@
 
 [Bust](https://www.npmjs.com/package/bust)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Deep](https://www.npmjs.com/package/deep)
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Family](https://www.npmjs.com/package/family)
+
 [Yours](https://www.npmjs.com/package/your)
+
+[Split](https://www.npmjs.com/package/split)
