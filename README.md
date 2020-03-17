@@ -350,8 +350,6 @@
 
 [Zoom](https://www.npmjs.com/package/zoom)
 
-[Duo](https://www.npmjs.com/package/duo)
-
 [Arm](https://www.npmjs.com/package/arm)
 
 [Movement](https://www.npmjs.com/package/movement)
@@ -1430,8 +1428,6 @@
 
 [Breath](https://www.npmjs.com/package/breath)
 
-[Yours](https://www.npmjs.com/package/yours)
-
 [Name](https://www.npmjs.com/package/name)
 
 [Yours](https://www.npmjs.com/package/yours)
@@ -1646,8 +1642,12 @@
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Manager](https://www.npmjs.com/package/manager)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Duo](https://www.npmjs.com/package/duo)
+
+[Yours](https://www.npmjs.com/package/yours)
