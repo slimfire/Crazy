@@ -1117,10 +1117,7 @@
 
 [xx](https://www.npmjs.com/package/xx)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Huge](https://www.npmjs.com/package/huge)
-
 
 [Opportunity](https://www.npmjs.com/package/opportunity)
 
@@ -1644,10 +1641,10 @@
 
 [Manager](https://www.npmjs.com/package/manager)
 
-[Sabotage](https://www.npmjs.com/package/sabotage)
+[Duo](https://www.npmjs.com/package/duo)
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Duo](https://www.npmjs.com/package/duo)
+[Interaction](https://www.npmjs.com/package/interaction)
 
 [Yours](https://www.npmjs.com/package/yours)
