@@ -1139,8 +1139,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[RGB](https://www.npmjs.com/package/rgb)
-
 [Exploiting](https://www.npmjs.com/package/exploiting)
 
 [Node](https://www.npmjs.com/package/node)
@@ -1581,40 +1579,6 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Instance](https://www.npmjs.com/package/instance)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Belong](https://www.npmjs.com/package/belong)
-
-[Show](https://www.npmjs.com/package/show)
-
-[Shiny](https://www.npmjs.com/package/shiny)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Connections](https://www.npmjs.com/package/connections)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Public](https://www.npmjs.com/package/public)
-
-[Anonymous](https://www.npmjs.com/package/anonymous)
-
-[And](https://www.npmjs.com/package/and)
-
-[Distributed](https://www.npmjs.com/package/distributed)
-
-[Experiment](https://www.npmjs.com/package/experiment)
-
-[Attacks](https://www.npmjs.com/package/attacks)
-
 [Feedback](https://www.npmjs.com/package/feedback)
 
 [Yours](https://www.npmjs.com/package/yours)
@@ -1650,3 +1614,40 @@
 [Politics](https://www.npmjs.com/package/politics)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Show](https://www.npmjs.com/package/show)
+
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Public](https://www.npmjs.com/package/public)
+
+[Anonymous](https://www.npmjs.com/package/anonymous)
+
+[And](https://www.npmjs.com/package/and)
+
+[Distributed](https://www.npmjs.com/package/distributed)
+
+[Experiment](https://www.npmjs.com/package/experiment)
+
+[Attacks](https://www.npmjs.com/package/attacks)
+
+[RGB](https://www.npmjs.com/package/rgb)
