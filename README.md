@@ -1615,6 +1615,7 @@
 
 [Yours](https://www.npmjs.com/package/yours)
 
+[RGB](https://www.npmjs.com/package/rgb)
 
 [Vote](https://www.npmjs.com/package/vote)
 
@@ -1649,5 +1650,3 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
-
-[RGB](https://www.npmjs.com/package/rgb)
