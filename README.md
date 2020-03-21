@@ -1617,8 +1617,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Instance](https://www.npmjs.com/package/instance)
 
 [Team](https://www.npmjs.com/package/team)
@@ -1650,3 +1648,9 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Comfort](https://www.npmjs.com/package/comfort)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
