@@ -568,8 +568,6 @@
 
 [Highlights](https://www.npmjs.com/package/highlights)
 
-[Health](https://www.npmjs.com/package/health)
-
 [Mirror](https://www.npmjs.com/package/mirror)
 
 [Knowabout](https://www.npmjs.com/package/knowabout)
@@ -1649,8 +1647,10 @@
 
 [Attacks](https://www.npmjs.com/package/attacks)
 
+[Comfort](https://www.npmjs.com/package/comfort)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[Comfort](https://www.npmjs.com/package/comfort)
+[Health](https://www.npmjs.com/package/health)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
