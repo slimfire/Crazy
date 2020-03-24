@@ -1091,8 +1091,6 @@
 
 [disrespect](https://www.npmjs.com/package/disrespect)
 
-[First](https://www.npmjs.com/package/first)
-
 [Paranoia](https://www.npmjs.com/package/paranoia)
 
 [Hybrid](https://www.npmjs.com/package/hybrid)
@@ -1649,12 +1647,14 @@
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Hero](https://www.npmjs.com/package/hero)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Ohio](https://www.npmjs.com/package/ohio)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[First](https://www.npmjs.com/package/first)
+
+[Yours](https://www.npmjs.com/package/yours)
