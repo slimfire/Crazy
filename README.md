@@ -1359,8 +1359,6 @@
 
 [cto](https://www.npmjs.com/package/cto)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [Blocker](https://www.npmjs.com/package/blocker)
@@ -1656,3 +1654,7 @@
 [Hero](https://www.npmjs.com/package/hero)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Ohio](https://www.npmjs.com/package/ohio)
+
+[Ready](https://www.npmjs.com/package/ready)
