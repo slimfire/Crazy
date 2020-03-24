@@ -1595,8 +1595,6 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Yours](https://www.npmjs.com/package/your)
-
 [Split](https://www.npmjs.com/package/split)
 
 [Yellow](https://www.npmjs.com/package/yellow)
@@ -1649,8 +1647,12 @@
 
 [Comfort](https://www.npmjs.com/package/comfort)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Health](https://www.npmjs.com/package/health)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Hero](https://www.npmjs.com/package/hero)
+
+[Yours](https://www.npmjs.com/package/yours)
