@@ -1658,3 +1658,9 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Cert](https://www.npmjs.com/package/cert)
+
+[AI](https://www.npmjs.com/package/ai)
+
+[Bust](https://www.npmjs.com/package/bust)
