@@ -1664,7 +1664,3 @@
 [Health](https://www.npmjs.com/package/health)
 
 [Sabotage](https://www.npmjs.com/package/sabotage)
-
-[sdn](https://www.npmjs.com/package/sdn)
-
-[Ready](https://www.npmjs.com/package/ready)
