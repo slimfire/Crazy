@@ -1684,3 +1684,7 @@
 [Left](https://www.npmjs.com/package/left)
 
 [Right](https://www.npmjs.com/package/right)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
