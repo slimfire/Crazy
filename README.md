@@ -1667,10 +1667,20 @@
 
 [sdn](https://www.npmjs.com/package/sdn)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
 [aws](https://www.npmjs.com/package/aws)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Digital](https://www.npmjs.com/package/digital)
+
+[Content](https://www.npmjs.com/package/content)
+
+[Change](https://www.npmjs.com/package/change)
+
+[Mislead](https://www.npmjs.com/package/mislead)
+
+[Left](https://www.npmjs.com/package/left)
+
+[Right](https://www.npmjs.com/package/right)
