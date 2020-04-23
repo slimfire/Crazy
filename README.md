@@ -1692,3 +1692,9 @@
 [cso](https://www.npmjs.com/package/cso)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Docker](https://www.npmjs.com/package/docker)
+
+[onpermise](https://www.npmjs.com/package/onpermise)
+
+[Ready](https://www.npmjs.com/package/ready)
