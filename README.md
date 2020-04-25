@@ -1683,10 +1683,6 @@
 
 [aws](https://www.npmjs.com/package/aws)
 
-[Via](https://www.npmjs.com/package/via)
-
-[cso](https://www.npmjs.com/package/cso)
-
 [Ready](https://www.npmjs.com/package/ready)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -1698,3 +1694,9 @@
 [Admin](https://www.npmjs.com/package/admin)
 
 [Help](https://www.npmjs.com/package/help)
+
+[xy](https://www.npmjs.com/package/xy)
+
+[Via](https://www.npmjs.com/package/via)
+
+[cso](https://www.npmjs.com/package/cso)
