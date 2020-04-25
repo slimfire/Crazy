@@ -1681,10 +1681,6 @@
 
 [Right](https://www.npmjs.com/package/right)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
 [aws](https://www.npmjs.com/package/aws)
 
 [Via](https://www.npmjs.com/package/via)
@@ -1698,3 +1694,7 @@
 [onpermise](https://www.npmjs.com/package/onpermise)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
