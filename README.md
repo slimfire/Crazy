@@ -1704,3 +1704,7 @@
 [Domain](https://www.npmjs.com/package/domain)
 
 [Security](https://www.npmjs.com/package/security)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Loner](https://www.npmjs.com/package/loner)
