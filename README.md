@@ -1708,3 +1708,5 @@
 [cso](https://www.npmjs.com/package/cso)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Talk](https://www.npmjs.com/package/talk)
