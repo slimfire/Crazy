@@ -1689,13 +1689,9 @@
 
 [onpermise](https://www.npmjs.com/package/onpermise)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [Via](https://www.npmjs.com/package/via)
-
-[cso](https://www.npmjs.com/package/cso)
 
 [Domain](https://www.npmjs.com/package/domain)
 
@@ -1708,3 +1704,7 @@
 [Admin](https://www.npmjs.com/package/admin)
 
 [Help](https://www.npmjs.com/package/help)
+
+[cso](https://www.npmjs.com/package/cso)
+
+[Ready](https://www.npmjs.com/package/ready)
