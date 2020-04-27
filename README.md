@@ -1691,10 +1691,6 @@
 
 [Ready](https://www.npmjs.com/package/ready)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [Via](https://www.npmjs.com/package/via)
@@ -1708,3 +1704,7 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [Loner](https://www.npmjs.com/package/loner)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
