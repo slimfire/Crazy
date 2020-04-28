@@ -1429,8 +1429,6 @@
 
 [Analytics](https://www.npmjs.com/package/analytics)
 
-[Yours](https://www.npmjs.com/package/yours)
-
 [When](https://www.npmjs.com/package/when)
 
 [Alone](https://www.npmjs.com/package/alone)
@@ -1710,3 +1708,45 @@
 [Admin](https://www.npmjs.com/package/admin)
 
 [Help](https://www.npmjs.com/package/help)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Show](https://www.npmjs.com/package/show)
+
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Promote](https://www.npmjs.com/package/promote)
+
+[And](https://www.npmjs.com/package/and)
+
+[Hire](https://www.npmjs.com/package/hire)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Opportunities](https://www.npmjs.com/package/opportunities)
+
+[Sabotage](https://www.npmjs.com/package/sabotage)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Bills](https://www.npmjs.com/package/bills)
+
+[Charge](https://www.npmjs.com/package/charge)
