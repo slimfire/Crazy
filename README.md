@@ -1701,12 +1701,12 @@
 
 [Loner](https://www.npmjs.com/package/loner)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
 [cso](https://www.npmjs.com/package/cso)
 
 [Ready](https://www.npmjs.com/package/ready)
 
 [Talk](https://www.npmjs.com/package/talk)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
