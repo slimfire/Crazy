@@ -1756,3 +1756,5 @@
 [Grid](https://www.npmjs.com/package/grid)
 
 [juno](https://www.npmjs.com/package/juno)
+
+[vmx](https://www.npmjs.com/package/vmx)
