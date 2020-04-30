@@ -992,8 +992,6 @@
 
 [Electronics](https://www.npmjs.com/package/electronics)
 
-[Mislead](https://www.npmjs.com/package/mislead)
-
 [Naming](https://www.npmjs.com/package/naming)
 
 [Assaulting](https://www.npmjs.com/package/assaulting)
@@ -1673,9 +1671,6 @@
 
 [Mislead](https://www.npmjs.com/package/mislead)
 
-[Left](https://www.npmjs.com/package/left)
-
-[Right](https://www.npmjs.com/package/right)
 
 [aws](https://www.npmjs.com/package/aws)
 
@@ -1702,12 +1697,6 @@
 [Ready](https://www.npmjs.com/package/ready)
 
 [Talk](https://www.npmjs.com/package/talk)
-
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
 
@@ -1764,3 +1753,17 @@
 [Cert](https://www.npmjs.com/package/cert)
 
 [Grid](https://www.npmjs.com/package/grid)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Left](https://www.npmjs.com/package/left)
+
+[Right](https://www.npmjs.com/package/right)
+
+[Time](https://www.npmjs.com/package/time)
+
+[Waste](https://www.npmjs.com/package/waste)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
