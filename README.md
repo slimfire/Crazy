@@ -620,8 +620,6 @@
 
 [Breach](https://www.npmjs.com/package/breach)
 
-[Grid](https://www.npmjs.com/package/grid)
-
 [Community](https://www.npmjs.com/package/community)
 
 [Event](https://www.npmjs.com/package/event)
@@ -1764,3 +1762,5 @@
 [Biz](https://www.npmjs.com/package/biz)
 
 [Cert](https://www.npmjs.com/package/cert)
+
+[Grid](https://www.npmjs.com/package/grid)
