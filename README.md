@@ -1770,4 +1770,6 @@
 
 [websec](https://www.npmjs.com/package/websec)
 
-[opportunity](https://www.npmjs.com/package/opportunity)
+[fam](https://www.npmjs.com/package/fam)
+
+[job](https://www.npmjs.com/package/job)
