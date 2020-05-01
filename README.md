@@ -1773,3 +1773,5 @@
 [fam](https://www.npmjs.com/package/fam)
 
 [job](https://www.npmjs.com/package/job)
+
+[ceo](https://www.npmjs.com/package/ceo)
