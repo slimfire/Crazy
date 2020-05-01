@@ -1769,3 +1769,5 @@
 [Help](https://www.npmjs.com/package/help)
 
 [websec](https://www.npmjs.com/package/websec)
+
+[opportunity](https://www.npmjs.com/package/opportunity)
