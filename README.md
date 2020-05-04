@@ -1776,4 +1776,6 @@
 
 [ceo](https://www.npmjs.com/package/ceo)
 
+[sec](https://www.npmjs.com/package/sec)
+
 [clearance](https://www.npmjs.com/package/clearance)
