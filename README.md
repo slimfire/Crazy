@@ -1764,10 +1764,6 @@
 
 [Waste](https://www.npmjs.com/package/waste)
 
-[Admin](https://www.npmjs.com/package/admin)
-
-[Help](https://www.npmjs.com/package/help)
-
 [websec](https://www.npmjs.com/package/websec)
 
 [fam](https://www.npmjs.com/package/fam)
@@ -1781,3 +1777,7 @@
 [deport](https://www.npmjs.com/package/deport)
 
 [dollar](https://www.npmjs.com/package/dollar)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
