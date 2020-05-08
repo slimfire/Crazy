@@ -1776,8 +1776,6 @@
 
 [deport](https://www.npmjs.com/package/deport)
 
-[dollar](https://www.npmjs.com/package/dollar)
-
 [Admin](https://www.npmjs.com/package/admin)
 
 [Help](https://www.npmjs.com/package/help)
