@@ -1783,3 +1783,19 @@
 [velo](https://www.npmjs.com/package/velo)
 
 [tf](https://www.npmjs.com/package/tf)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[Yellow](https://www.npmjs.com/package/yellow)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[ceo](https://www.npmjs.com/package/ceo)
+
+[Thumbsup](https://www.npmjs.com/package/thumbsup)
+
+[vote](https://www.npmjs.com/package/vote)
+
+[money](https://www.npmjs.com/package/money)
