@@ -1778,13 +1778,9 @@
 
 [Admin](https://www.npmjs.com/package/admin)
 
-[Help](https://www.npmjs.com/package/help)
-
 [velo](https://www.npmjs.com/package/velo)
 
 [tf](https://www.npmjs.com/package/tf)
-
-[Admin](https://www.npmjs.com/package/admin)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
@@ -1801,3 +1797,7 @@
 [money](https://www.npmjs.com/package/money)
 
 [fall](https://www.npmjs.com/package/fall)
+
+[Admin](https://www.npmjs.com/package/admin)
+
+[Help](https://www.npmjs.com/package/help)
