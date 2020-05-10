@@ -1758,8 +1758,6 @@
 
 [Admin](https://www.npmjs.com/package/admin)
 
-[velo](https://www.npmjs.com/package/velo)
-
 [tf](https://www.npmjs.com/package/tf)
 
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
@@ -1819,3 +1817,5 @@
 [withhold](https://www.npmjs.com/package/withhold)
 
 [Vote](https://www.npmjs.com/package/vote)
+
+[velo](https://www.npmjs.com/package/velo)
