@@ -1817,7 +1817,3 @@
 [velo](https://www.npmjs.com/package/velo)
 
 [onap](https://www.npmjs.com/package/onap)
-
-[ill](https://www.npmjs.com/package/ill)
-
-[bust](https://www.npmjs.com/package/bust)
