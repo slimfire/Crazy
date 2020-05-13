@@ -1817,3 +1817,5 @@
 [Vote](https://www.npmjs.com/package/vote)
 
 [xy](https://www.npmjs.com/package/xy)
+
+[careerless](https://www.npmjs.com/package/careerless)
