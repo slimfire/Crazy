@@ -382,8 +382,6 @@
 
 [Return](https://www.npmjs.com/package/return)
 
-[xy](https://www.npmjs.com/package/xy)
-
 [Deception](https://www.npmjs.com/package/deception)
 
 [Hotel](https://www.npmjs.com/package/hotel)
@@ -1175,8 +1173,6 @@
 
 [Start](https://www.npmjs.com/package/start)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Toys](https://www.npmjs.com/package/toys)
 
 [Transparent](https://www.npmjs.com/package/transparent)
@@ -1817,3 +1813,7 @@
 [Admin](https://www.npmjs.com/package/admin)
 
 [Help](https://www.npmjs.com/package/help)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[xy](https://www.npmjs.com/package/xy)
