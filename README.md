@@ -1137,8 +1137,6 @@
 
 [Card](https://www.npmjs.com/package/card)
 
-[Bust](https://www.npmjs.com/package/bust)
-
 [Node](https://www.npmjs.com/package/node)
 
 [Lego](https://www.npmjs.com/package/lego)
@@ -1819,3 +1817,7 @@
 [xy](https://www.npmjs.com/package/xy)
 
 [careerless](https://www.npmjs.com/package/careerless)
+
+[cocaine](https://www.npmjs.com/package/cocaine)
+
+[Bust](https://www.npmjs.com/package/bust)
