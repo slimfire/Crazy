@@ -1812,8 +1812,6 @@
 
 [Help](https://www.npmjs.com/package/help)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [xy](https://www.npmjs.com/package/xy)
 
 [careerless](https://www.npmjs.com/package/careerless)
@@ -1821,3 +1819,7 @@
 [cocaine](https://www.npmjs.com/package/cocaine)
 
 [Bust](https://www.npmjs.com/package/bust)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[revoke](https://www.npmjs.com/package/revoke)
