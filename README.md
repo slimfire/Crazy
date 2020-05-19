@@ -1052,8 +1052,6 @@
 
 [Split](https://www.npmjs.com/package/split)
 
-[Smart](https://www.npmjs.com/package/smart)
-
 [Nasty](https://www.npmjs.com/package/nasty)
 
 [Cough](https://www.npmjs.com/package/cough)
@@ -1404,8 +1402,6 @@
 [Breath](https://www.npmjs.com/package/breath)
 
 [Name](https://www.npmjs.com/package/name)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Message](https://www.npmjs.com/package/message)
 
@@ -1825,3 +1821,7 @@
 [postings](https://www.npmjs.com/package/postings)
 
 [scam](https://www.npmjs.com/package/scam)
+
+[Smart](https://www.npmjs.com/package/smart)
+
+[Yours](https://www.npmjs.com/package/yours)
