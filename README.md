@@ -1825,3 +1825,5 @@
 [Smart](https://www.npmjs.com/package/smart)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[gavel](https://www.npmjs.com/package/gavel)
