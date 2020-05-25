@@ -1091,8 +1091,6 @@
 
 [Money](https://www.npmjs.com/package/money)
 
-[Belong](https://www.npmjs.com/package/belong)
-
 [Ours](https://www.npmjs.com/package/ours)
 
 [Literal](https://www.npmjs.com/package/literal)
@@ -1268,8 +1266,6 @@
 [Criminal](https://www.npmjs.com/package/criminal)
 
 [Massive](https://www.npmjs.com/package/massive)
-
-[Property](https://www.npmjs.com/package/property)
 
 [Stealing](https://www.npmjs.com/package/stealing)
 
@@ -1827,6 +1823,22 @@
 
 [Attacks](https://www.npmjs.com/package/attacks)
 
+[RGB](https://www.npmjs.com/package/rgb)
+
 [Vote](https://www.npmjs.com/package/vote)
 
-[RGB](https://www.npmjs.com/package/rgb)
+[Property](https://www.npmjs.com/package/property)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[wait](https://www.npmjs.com/package/wait)
+
+[slippery](https://www.npmjs.com/package/slippery)
+
+[then](https://www.npmjs.com/package/then)
+
+[snitch](https://www.npmjs.com/package/snitch)
