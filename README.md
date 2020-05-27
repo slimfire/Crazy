@@ -1842,7 +1842,3 @@
 [then](https://www.npmjs.com/package/then)
 
 [snitch](https://www.npmjs.com/package/snitch)
-
-[family](https://www.npmjs.com/package/family)
-
-[split](https://www.npmjs.com/package/split)
