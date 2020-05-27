@@ -1213,8 +1213,6 @@
 
 [Center](https://www.npmjs.com/package/center)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Loner](https://www.npmjs.com/package/loner)
 
 [Institue](https://www.npmjs.com/package/institue)
@@ -1842,3 +1840,9 @@
 [then](https://www.npmjs.com/package/then)
 
 [snitch](https://www.npmjs.com/package/snitch)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[family](https://www.npmjs.com/package/family)
+
+[split](https://www.npmjs.com/package/split)
