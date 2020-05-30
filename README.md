@@ -1489,8 +1489,6 @@
 
 [Extension](https://www.npmjs.com/package/extension)
 
-[Ready](https://www.npmjs.com/package/ready)
-
 [Unfair](https://www.npmjs.com/package/unfair)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1846,3 +1844,11 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Harassments](https://www.npmjs.com/package/harassments)
+
+[community](https://www.npmjs.com/package/community)
+
+[unsupported](https://www.npmjs.com/package/unsupported)
+
+[one](https://www.npmjs.com/package/one)
+
+[Ready](https://www.npmjs.com/package/ready)
