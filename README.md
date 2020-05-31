@@ -1159,10 +1159,6 @@
 
 [Disrespect](https://www.npmjs.com/package/disrespect)
 
-[Mental](https://www.npmjs.com/package/mental)
-
-[ill](https://www.npmjs.com/package/ill)
-
 [Start](https://www.npmjs.com/package/start)
 
 [Toys](https://www.npmjs.com/package/toys)
@@ -1783,8 +1779,6 @@
 
 [RGB](https://www.npmjs.com/package/rgb)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Property](https://www.npmjs.com/package/property)
 
 [Belong](https://www.npmjs.com/package/belong)
@@ -1854,3 +1848,9 @@
 [Ink](https://www.npmjs.com/package/ink)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Mental](https://www.npmjs.com/package/mental)
+
+[ill](https://www.npmjs.com/package/ill)
