@@ -1435,8 +1435,6 @@
 
 [Belong](https://www.npmjs.com/package/belong)
 
-[Yours](https://www.npmjs.com/package/yours)
-
 [Messages](https://www.npmjs.com/package/messages)
 
 [Bombard](https://www.npmjs.com/package/bombard)
@@ -1852,3 +1850,7 @@
 [one](https://www.npmjs.com/package/one)
 
 [Ready](https://www.npmjs.com/package/ready)
+
+[Ink](https://www.npmjs.com/package/ink)
+
+[Yours](https://www.npmjs.com/package/yours)
