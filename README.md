@@ -1854,3 +1854,5 @@
 [Mental](https://www.npmjs.com/package/mental)
 
 [ill](https://www.npmjs.com/package/ill)
+
+[name](https://www.npmjs.com/package/name)
