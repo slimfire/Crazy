@@ -1691,8 +1691,6 @@
 
 [ceo](https://www.npmjs.com/package/ceo)
 
-[clearance](https://www.npmjs.com/package/clearance)
-
 [deport](https://www.npmjs.com/package/deport)
 
 [Admin](https://www.npmjs.com/package/admin)
@@ -1856,3 +1854,5 @@
 [ill](https://www.npmjs.com/package/ill)
 
 [name](https://www.npmjs.com/package/name)
+
+[clearance](https://www.npmjs.com/package/clearance)
