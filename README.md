@@ -1856,3 +1856,5 @@
 [PhD](https://www.npmjs.com/package/phd)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[cybersec](https://www.npmjs.com/package/cybersec)
