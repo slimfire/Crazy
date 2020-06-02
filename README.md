@@ -1105,8 +1105,6 @@
 
 [Opportunity](https://www.npmjs.com/package/opportunity)
 
-[PhD](https://www.npmjs.com/package/phd)
-
 [Sneaky](https://www.npmjs.com/package/sneaky)
 
 [Institute](https://www.npmjs.com/package/institute)
@@ -1448,8 +1446,6 @@
 [Investment](https://www.npmjs.com/package/investment)
 
 [Team](https://www.npmjs.com/package/team)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Investment](https://www.npmjs.com/package/investment)
 
@@ -1856,3 +1852,7 @@
 [name](https://www.npmjs.com/package/name)
 
 [clearance](https://www.npmjs.com/package/clearance)
+
+[PhD](https://www.npmjs.com/package/phd)
+
+[Yours](https://www.npmjs.com/package/yours)
