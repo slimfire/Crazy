@@ -1856,3 +1856,5 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Harassments](https://www.npmjs.com/package/harassments)
+
+[cage](https://www.npmjs.com/package/cage)
