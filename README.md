@@ -1862,3 +1862,5 @@
 [unimaginative](https://www.npmjs.com/package/unimaginative)
 
 [Bust](https://www.npmjs.com/package/bust)
+
+[victim](https://www.npmjs.com/package/victim)
