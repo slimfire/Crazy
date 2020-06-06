@@ -1247,8 +1247,6 @@
 
 [Geek](https://www.npmjs.com/package/geek)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [Car](https://www.npmjs.com/package/car)
@@ -1468,8 +1466,6 @@
 [Duedate](https://www.npmjs.com/package/duedate)
 
 [Expired](https://www.npmjs.com/package/expired)
-
-[And](https://www.npmjs.com/package/and)
 
 [Valueless](https://www.npmjs.com/package/valueless)
 
@@ -1731,8 +1727,6 @@
 
 [applications](https://www.npmjs.com/package/applications)
 
-[hide](https://www.npmjs.com/package/hide)
-
 [and](https://www.npmjs.com/package/and)
 
 [interviews](https://www.npmjs.com/package/interviews)
@@ -1746,14 +1740,6 @@
 [Belong](https://www.npmjs.com/package/belong)
 
 [Yours](https://www.npmjs.com/package/yours)
-
-[Show](https://www.npmjs.com/package/show)
-
-[Shiny](https://www.npmjs.com/package/shiny)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Split](https://www.npmjs.com/package/split)
 
 [Then](https://www.npmjs.com/package/then)
 
@@ -1798,8 +1784,6 @@
 [Ready](https://www.npmjs.com/package/ready)
 
 [Ink](https://www.npmjs.com/package/ink)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Vote](https://www.npmjs.com/package/vote)
 
@@ -1864,3 +1848,29 @@
 [Bust](https://www.npmjs.com/package/bust)
 
 [victim](https://www.npmjs.com/package/victim)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Show](https://www.npmjs.com/package/show)
+
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Website](https://www.npmjs.com/package/website)
+
+[hide](https://www.npmjs.com/package/hide)
+
+[And](https://www.npmjs.com/package/and)
+
+[link](https://www.npmjs.com/package/link)
+
+[Redirect](https://www.npmjs.com/package/Redirect)
