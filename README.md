@@ -976,8 +976,6 @@
 
 [Feedback](https://www.npmjs.com/package/feedback)
 
-[Logout](https://www.npmjs.com/package/logout)
-
 [Voice](https://www.npmjs.com/package/voice)
 
 [Raise](https://www.npmjs.com/package/raise)
@@ -1236,8 +1234,6 @@
 [Community](https://www.npmjs.com/package/community)
 
 [Tumbsup](https://www.npmjs.com/package/thumbsup)
-
-[net](https://www.npmjs.com/package/vote)
 
 [Tumbsup](https://www.npmjs.com/package/tumbsup)
 
@@ -1874,3 +1870,7 @@
 [link](https://www.npmjs.com/package/link)
 
 [Redirect](https://www.npmjs.com/package/Redirect)
+
+[vote](https://www.npmjs.com/package/vote)
+
+[Logout](https://www.npmjs.com/package/logout)
