@@ -1594,9 +1594,6 @@
 
 [Mislead](https://www.npmjs.com/package/mislead)
 
-
-[aws](https://www.npmjs.com/package/aws)
-
 [Ready](https://www.npmjs.com/package/ready)
 
 [Docker](https://www.npmjs.com/package/docker)
@@ -1681,8 +1678,6 @@
 
 [Admin](https://www.npmjs.com/package/admin)
 
-[tf](https://www.npmjs.com/package/tf)
-
 [Thumbsup](https://www.npmjs.com/package/thumbsup)
 
 [Yellow](https://www.npmjs.com/package/yellow)
@@ -1698,10 +1693,6 @@
 [money](https://www.npmjs.com/package/money)
 
 [Vote](https://www.npmjs.com/package/vote)
-
-[velo](https://www.npmjs.com/package/velo)
-
-[onap](https://www.npmjs.com/package/onap)
 
 [Admin](https://www.npmjs.com/package/admin)
 
