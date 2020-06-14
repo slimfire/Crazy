@@ -772,8 +772,6 @@
 
 [Play](https://www.npmjs.com/package/play)
 
-[Contact](https://www.npmjs.com/package/contact)
-
 [Pandora](https://www.npmjs.com/package/pandora)
 
 [Embed](https://www.npmjs.com/package/embed)
@@ -1871,3 +1869,5 @@
 [online](https://www.npmjs.com/package/online)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Contact](https://www.npmjs.com/package/contact)
