@@ -1873,3 +1873,5 @@
 [Contact](https://www.npmjs.com/package/contact)
 
 [Information](https://www.npmjs.com/package/information)
+
+[Heart](https://www.npmjs.com/package/heart)
