@@ -1871,3 +1871,5 @@
 [Account](https://www.npmjs.com/package/Account)
 
 [Contact](https://www.npmjs.com/package/contact)
+
+[Information](https://www.npmjs.com/package/information)
