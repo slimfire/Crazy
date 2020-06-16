@@ -1875,3 +1875,5 @@
 [Mirror](https://www.npmjs.com/package/mirror)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[strike](https://www.npmjs.com/package/strike)
