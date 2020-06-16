@@ -566,8 +566,6 @@
 
 [Highlights](https://www.npmjs.com/package/highlights)
 
-[Mirror](https://www.npmjs.com/package/mirror)
-
 [Knowabout](https://www.npmjs.com/package/knowabout)
 
 [Toyota](https://www.npmjs.com/package/toyota)
@@ -1875,3 +1873,5 @@
 [online](https://www.npmjs.com/package/online)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Mirror](https://www.npmjs.com/package/mirror)
