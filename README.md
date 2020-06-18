@@ -800,8 +800,6 @@
 
 [Immediate](https://www.npmjs.com/package/immediate)
 
-[Forecast](https://www.npmjs.com/package/forecast)
-
 [Penetrate](https://www.npmjs.com/package/penetrate)
 
 [Million](https://www.npmjs.com/package/million)
@@ -1877,3 +1875,5 @@
 [Account](https://www.npmjs.com/package/Account)
 
 [Mirror](https://www.npmjs.com/package/mirror)
+
+[Forecast](https://www.npmjs.com/package/forecast)
