@@ -884,8 +884,6 @@
 
 [Job](https://www.npmjs.com/package/job)
 
-[Force](https://www.npmjs.com/package/force)
-
 [Infants](https://www.npmjs.com/package/infants)
 
 [Geek](https://www.npmjs.com/package/geek)
@@ -1877,3 +1875,5 @@
 [Forecast](https://www.npmjs.com/package/forecast)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Force](https://www.npmjs.com/package/force)
