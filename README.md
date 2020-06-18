@@ -1365,10 +1365,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Job](https://www.npmjs.com/package/job)
-
-[Posting](https://www.npmjs.com/package/posting)
-
 [Breath](https://www.npmjs.com/package/breath)
 
 [Name](https://www.npmjs.com/package/name)
@@ -1877,3 +1873,7 @@
 [Account](https://www.npmjs.com/package/Account)
 
 [Force](https://www.npmjs.com/package/force)
+
+[Job](https://www.npmjs.com/package/job)
+
+[Posting](https://www.npmjs.com/package/posting)
