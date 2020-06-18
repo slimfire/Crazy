@@ -1872,8 +1872,8 @@
 
 [online](https://www.npmjs.com/package/online)
 
-[Mirror](https://www.npmjs.com/package/mirror)
-
 [strike](https://www.npmjs.com/package/strike)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Mirror](https://www.npmjs.com/package/mirror)
