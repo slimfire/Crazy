@@ -1858,8 +1858,6 @@
 
 [Information](https://www.npmjs.com/package/information)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [online](https://www.npmjs.com/package/online)
 
 [strike](https://www.npmjs.com/package/strike)
@@ -1877,3 +1875,5 @@
 [Posting](https://www.npmjs.com/package/posting)
 
 [Grid](https://www.npmjs.com/package/grid)
+
+[Heart](https://www.npmjs.com/package/heart)
