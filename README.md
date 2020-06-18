@@ -710,8 +710,6 @@
 
 [Wedding](https://www.npmjs.com/package/wedding)
 
-[Grid](https://www.npmjs.com/package/grid)
-
 [Request](https://www.npmjs.com/package/request)
 
 [Grace](https://www.npmjs.com/package/grace)
@@ -1877,3 +1875,5 @@
 [Job](https://www.npmjs.com/package/job)
 
 [Posting](https://www.npmjs.com/package/posting)
+
+[Grid](https://www.npmjs.com/package/grid)
