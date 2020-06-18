@@ -1872,8 +1872,8 @@
 
 [strike](https://www.npmjs.com/package/strike)
 
-[Account](https://www.npmjs.com/package/Account)
-
 [Mirror](https://www.npmjs.com/package/mirror)
 
 [Forecast](https://www.npmjs.com/package/forecast)
+
+[Account](https://www.npmjs.com/package/Account)
