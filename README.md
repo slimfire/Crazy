@@ -1881,3 +1881,5 @@
 [job](https://www.npmjs.com/package/job)
 
 [last](https://www.npmjs.com/package/last)
+
+[electronics](https://www.npmjs.com/package/electronics)
