@@ -1077,8 +1077,6 @@
 
 [Husteling](https://www.npmjs.com/package/hustling)
 
-[Money](https://www.npmjs.com/package/money)
-
 [Ours](https://www.npmjs.com/package/ours)
 
 [Literal](https://www.npmjs.com/package/literal)
@@ -1883,3 +1881,5 @@
 [last](https://www.npmjs.com/package/last)
 
 [electronics](https://www.npmjs.com/package/electronics)
+
+[Money](https://www.npmjs.com/package/money)
