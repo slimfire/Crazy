@@ -214,8 +214,6 @@
 
 [Multicast](https://www.npmjs.com/package/multicast)
 
-[Dictation](https://www.npmjs.com/package/dictation)
-
 [Mine](https://www.npmjs.com/package/mine)
 
 [Proud](https://www.npmjs.com/package/proud)
@@ -1886,3 +1884,4 @@
 
 [Layoff](https://www.npmjs.com/package/layoff)
 
+[Dictation](https://www.npmjs.com/package/dictation)
