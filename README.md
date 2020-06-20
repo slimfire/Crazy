@@ -1883,3 +1883,6 @@
 [electronics](https://www.npmjs.com/package/electronics)
 
 [Money](https://www.npmjs.com/package/money)
+
+[Layoff](https://www.npmjs.com/package/layoff)
+
