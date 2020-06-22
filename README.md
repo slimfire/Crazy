@@ -1885,3 +1885,5 @@
 [Layoff](https://www.npmjs.com/package/layoff)
 
 [Dictation](https://www.npmjs.com/package/dictation)
+
+[Outage](https://www.npmjs.com/package/outage)
