@@ -1850,8 +1850,6 @@
 
 [Contact](https://www.npmjs.com/package/contact)
 
-[Information](https://www.npmjs.com/package/information)
-
 [online](https://www.npmjs.com/package/online)
 
 [strike](https://www.npmjs.com/package/strike)
@@ -1887,3 +1885,5 @@
 [Account](https://www.npmjs.com/package/Account)
 
 [Heart](https://www.npmjs.com/package/heart)
+
+[Information](https://www.npmjs.com/package/information)
