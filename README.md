@@ -1862,8 +1862,6 @@
 
 [Forecast](https://www.npmjs.com/package/forecast)
 
-[Account](https://www.npmjs.com/package/Account)
-
 [Force](https://www.npmjs.com/package/force)
 
 [Job](https://www.npmjs.com/package/job)
@@ -1887,3 +1885,5 @@
 [Dictation](https://www.npmjs.com/package/dictation)
 
 [Outage](https://www.npmjs.com/package/outage)
+
+[Account](https://www.npmjs.com/package/Account)
