@@ -1002,8 +1002,6 @@
 
 [Puls](https://www.npmjs.com/package/puls)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [Noise](https://www.npmjs.com/package/noise)
 
 [Big](https://www.npmjs.com/package/big)
@@ -1887,3 +1885,5 @@
 [Outage](https://www.npmjs.com/package/outage)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Heart](https://www.npmjs.com/package/heart)
