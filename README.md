@@ -630,8 +630,6 @@
 
 [Arrest](https://www.npmjs.com/package/arrest)
 
-[Breach](https://www.npmjs.com/package/breach)
-
 [Positive](https://www.npmjs.com/package/positive)
 
 [Fame](https://www.npmjs.com/package/fame)
@@ -1893,3 +1891,5 @@
 [Delay](https://www.npmjs.com/package/delay)
 
 [stop](https://www.npmjs.com/package/stop)
+
+[Breach](https://www.npmjs.com/package/breach)
