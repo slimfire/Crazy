@@ -1891,3 +1891,5 @@
 [Crowdstrike](https://www.npmjs.com/package/crowdstrike)
 
 [Delay](https://www.npmjs.com/package/delay)
+
+[stop](https://www.npmjs.com/package/stop)
