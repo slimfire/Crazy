@@ -1887,3 +1887,5 @@
 [Heart](https://www.npmjs.com/package/heart)
 
 [Information](https://www.npmjs.com/package/information)
+
+[Time](https://www.npmjs.com/package/time)
