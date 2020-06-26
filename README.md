@@ -1864,8 +1864,6 @@
 
 [Grid](https://www.npmjs.com/package/grid)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [job](https://www.npmjs.com/package/job)
 
 [last](https://www.npmjs.com/package/last)
@@ -1895,3 +1893,5 @@
 [Breach](https://www.npmjs.com/package/breach)
 
 [at me](https://www.npmjs.com/package/atme)
+
+[Heart](https://www.npmjs.com/package/heart)
