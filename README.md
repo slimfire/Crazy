@@ -1385,8 +1385,6 @@
 
 [Digital](https://www.npmjs.com/package/digital)
 
-[Account](https://www.npmjs.com/package/account)
-
 [Edit](https://www.npmjs.com/package/edit)
 
 [Then](https://www.npmjs.com/package/then)
@@ -1897,3 +1895,5 @@
 [Heart](https://www.npmjs.com/package/heart)
 
 [Location](https://www.npmjs.com/package/location)
+
+[Account](https://www.npmjs.com/package/account)
