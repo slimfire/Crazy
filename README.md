@@ -1895,3 +1895,5 @@
 [at me](https://www.npmjs.com/package/atme)
 
 [Heart](https://www.npmjs.com/package/heart)
+
+[Location](https://www.npmjs.com/package/location)
