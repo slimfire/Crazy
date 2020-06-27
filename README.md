@@ -1375,8 +1375,6 @@
 
 [Vote](https://www.npmjs.com/package/vote)
 
-[Report](https://www.npmjs.com/package/report)
-
 [Show](https://www.npmjs.com/package/show)
 
 [Shiny](https://www.npmjs.com/package/shiny)
@@ -1897,3 +1895,5 @@
 [Account](https://www.npmjs.com/package/account)
 
 [Heart](https://www.npmjs.com/package/heart)
+
+[Report](https://www.npmjs.com/package/report)
