@@ -1878,8 +1878,6 @@
 
 [Account](https://www.npmjs.com/package/Account)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [Information](https://www.npmjs.com/package/information)
 
 [Crowdstrike](https://www.npmjs.com/package/crowdstrike)
@@ -1897,3 +1895,5 @@
 [Location](https://www.npmjs.com/package/location)
 
 [Account](https://www.npmjs.com/package/account)
+
+[Heart](https://www.npmjs.com/package/heart)
