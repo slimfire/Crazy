@@ -1812,34 +1812,6 @@
 
 [Yours](https://www.npmjs.com/package/yours)
 
-[Show](https://www.npmjs.com/package/show)
-
-[Shiny](https://www.npmjs.com/package/shiny)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Connections](https://www.npmjs.com/package/connections)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Public](https://www.npmjs.com/package/public)
-
-[Anonymous](https://www.npmjs.com/package/anonymous)
-
-[And](https://www.npmjs.com/package/and)
-
-[Distributed](https://www.npmjs.com/package/distributed)
-
-[Experiment](https://www.npmjs.com/package/experiment)
-
-[Harassments](https://www.npmjs.com/package/harassments)
-
 [Guy](https://www.npmjs.com/package/guy)
 
 [Contact](https://www.npmjs.com/package/contact)
@@ -1899,3 +1871,31 @@
 [selfdealing](https://www.npmjs.com/package/selfdealing)
 
 [Account](https://www.npmjs.com/package/account)
+
+[Show](https://www.npmjs.com/package/show)
+
+[Shiny](https://www.npmjs.com/package/shiny)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Then](https://www.npmjs.com/package/then)
+
+[Public](https://www.npmjs.com/package/public)
+
+[Anonymous](https://www.npmjs.com/package/anonymous)
+
+[And](https://www.npmjs.com/package/and)
+
+[Distributed](https://www.npmjs.com/package/distributed)
+
+[Experiment](https://www.npmjs.com/package/experiment)
+
+[Harassments](https://www.npmjs.com/package/harassments)
