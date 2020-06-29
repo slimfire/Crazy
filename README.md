@@ -1842,8 +1842,6 @@
 
 [Layoff](https://www.npmjs.com/package/layoff)
 
-[Dictation](https://www.npmjs.com/package/dictation)
-
 [Outage](https://www.npmjs.com/package/outage)
 
 [Account](https://www.npmjs.com/package/Account)
@@ -1899,3 +1897,7 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Harassments](https://www.npmjs.com/package/harassments)
+
+[process](https://www.npmjs.com/package/process)
+
+[Dictation](https://www.npmjs.com/package/dictation)
