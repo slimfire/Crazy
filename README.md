@@ -1772,14 +1772,6 @@
 
 [victim](https://www.npmjs.com/package/victim)
 
-[Vote](https://www.npmjs.com/package/vote)
-
-[Instance](https://www.npmjs.com/package/instance)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Yours](https://www.npmjs.com/package/yours)
-
 [Show](https://www.npmjs.com/package/show)
 
 [Shiny](https://www.npmjs.com/package/shiny)
@@ -1873,32 +1865,3 @@
 [process](https://www.npmjs.com/package/process)
 
 [Dictation](https://www.npmjs.com/package/dictation)
-
-
-[Show](https://www.npmjs.com/package/show)
-
-[Shiny](https://www.npmjs.com/package/shiny)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Connections](https://www.npmjs.com/package/connections)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Then](https://www.npmjs.com/package/then)
-
-[Public](https://www.npmjs.com/package/public)
-
-[Anonymous](https://www.npmjs.com/package/anonymous)
-
-[And](https://www.npmjs.com/package/and)
-
-[Distributed](https://www.npmjs.com/package/distributed)
-
-[Experiment](https://www.npmjs.com/package/experiment)
-
-[Harassments](https://www.npmjs.com/package/harassments)
