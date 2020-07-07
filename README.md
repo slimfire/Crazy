@@ -1901,3 +1901,5 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Assaultations](https://www.npmjs.com/package/assaultations)
+
+[Intelligence](https://www.npmjs.com/package/intelligence)
