@@ -1836,8 +1836,6 @@
 
 [Outage](https://www.npmjs.com/package/outage)
 
-[Account](https://www.npmjs.com/package/Account)
-
 [Information](https://www.npmjs.com/package/information)
 
 [Crowdstrike](https://www.npmjs.com/package/crowdstrike)
@@ -1903,3 +1901,5 @@
 [Assaultations](https://www.npmjs.com/package/assaultations)
 
 [Intelligence](https://www.npmjs.com/package/intelligence)
+
+[Account](https://www.npmjs.com/package/Account)
