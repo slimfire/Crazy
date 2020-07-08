@@ -1850,8 +1850,6 @@
 
 [Location](https://www.npmjs.com/package/location)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [Report](https://www.npmjs.com/package/report)
 
 [Gap](https://www.npmjs.com/package/gap)
@@ -1903,3 +1901,5 @@
 [Intelligence](https://www.npmjs.com/package/intelligence)
 
 [Account](https://www.npmjs.com/package/Account)
+
+[Heart](https://www.npmjs.com/package/heart)
