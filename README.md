@@ -1854,8 +1854,6 @@
 
 [Gap](https://www.npmjs.com/package/gap)
 
-[selfdealing](https://www.npmjs.com/package/selfdealing)
-
 [Account](https://www.npmjs.com/package/account)
 
 [process](https://www.npmjs.com/package/process)
@@ -1905,3 +1903,5 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [harassment](https://www.npmjs.com/package/harassment)
+
+[selfdealing](https://www.npmjs.com/package/selfdealing)
