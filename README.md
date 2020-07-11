@@ -1905,3 +1905,5 @@
 [harassment](https://www.npmjs.com/package/harassment)
 
 [selfdealing](https://www.npmjs.com/package/selfdealing)
+
+[Combat](https://www.npmjs.com/package/combat)
