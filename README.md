@@ -598,8 +598,6 @@
 
 [Bombard](https://www.npmjs.com/package/bombarder)
 
-[Fam](https://www.npmjs.com/package/fam)
-
 [Unlink](https://www.npmjs.com/package/unlink)
 
 [Collapse](https://www.npmjs.com/package/collapse)
@@ -691,8 +689,6 @@
 [Adopted](https://www.npmjs.com/package/adopted)
 
 [Mom](https://www.npmjs.com/package/mom)
-
-[Split](https://www.npmjs.com/package/split)
 
 [Women](https://www.npmjs.com/package/women)
 
@@ -1071,8 +1067,6 @@
 
 [Husteling](https://www.npmjs.com/package/hustling)
 
-[Ours](https://www.npmjs.com/package/ours)
-
 [Literal](https://www.npmjs.com/package/literal)
 
 [Charge](https://www.npmjs.com/package/charge)
@@ -1246,8 +1240,6 @@
 [Oversea](https://www.npmjs.com/package/oversea)
 
 [Intern](https://www.npmjs.com/package/intern)
-
-[Vote](https://www.npmjs.com/package/vote)
 
 [Job](https://www.npmjs.com/package/job)
 
@@ -1858,8 +1850,6 @@
 
 [process](https://www.npmjs.com/package/process)
 
-[Dictation](https://www.npmjs.com/package/dictation)
-
 [Assaultations](https://www.npmjs.com/package/assaultations)
 
 [Intelligence](https://www.npmjs.com/package/intelligence)
@@ -1909,3 +1899,13 @@
 [Sleep](https://www.npmjs.com/package/sleep)
 
 [harassment](https://www.npmjs.com/package/harassment)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Ours](https://www.npmjs.com/package/ours)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Dictation](https://www.npmjs.com/package/dictation)
