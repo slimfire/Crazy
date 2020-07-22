@@ -390,8 +390,6 @@
 
 [Manipulate](https://www.npmjs.com/package/manipulate)
 
-[Connections](https://www.npmjs.com/package/connections)
-
 [Photo](https://www.npmjs.com/package/photo)
 
 [Soda](https://www.npmjs.com/package/soda)
@@ -1048,12 +1046,9 @@
 
 [Family](https://www.npmjs.com/package/family)
 
-[Snitch](https://www.npmjs.com/package/snitch)
-
 [Institute](https://www.npmjs.com/package/institute)
 
 [Beer](https://www.npmjs.com/package/beer)
-
 
 [Gold](https://www.npmjs.com/package/gold)
 
@@ -1403,8 +1398,6 @@
 
 [Investment](https://www.npmjs.com/package/investment)
 
-[Team](https://www.npmjs.com/package/team)
-
 [Investment](https://www.npmjs.com/package/investment)
 
 [Snitch](https://www.npmjs.com/package/snitch)
@@ -1490,8 +1483,6 @@
 [Sabotage](https://www.npmjs.com/package/sabotage)
 
 [Feedback](https://www.npmjs.com/package/feedback)
-
-[Yours](https://www.npmjs.com/package/yours)
 
 [Centralize](https://www.npmjs.com/package/centralize)
 
@@ -1685,8 +1676,6 @@
 [interviews](https://www.npmjs.com/package/interviews)
 
 [withhold](https://www.npmjs.com/package/withhold)
-
-[Instance](https://www.npmjs.com/package/instance)
 
 [Team](https://www.npmjs.com/package/team)
 
@@ -1900,8 +1889,6 @@
 
 [harassment](https://www.npmjs.com/package/harassment)
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Fam](https://www.npmjs.com/package/fam)
 
 [Ours](https://www.npmjs.com/package/ours)
@@ -1909,3 +1896,15 @@
 [Split](https://www.npmjs.com/package/split)
 
 [Dictation](https://www.npmjs.com/package/dictation)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Yours](https://www.npmjs.com/package/yours)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Snitch](https://www.npmjs.com/package/snitch)
