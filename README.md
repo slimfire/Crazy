@@ -1845,8 +1845,6 @@
 
 [Account](https://www.npmjs.com/package/Account)
 
-[Heart](https://www.npmjs.com/package/heart)
-
 [Vote](https://www.npmjs.com/package/vote)
 
 [Instance](https://www.npmjs.com/package/instance)
@@ -1908,3 +1906,5 @@
 [Connections](https://www.npmjs.com/package/connections)
 
 [Snitch](https://www.npmjs.com/package/snitch)
+
+[Heart](https://www.npmjs.com/package/heart)
