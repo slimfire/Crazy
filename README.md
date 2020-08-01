@@ -1380,8 +1380,6 @@
 
 [Fight](https://www.npmjs.com/package/fight)
 
-[Belong](https://www.npmjs.com/package/belong)
-
 [Messages](https://www.npmjs.com/package/messages)
 
 [Bombard](https://www.npmjs.com/package/bombard)
@@ -1391,8 +1389,6 @@
 [Team](https://www.npmjs.com/package/team)
 
 [Experiment](https://www.npmjs.com/package/experiment)
-
-[Attacks](https://www.npmjs.com/package/attacks)
 
 [RGB](https://www.npmjs.com/package/RGB)
 
@@ -1859,6 +1855,38 @@
 
 [Then](https://www.npmjs.com/package/then)
 
+[selfdealing](https://www.npmjs.com/package/selfdealing)
+
+[Combat](https://www.npmjs.com/package/combat)
+
+[Sleep](https://www.npmjs.com/package/sleep)
+
+[harassment](https://www.npmjs.com/package/harassment)
+
+[Fam](https://www.npmjs.com/package/fam)
+
+[Ours](https://www.npmjs.com/package/ours)
+
+[Split](https://www.npmjs.com/package/split)
+
+[Dictation](https://www.npmjs.com/package/dictation)
+
+[Connections](https://www.npmjs.com/package/connections)
+
+[Snitch](https://www.npmjs.com/package/snitch)
+
+[Heart](https://www.npmjs.com/package/heart)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Instance](https://www.npmjs.com/package/instance)
+
+[Team](https://www.npmjs.com/package/team)
+
+[Belong](https://www.npmjs.com/package/belong)
+
+[Yours](https://www.npmjs.com/package/yours)
+
 [Split](https://www.npmjs.com/package/split)
 
 [Then](https://www.npmjs.com/package/then)
@@ -1879,32 +1907,4 @@
 
 [Experiment](https://www.npmjs.com/package/experiment)
 
-[selfdealing](https://www.npmjs.com/package/selfdealing)
-
-[Combat](https://www.npmjs.com/package/combat)
-
-[Sleep](https://www.npmjs.com/package/sleep)
-
-[harassment](https://www.npmjs.com/package/harassment)
-
-[Fam](https://www.npmjs.com/package/fam)
-
-[Ours](https://www.npmjs.com/package/ours)
-
-[Split](https://www.npmjs.com/package/split)
-
-[Dictation](https://www.npmjs.com/package/dictation)
-
-[Vote](https://www.npmjs.com/package/vote)
-
-[Instance](https://www.npmjs.com/package/instance)
-
-[Team](https://www.npmjs.com/package/team)
-
-[Yours](https://www.npmjs.com/package/yours)
-
-[Connections](https://www.npmjs.com/package/connections)
-
-[Snitch](https://www.npmjs.com/package/snitch)
-
-[Heart](https://www.npmjs.com/package/heart)
+[Attacks](https://www.npmjs.com/package/attacks)
