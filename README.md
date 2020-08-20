@@ -1908,3 +1908,7 @@
 [Experiment](https://www.npmjs.com/package/experiment)
 
 [Attacks](https://www.npmjs.com/package/attacks)
+
+[wifi](https://www.npmjs.com/package/wifi)
+
+[yours](https://www.npmjs.com/package/yours)
