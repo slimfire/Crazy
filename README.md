@@ -1,5 +1,9 @@
 ### A list of interesting javascript libraries
 
+[Intro](https://www.npmjs.com/package/intro)
+
+[Yours](https://www.npmjs.com/package/yours)
+
 [Lessons](https://www.npmjs.com/package/browser-lessons)
 
 [Handshake](https://www.npmjs.com/package/handshake)
@@ -1508,9 +1512,8 @@
 
 [Politics](https://www.npmjs.com/package/politics)
 
-[Yours](https://www.npmjs.com/package/yours)
-
 [RGB](https://www.npmjs.com/package/rgb)
+
 [Comfort](https://www.npmjs.com/package/comfort)
 
 [Hero](https://www.npmjs.com/package/hero)
