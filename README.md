@@ -1,8 +1,10 @@
 ### A list of interesting javascript libraries
 
-[Intro](https://www.npmjs.com/package/intro)
+[Tunnel](https://www.npmjs.com/package/tunnel)
 
 [Yours](https://www.npmjs.com/package/yours)
+
+[Intro](https://www.npmjs.com/package/intro)
 
 [Lessons](https://www.npmjs.com/package/browser-lessons)
 
@@ -1285,8 +1287,6 @@
 [Ireland](https://www.npmjs.com/package/ireland)
 
 [Lion](https://www.npmjs.com/package/lion)
-
-[Tunnel](https://www.npmjs.com/package/tunnel)
 
 [Massive](https://www.npmjs.com/package/massive)
 
