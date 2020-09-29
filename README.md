@@ -1,10 +1,10 @@
 ### A list of interesting javascript libraries
 
-[Tunnel](https://www.npmjs.com/package/tunnel)
+[Intro](https://www.npmjs.com/package/intro)
 
 [Yours](https://www.npmjs.com/package/yours)
 
-[Intro](https://www.npmjs.com/package/intro)
+[Tunnel](https://www.npmjs.com/package/tunnel)
 
 [Lessons](https://www.npmjs.com/package/browser-lessons)
 
