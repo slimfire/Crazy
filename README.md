@@ -2,7 +2,12 @@
 
 [Intro](https://www.npmjs.com/package/intro)
 
+[Public](https://www.npmjs.com/package/public)
+
+[Contact](https://www.npmjs.com/package/contact)
+
 [Yours](https://www.npmjs.com/package/yours)
+
 
 [Tunnel](https://www.npmjs.com/package/tunnel)
 
