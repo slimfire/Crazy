@@ -1,13 +1,16 @@
 ### A list of interesting javascript libraries
 
+[Vote](https://www.npmjs.com/package/vote)
+
+[Leader](https://www.npmjs.com/package/leader)
+
+[Yours](https://www.npmjs.com/package/yours)
+
 [Intro](https://www.npmjs.com/package/intro)
 
 [Public](https://www.npmjs.com/package/public)
 
 [Contact](https://www.npmjs.com/package/contact)
-
-[Yours](https://www.npmjs.com/package/yours)
-
 
 [Tunnel](https://www.npmjs.com/package/tunnel)
 
