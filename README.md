@@ -1,7 +1,5 @@
 ### A list of interesting javascript libraries
 
-[Vote](https://www.npmjs.com/package/vote)
-
 [Leader](https://www.npmjs.com/package/leader)
 
 [Yours](https://www.npmjs.com/package/yours)
@@ -1510,8 +1508,6 @@
 
 [Yellow](https://www.npmjs.com/package/yellow)
 
-[Manager](https://www.npmjs.com/package/manager)
-
 [Duo](https://www.npmjs.com/package/duo)
 
 [Vote](https://www.npmjs.com/package/vote)
@@ -1923,3 +1919,9 @@
 [wifi](https://www.npmjs.com/package/wifi)
 
 [yours](https://www.npmjs.com/package/yours)
+
+[Vote](https://www.npmjs.com/package/vote)
+
+[Manager](https://www.npmjs.com/package/manager)
+
+[Dislike](https://www.npmjs.com/package/dislike)
